@@ -1,4 +1,4 @@
-# suf-cg: PDFs dos CPC
+# suf-cg: PDFs dos CPC (tentativa 2)
 sufcg/cpc01.pdf https://www.cpc.org.br/Arquivos/Documentos/27_CPC_01_R1_rev%2021_ComAVISO.pdf
 sufcg/cpc02.pdf https://www.cpc.org.br/Arquivos/Documentos/62_CPC_02_R2_rev%2027_ComAVISO.pdf
 sufcg/cpc03.pdf https://www.cpc.org.br/Arquivos/Documentos/183_CPC_03_R2_rev%2024.pdf

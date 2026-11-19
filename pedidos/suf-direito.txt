@@ -1,0 +1,5 @@
+# suf-direito leis de memória (19/11/2026)
+sufdir2/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+sufdir2/l12506.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm
+sufdir2/l8213.htm https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+sufdir2/l9784.htm https://www.planalto.gov.br/ccivil_03/leis/l9784.htm

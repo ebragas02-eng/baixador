@@ -1,0 +1,3 @@
+sufpub4/mcasp11.pdf https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/51045_2434252/MCASP%20-%2011%C2%AA%20Edi%C3%A7%C3%A3o.pdf
+sufpub4/port26.pdf https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/51045_2434252/anexos/24157_782297/Port__Conj__STN_SOF_n_%C2%BA_26_18_12_2024.pdf
+sufpub4/sintese11.pdf https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/51045_2434252/anexos/24160_1518848/S%C3%ADntese%20de%20Altera%C3%A7%C3%B5es%20do%20MCASP%2011%C2%AA%20Edi%C3%A7%C3%A3o.pdf

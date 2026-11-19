@@ -1,9 +1,4 @@
-# suf-teoria: normas 2 (de novo)
-sufteo/tds01.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/NBCTDS01&arquivo=NBCTDS_01.doc
-sufteo/tds02.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/NBCTDS02&arquivo=NBCTDS_02.doc
-sufteo/tg16.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2017/NBCTG16(R2)&arquivo=NBCTG16(R2).doc
-sufteo/res1328.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2011/001328&arquivo=Res_1328.doc
-sufteo/res1328.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2011/001328
-sufteo/l12846.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm
-sufteo/d11129.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11129.htm
-sufteo/tspec.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTSPEC
+# suf-cg: listagens 2
+sufcg/nbc_tg_gerais.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tg-gerais/
+sufcg/cpc_pron.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos
+sufcg/l6404.html https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm

@@ -1,8 +1,0 @@
-sufpub3/mcasp11.html https://thot-arquivos.tesouro.gov.br/publicacao/51045
-sufpub3/sintese11.html https://thot-arquivos.tesouro.gov.br/publicacao-anexo/24160
-sufpub3/port26.html https://thot-arquivos.tesouro.gov.br/publicacao-anexo/24157
-sufpub3/tspec_r1.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTSP_Estrutura(R1).pdf
-sufpub3/tspec_r1b.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTSPEC(R1).PDF
-sufpub3/tas5000.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTAS5000.pdf
-sufpub3/tsp08r1.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTSP08(R1).pdf
-sufpub3/ta700.pdf https://cfc.org.br/wp-content/uploads/2026/06/NBCTA700.pdf

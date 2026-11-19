@@ -1,0 +1,172 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	SRE - Sistema de Resoluções
+</title></head>
+<body style="background-color: #ffffff">
+    <form method="post" action="./detalhes_sre.aspx?Codigo=2011%2f001328&amp;arquivo=Res_1328.doc" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/sisweb/sre/WebResource.axd?d=BoDVHVSXnTFVmhHE4vTPcPAgrMLhp-f04dBGVS5xK1YbI1uAlOxEuiBtLVLaNwrtMInjxTvY1WP7vXSdLw0HkAJAXRcG4Cb0fnuUihs6Mp81&amp;t=638901428248157332" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E6524D1B" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="S6z-odo4dOn8LQSTDPmXkEdz5dNGl29tr26k_Boe-xb_AmLT3AFs5aESLaD0iT3qJDk6NnLO6JV98Zago7l-PWp_-pED_LOJnyHpGQKeFnaj13i5sxJ3rv2UUYFzNiqL0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="QjXVnuu1kw1R5C07QL3dTRjmGzuVj7FkKMh00fcPNqvKF7IhJI9WiR8mlfbLL9SW+Orb3giP78p6Csi6P0LpIuZCTkGQpkXtc2eQMwvIdNZAG7N1jjHt9xRCEksyUy0cpefhJJNFImQjoKWfuqDJGA==" />
+</div>
+    <div align="center">
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+            <tr>
+                <td colspan="2" style="height: 45px; text-align: center;">
+                    <img src="Imagens/logoCFC.png" />&nbsp;
+                    <table align="center" background="images/bg_grey_transp_claro2.gif" bgcolor="#ffffff"
+                        border="0" width="680">
+                        <tr>
+                            <td align="middle" class="Titulo2" style="height: 19px">
+                                <span style="color: maroon; font-family: Verdana"><strong>Resoluções e Ementas do CFC</strong></span></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 34px">
+                </td>
+                <td style="width: 983px">
+        
+
+<div align="center"><br />
+    <table style="position: static">
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_DetailsView1" style="color:#333333;font-family:Verdana;font-size:8pt;height:27px;width:778px;border-collapse:collapse;">
+		<tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">N&#250;mero da resolu&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">2011/001328</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Descri&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">Estrutura das Normas Brasileiras de Contabilidade.</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Data de Publica&#231;&#227;o no Di&#225;rio Oficial da Uni&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">22/03/2011</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o em vigor:</td><td align="left" valign="middle" style="font-weight:normal;">SIM</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi alterada:</td><td align="left" valign="middle" style="font-weight:normal;">SIM</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi revogada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Ementa:</td><td align="left" valign="middle" style="font-weight:normal;">Disp&#245;e sobre a Estrutura das Normas Brasileiras de Contabilidade.</td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_GridView2" style="color:#333333;font-family:Verdana;font-size:8pt;width:780px;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
+			<th align="left" valign="middle" scope="col">Esta Resolução revogou a(s) seguinte(s) Resolução(ões):</th>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2010/001298">2010/001298 - Estrutura das Normas Brasileiras de Contabilidade - D.O.U de 21/09/2010</a></td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_GridView4" style="color:#333333;font-family:Verdana;font-size:8pt;width:781px;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
+			<th align="left" valign="middle" scope="col">Esta Resolução foi alterada pela(s) seguinte(s) Resolução(ões):</th>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2024/001753">2024/001753 - Alteração da estrutura das NBCs e o art. da Res CFC nº 1.601 - D.O.U de 23/12/2024</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2023/001710">2023/001710 - RESOLUÇÃO CFC Nº 1.710, DE 25 DE OUTUBRO DE 2023. - D.O.U de 03/11/2023</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2020/001601">2020/001601 - Altera o inciso IX do Art. 4º da Res CFC n.º 1.328/2011 - D.O.U de 30/09/2020</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2018/001548">2018/001548 - Revoga inc. IV do Art.7º e acresc. o Art.7-A à Res.1.328/11. - D.O.U de 22/08/2018</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2013/001443">2013/001443 - Cria o inciso IV do Art. 7º da Resolução CFC nº 1.328/11 - D.O.U de 25/04/2013</a></td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+    </table>
+    <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato DOC, clique no link a seguir: </span>
+    <a id="ContentPlaceHolder1_link" href="https://www1.cfc.org.br/sisweb/SRE/docs/Res_1328.doc" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+     <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato PDF, clique no link a seguir:
+         <a id="ContentPlaceHolder1_linkpdf" href="https://www1.cfc.org.br/sisweb/SRE/docs/Res_1328.pdf" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a></span>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+    &nbsp;<br />
+    <input language="JavaScript" name="Go Back!" onclick="javascript:window.history.back(1)"
+        style="width: 86px; font-size: 10pt; font-family: verdana;" type="button" value="Voltar" />&nbsp;
+    ||&nbsp;
+    <input type="submit" name="ctl00$ContentPlaceHolder1$Button1" value="Principal" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$Button1&quot;, &quot;&quot;, false, &quot;&quot;, &quot;Default.aspx&quot;, false, false))" id="ContentPlaceHolder1_Button1" style="font-family:Verdana;font-size:10pt;width:89px;" /><br />
+    <br />
+    <br />
+</div>    
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: white; text-align: center">
+                    <span style="font-size: 8pt; font-family: Verdana; background-color: lightgrey"><strong>
+                        <span style="color: maroon"><span style="background-color: white">CFC/DEINF - Departamento
+                            de </span><span style="background-color: white">Informática</span></span></strong></span></td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

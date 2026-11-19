@@ -1,0 +1,152 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	SRE - Sistema de Resoluções
+</title></head>
+<body style="background-color: #ffffff">
+    <form method="post" action="./detalhes_sre.aspx?Codigo=2024%2fNBCTDS02&amp;arquivo=NBCTDS_02.doc" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/sisweb/sre/WebResource.axd?d=BoDVHVSXnTFVmhHE4vTPcPAgrMLhp-f04dBGVS5xK1YbI1uAlOxEuiBtLVLaNwrtMInjxTvY1WP7vXSdLw0HkAJAXRcG4Cb0fnuUihs6Mp81&amp;t=638901428248157332" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E6524D1B" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="S6z-odo4dOn8LQSTDPmXkEdz5dNGl29tr26k_Boe-xb_AmLT3AFs5aESLaD0iT3qJDk6NnLO6JV98Zago7l-PWp_-pED_LOJnyHpGQKeFnaj13i5sxJ3rv2UUYFzNiqL0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="gjL8B0LQzsIin3mbrsC4ui8I7i+5jFWv64L8ZJFumzD2errzqVNLkTVpgjO6UCx8xj+i9vPhFMWS7VNySvLn4Sya6ZI2IPydmt9AOW0PQvgIrJgwzR2R3Yy0pQ53RctgwswNEaRwB/xL5bqdoh8dIA==" />
+</div>
+    <div align="center">
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+            <tr>
+                <td colspan="2" style="height: 45px; text-align: center;">
+                    <img src="Imagens/logoCFC.png" />&nbsp;
+                    <table align="center" background="images/bg_grey_transp_claro2.gif" bgcolor="#ffffff"
+                        border="0" width="680">
+                        <tr>
+                            <td align="middle" class="Titulo2" style="height: 19px">
+                                <span style="color: maroon; font-family: Verdana"><strong>Resoluções e Ementas do CFC</strong></span></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 34px">
+                </td>
+                <td style="width: 983px">
+        
+
+<div align="center"><br />
+    <table style="position: static">
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_DetailsView1" style="color:#333333;font-family:Verdana;font-size:8pt;height:27px;width:778px;border-collapse:collapse;">
+		<tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">N&#250;mero da resolu&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">2024/NBCTDS02</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Descri&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova a NBC TDS 02 - Divulga&#231;&#245;es Relacionadas ao Clima.</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Data de Publica&#231;&#227;o no Di&#225;rio Oficial da Uni&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">29/10/2024</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o em vigor:</td><td align="left" valign="middle" style="font-weight:normal;">SIM</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi alterada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi revogada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Ementa:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova a NBC TDS 02 - Divulga&#231;&#245;es Relacionadas ao Clima.</td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+    </table>
+    <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato DOC, clique no link a seguir: </span>
+    <a id="ContentPlaceHolder1_link" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCTDS_02.doc" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+     <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato PDF, clique no link a seguir:
+         <a id="ContentPlaceHolder1_linkpdf" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCTDS_02.pdf" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a></span>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+    &nbsp;<br />
+    <input language="JavaScript" name="Go Back!" onclick="javascript:window.history.back(1)"
+        style="width: 86px; font-size: 10pt; font-family: verdana;" type="button" value="Voltar" />&nbsp;
+    ||&nbsp;
+    <input type="submit" name="ctl00$ContentPlaceHolder1$Button1" value="Principal" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$Button1&quot;, &quot;&quot;, false, &quot;&quot;, &quot;Default.aspx&quot;, false, false))" id="ContentPlaceHolder1_Button1" style="font-family:Verdana;font-size:10pt;width:89px;" /><br />
+    <br />
+    <br />
+</div>    
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: white; text-align: center">
+                    <span style="font-size: 8pt; font-family: Verdana; background-color: lightgrey"><strong>
+                        <span style="color: maroon"><span style="background-color: white">CFC/DEINF - Departamento
+                            de </span><span style="background-color: white">Informática</span></span></strong></span></td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

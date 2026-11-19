@@ -1,2 +1,4 @@
 # Um documento por linha: caminho/nome.ext URL
 # Só documentos públicos oficiais (leis, editais, normas, páginas de órgãos).
+# teste inicial 1
+teste/l9394.htm https://www.planalto.gov.br/ccivil_03/leis/l9394.htm

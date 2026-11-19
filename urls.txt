@@ -1,12 +1,14 @@
-# revisao oab penal 19/11 a
-rev/l15358.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm
-rev/l15397.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15397.htm
-rev/l15402.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15402.htm
-rev/cp.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
-rev/cpp.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
-rev/lep.htm https://www.planalto.gov.br/ccivil_03/leis/l7210.htm
-rev/l15384.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15384.htm
-rev/l15438.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15438.htm
-rev/l11343.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm
-rev/l8072.htm https://www.planalto.gov.br/ccivil_03/leis/l8072.htm
-rev/l11340.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm
+# suf-direito normas (19/11/2026, segunda tentativa)
+sufdir/lcp214.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm
+sufdir/lcp123.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm
+sufdir/lcp227.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm
+sufdir/ctn.htm https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+sufdir/cf.htm https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+sufdir/emendas.htm https://www.planalto.gov.br/ccivil_03/constituicao/quadro_emc.htm
+sufdir/lcps.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/quadro_lcp.htm
+sufdir/clt.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+sufdir/l14133.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm
+sufdir/l8137.htm https://www.planalto.gov.br/ccivil_03/leis/l8137.htm
+sufdir/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+sufdir/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+sufdir/acordo.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm

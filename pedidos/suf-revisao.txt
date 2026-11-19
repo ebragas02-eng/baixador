@@ -1,8 +1,0 @@
-# suf-revisao lote 2 19/11
-sufrev2/cpc_pron.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos
-sufrev2/lst_tg.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tg-gerais/
-sufrev2/lst_tg2.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/normas-completas/
-sufrev2/tg18.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG18(R3).pdf
-sufrev2/tg12.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG12(R1).pdf
-sufrev2/tg29.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG29(R2).pdf
-sufrev2/pg12.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG12(R5).pdf

@@ -1,0 +1,166 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	SRE - Sistema de Resoluções
+</title></head>
+<body style="background-color: #ffffff">
+    <form method="post" action="./detalhes_sre.aspx?Codigo=2019%2fNBCPG01&amp;arquivo=NBCPG01.doc" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/sisweb/sre/WebResource.axd?d=BoDVHVSXnTFVmhHE4vTPcPAgrMLhp-f04dBGVS5xK1YbI1uAlOxEuiBtLVLaNwrtMInjxTvY1WP7vXSdLw0HkAJAXRcG4Cb0fnuUihs6Mp81&amp;t=638901428248157332" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E6524D1B" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="S6z-odo4dOn8LQSTDPmXkEdz5dNGl29tr26k_Boe-xb_AmLT3AFs5aESLaD0iT3qJDk6NnLO6JV98Zago7l-PWp_-pED_LOJnyHpGQKeFnaj13i5sxJ3rv2UUYFzNiqL0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="1oGYc31aYKLo3EDIK/he2U/XuQBAxuy3ApiZuTZSZVxkwFxTqli8mGR5HU5uznSx0BTJ6Rd4Avk/rXhmljF3OYGVykJ7NwvEDX/LF/Ci5SkyofTwiNH+C7sqiwISwjGhJsetfl09bq8GerlORcwBPQ==" />
+</div>
+    <div align="center">
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+            <tr>
+                <td colspan="2" style="height: 45px; text-align: center;">
+                    <img src="Imagens/logoCFC.png" />&nbsp;
+                    <table align="center" background="images/bg_grey_transp_claro2.gif" bgcolor="#ffffff"
+                        border="0" width="680">
+                        <tr>
+                            <td align="middle" class="Titulo2" style="height: 19px">
+                                <span style="color: maroon; font-family: Verdana"><strong>Resoluções e Ementas do CFC</strong></span></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 34px">
+                </td>
+                <td style="width: 983px">
+        
+
+<div align="center"><br />
+    <table style="position: static">
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_DetailsView1" style="color:#333333;font-family:Verdana;font-size:8pt;height:27px;width:778px;border-collapse:collapse;">
+		<tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">N&#250;mero da resolu&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">2019/NBCPG01</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Descri&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova a NBC PG 01-C&#243;digo de &#201;tica Profissional do Contador</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Data de Publica&#231;&#227;o no Di&#225;rio Oficial da Uni&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">14/02/2019</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o em vigor:</td><td align="left" valign="middle" style="font-weight:normal;">SIM</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi alterada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi revogada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Ementa:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova a NBC PG 01 - C&#243;digo de &#201;tica Profissional do Contador.</td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_GridView2" style="color:#333333;font-family:Verdana;font-size:8pt;width:780px;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
+			<th align="left" valign="middle" scope="col">Esta Resolução revogou a(s) seguinte(s) Resolução(ões):</th>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2010/001307">2010/001307 - Altera dispositivos da Resolução CFC n° 803/96 - D.O.U de 14/12/2010</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2002/000950">2002/000950 - Alteração do CEPC - D.O.U de 16/12/2002</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2002/000942">2002/000942 - Alteração do CEPC - D.O.U de 04/09/2002</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=1997/000819">1997/000819 - Recurso ex officio processo ético. - D.O.U de 13/01/1997</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=1996/000803">1996/000803 - Código de Ética - D.O.U de 20/11/1996</a></td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+    </table>
+    <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato DOC, clique no link a seguir: </span>
+    <a id="ContentPlaceHolder1_link" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG01.doc" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+     <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato PDF, clique no link a seguir:
+         <a id="ContentPlaceHolder1_linkpdf" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG01.pdf" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a></span>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+    &nbsp;<br />
+    <input language="JavaScript" name="Go Back!" onclick="javascript:window.history.back(1)"
+        style="width: 86px; font-size: 10pt; font-family: verdana;" type="button" value="Voltar" />&nbsp;
+    ||&nbsp;
+    <input type="submit" name="ctl00$ContentPlaceHolder1$Button1" value="Principal" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$Button1&quot;, &quot;&quot;, false, &quot;&quot;, &quot;Default.aspx&quot;, false, false))" id="ContentPlaceHolder1_Button1" style="font-family:Verdana;font-size:10pt;width:89px;" /><br />
+    <br />
+    <br />
+</div>    
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: white; text-align: center">
+                    <span style="font-size: 8pt; font-family: Verdana; background-color: lightgrey"><strong>
+                        <span style="color: maroon"><span style="background-color: white">CFC/DEINF - Departamento
+                            de </span><span style="background-color: white">Informática</span></span></strong></span></td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

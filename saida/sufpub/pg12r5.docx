@@ -1,0 +1,174 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	SRE - Sistema de Resoluções
+</title></head>
+<body style="background-color: #ffffff">
+    <form method="post" action="./detalhes_sre.aspx?Codigo=2025%2fNBCPG12(R5)&amp;arquivo=NBCPG12(R5).docx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/sisweb/sre/WebResource.axd?d=BoDVHVSXnTFVmhHE4vTPcPAgrMLhp-f04dBGVS5xK1YbI1uAlOxEuiBtLVLaNwrtMInjxTvY1WP7vXSdLw0HkAJAXRcG4Cb0fnuUihs6Mp81&amp;t=638901428248157332" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E6524D1B" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="S6z-odo4dOn8LQSTDPmXkEdz5dNGl29tr26k_Boe-xb_AmLT3AFs5aESLaD0iT3qJDk6NnLO6JV98Zago7l-PWp_-pED_LOJnyHpGQKeFnaj13i5sxJ3rv2UUYFzNiqL0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="o7rR0c5jW5NuXpEyKCASD0kWBPtMS1SOzuEPA0Usa14ifnw+45cmVOa8BJJVx0F/BWEcm5F08SyM7c5O+IOd6Nq2iXepUl9hFlt7ebD/BOONs1qsN3QdkbREkgb3wdFQMBUwa0Kc4lx9hd0NX6mGiw==" />
+</div>
+    <div align="center">
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+            <tr>
+                <td colspan="2" style="height: 45px; text-align: center;">
+                    <img src="Imagens/logoCFC.png" />&nbsp;
+                    <table align="center" background="images/bg_grey_transp_claro2.gif" bgcolor="#ffffff"
+                        border="0" width="680">
+                        <tr>
+                            <td align="middle" class="Titulo2" style="height: 19px">
+                                <span style="color: maroon; font-family: Verdana"><strong>Resoluções e Ementas do CFC</strong></span></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 34px">
+                </td>
+                <td style="width: 983px">
+        
+
+<div align="center"><br />
+    <table style="position: static">
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_DetailsView1" style="color:#333333;font-family:Verdana;font-size:8pt;height:27px;width:778px;border-collapse:collapse;">
+		<tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">N&#250;mero da resolu&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">2025/NBCPG12(R5)</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Descri&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova NBC PG 12 (R5), que trata de EPC</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Data de Publica&#231;&#227;o no Di&#225;rio Oficial da Uni&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">16/12/2025</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o em vigor:</td><td align="left" valign="middle" style="font-weight:normal;">SIM</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi alterada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi revogada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Ementa:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova NBC PG 12 (R5), que trata de Educa&#231;&#227;o Profissional Continuada (EPC). </td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_GridView2" style="color:#333333;font-family:Verdana;font-size:8pt;width:780px;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
+			<th align="left" valign="middle" scope="col">Esta Resolução revogou a(s) seguinte(s) Resolução(ões):</th>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2023/NBCPG12(R4)">2023/NBCPG12(R4) - NORMA BRASILEIRA DE CONTABILIDADE, NBC PG 12 (R4), DE 07 DE - D.O.U de 19/12/2023</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2020/REVISAONBC08">2020/REVISAONBC08 - Aprova a Revisão NBC 08. - D.O.U de 24/12/2020</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2019/REVISAONBC05">2019/REVISAONBC05 - Revisão NBC 05, que altera a NBC PG 12 (R3) - D.O.U de 17/12/2019</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2018/REVISAONBC02">2018/REVISAONBC02 - Altera a NBCPG12 (R3)  Educação Prof. Continuada. - D.O.U de 12/12/2018</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2017/NBCPG12(R3)">2017/NBCPG12(R3) - Altera a NBC PG 12 (R2) - Educação profissional continuada - D.O.U de 07/12/2017</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2016/NBCPG12(R2)">2016/NBCPG12(R2) - Altera a NBCPG12 (R1) - D.O.U de 21/12/2016</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2015/NBCPG12(R1)">2015/NBCPG12(R1) - Altera a NBC PG 12 - D.O.U de 21/12/2015</a></td>
+		</tr><tr style="color:#284775;background-color:#F7F6F3;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2014/NBCPG12">2014/NBCPG12 - Aprova a NBC PG 12 - D.O.U de 08/12/2014</a></td>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo="> -  - D.O.U de </a></td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+    </table>
+    <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato DOC, clique no link a seguir: </span>
+    <a id="ContentPlaceHolder1_link" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG12(R5).docx" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+     <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato PDF, clique no link a seguir:
+         <a id="ContentPlaceHolder1_linkpdf" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG12(R5).pdf" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a></span>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+    &nbsp;<br />
+    <input language="JavaScript" name="Go Back!" onclick="javascript:window.history.back(1)"
+        style="width: 86px; font-size: 10pt; font-family: verdana;" type="button" value="Voltar" />&nbsp;
+    ||&nbsp;
+    <input type="submit" name="ctl00$ContentPlaceHolder1$Button1" value="Principal" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$Button1&quot;, &quot;&quot;, false, &quot;&quot;, &quot;Default.aspx&quot;, false, false))" id="ContentPlaceHolder1_Button1" style="font-family:Verdana;font-size:10pt;width:89px;" /><br />
+    <br />
+    <br />
+</div>    
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: white; text-align: center">
+                    <span style="font-size: 8pt; font-family: Verdana; background-color: lightgrey"><strong>
+                        <span style="color: maroon"><span style="background-color: white">CFC/DEINF - Departamento
+                            de </span><span style="background-color: white">Informática</span></span></strong></span></td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

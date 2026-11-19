@@ -1,0 +1,158 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	SRE - Sistema de Resoluções
+</title></head>
+<body style="background-color: #ffffff">
+    <form method="post" action="./detalhes_sre.aspx?Codigo=2025%2fNBCTSP18(R1)&amp;arquivo=NBCTSP18(R1).docx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="93F0vGHuh7X95deAFOHxudLYsAGteh6R4SiuR5YFFHfdUiIJYmLNeVvb+LLa4pdY7QFCCC4WAVwoMPu7El20RMg5MG15EzJs3wTVJw3UYwl9BvyoOFxRQWCl++BVH7ZQF/khqAmIAPe5pn1dCzOKSPRn7gkvuXdv6ZcJ2YlNM6a2xid2v9xhb3Im7TYJWgQA5jvHoGKKMYmPsvpsbopBIqMoFITQ+tImPe6HHPAXQtgYRld+/QfBE3PqlsScMba//FlZxgS0zjUrw3skmGNprYgheVR+PpVwkT4m22gRcAX7nEumFm7Nh+l1YhWjDGkABD+I94Qr0v5/Y6XdJ4ak9DkJWNsY8hHc6HDy0duWF8WTddeB3xKegp+A+zH6TvaDhISPiMFpqI0YMyDi0E/R+puAfpctbYQe1BA0XIRI5q9RDJUBHaINoq3z5FNJ9UZWzj4KjNZIDzbP/0iBvdUIpzT67BOkUHsgOEW5sqrADMTTSzGE91Cplp8gP5xMOyTIffJto2qsRpB5rgNGKiN7cL3i8ZJXOKNb9JQ930JIfqVXa0O132rw05UuDT9vK44EOcwCYpdQKGfJYBz6SDPDjmuEjBHQAcROiqUDkSm50YE1qPGLmklCyotlfVNASkEjhVsl4DZhosLhFLUZJtlsWgbhrv9SYpf5btjnJLsrCS2hctTYCvfDXVUvg2PNL0UfxcRHr9XzXKThlkpzuFUMpY2er5hI8nyX4vz6Vf/+56WFsR4J907G2ZoqADMeE987KrTo/PRt2muSXtp4uDOZ8kWSPsivhERETSlLtMHG2rrCpGh1VIJhH5pFww2XTdAjw6oTsnZnAEygBBtwdJRMpDfd+xsp+pyQxaCdiScChdAvHyuBzaiP4RL16LyCZVUVgagtL16h+K3pSnnzMHm36ef5gRXSu/Y5SP212MrdjMTLhJzhxcWjuTvRVBN9oMOUkHsll25myfAYmyA1ijZ7dKADXeo2IOLq4FKLvNRNoURBCstWVKoIAjnS1mIGZCpAFJehOe7zbKBKsIP10T+7CvxrrD6qaRSTXmxdZRwTWv8VQOflSNvaNbm7fM5gqRO1TSP9isgCi8XFHUYpolEYopHfK0Cko9BjD6lg4lm1c7+gn4qPqQ5ChXCane2QItdBlKXaGHlzt5e527+o/3OSs/7rgdfy0m+cgWq6lXJhYaxPg3j8HwBO3l6IB+AM7KOMjGtfx5/e5otvHWeN7IpIETuE/dSsNfgs5OiIgUP1uUQyDD4TS4HkP1ghjhENrAxuLAp2fu5YBq5JqiqP84IGtZnwMNcuUaaBP1TRbMzaulMguPJQosSbNNqeMVoTkU2BQHDyqgU3Advx2ULbGMmYDz65/yDGjCpCHja2M4An8oYo4ZUyBWCsCohoXl1qw2ABw663PzSy2d5f/Xk31KyWcD2MGadRLh5uIRBpLQq6EqBWYfMYqSSWGbSn03XOrONnO00oawdTmvbQno+7llQjsA1rPWwu7Maon1Z2rJx/REFHL/+Uwaptx8yiiF29TPbMzLARJTfnlKm5vskELFkXH28KOj1XxjuYBS0PExFqpZ2Wf3Kzxv5usP3kTkdaZwvXndF384iEceA5SR/8KYEZDyqPBqrGFzgDqyeABkox2su+xWDobFEkJjRHsytCoYr4QXfYXWXTQbkfXYY1lPV1h6GHntdzC8qJ88tMNzGW3RmMpWLVoVQB9Qx+B7n/jTLWOCynVixBJDbZtUQoOsLUX8/8vxXxFjFcC/Qu2DsTCbv0fPkt/c8bWY2tC7XYirreSEIvkMydtdA0SwTGpIGQVB1iZVZDrvFK6W0Eu4oOFyHAWoDgS9MkQklSBe4WSBU4VCsHv4LGkC/Nn7oAR8YSumSz5U+RBYt10Kbx/hJUOa+IEi9aJtZDVaVPDP//DwXI77G37cQj/qHi8Bf0iFKoxx4u5NPI+WhdXU0AQMWORaMYBDeXIrzQzCOnuEBq5KzcCp+C3K5luE7ae6qymTBYcZaRCMq0NJxEqAdLlUiNj1uaxTuGypY+8LMtExe6gIIpWCOgAPJowu6bqHuupYz40FYoW39iWNY8/pfix36YRlPyLoSiEd2MuAnIuDV+XPf5vnWDNE5fJm3jYVtXLAiQ1Wdc9lum24A6Gt15ecLLGHqUpKNHvFhAgfAnqm0eGvJRxJBps5FdM8YNFT04/k7nFY5aSjJRIKuQLTuY/raQmat3ug4YbpsK1PLDAfJilmskHWq6AhGZ13uJukkBWzBO3r6j9Uhd7G/r1hJ/n5h/KUc9QARkRUKO/zgVFdvx8eikIGySeUIIg5fc6RsY9cVfVWXymwJYNsPpp1XH1ZFsJMQ=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/sisweb/sre/WebResource.axd?d=BoDVHVSXnTFVmhHE4vTPcPAgrMLhp-f04dBGVS5xK1YbI1uAlOxEuiBtLVLaNwrtMInjxTvY1WP7vXSdLw0HkAJAXRcG4Cb0fnuUihs6Mp81&amp;t=638901428248157332" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E6524D1B" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="S6z-odo4dOn8LQSTDPmXkEdz5dNGl29tr26k_Boe-xb_AmLT3AFs5aESLaD0iT3qJDk6NnLO6JV98Zago7l-PWp_-pED_LOJnyHpGQKeFnaj13i5sxJ3rv2UUYFzNiqL0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="o0Pp1bj2iDXsk3fvXAQH7zhDgO9s/E+B5X2tnsPuB3OhZ58J5zc6DPA1ydWt1H/E6HbAzrhkRPLGjIJGpAh6GR7RIsRMQOo9gu9I8r5+sSQyNFb2qE0X3vXhv/ylJCMLGKrow95ZNphlIpHCy55Clg==" />
+</div>
+    <div align="center">
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+            <tr>
+                <td colspan="2" style="height: 45px; text-align: center;">
+                    <img src="Imagens/logoCFC.png" />&nbsp;
+                    <table align="center" background="images/bg_grey_transp_claro2.gif" bgcolor="#ffffff"
+                        border="0" width="680">
+                        <tr>
+                            <td align="middle" class="Titulo2" style="height: 19px">
+                                <span style="color: maroon; font-family: Verdana"><strong>Resoluções e Ementas do CFC</strong></span></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 34px">
+                </td>
+                <td style="width: 983px">
+        
+
+<div align="center"><br />
+    <table style="position: static">
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_DetailsView1" style="color:#333333;font-family:Verdana;font-size:8pt;height:27px;width:778px;border-collapse:collapse;">
+		<tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">N&#250;mero da resolu&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">2025/NBCTSP18(R1)</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Descri&#231;&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova a NBC TSP 18 (R1) - Investimentos</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Data de Publica&#231;&#227;o no Di&#225;rio Oficial da Uni&#227;o:</td><td align="left" valign="middle" style="font-weight:normal;">17/03/2026</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o em vigor:</td><td align="left" valign="middle" style="font-weight:normal;">SIM</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi alterada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#284775;background-color:White;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Resolu&#231;&#227;o foi revogada:</td><td align="left" valign="middle" style="font-weight:normal;">NAO</td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td align="right" valign="middle" style="color:White;background-color:#5D7B9D;border-color:White;font-weight:bold;">Ementa:</td><td align="left" valign="middle" style="font-weight:normal;">Aprova a NBC TSP 18 (R1) – Investimento em Coligada e em Empreendimento Controlado em Conjunto. </td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+	<table cellspacing="0" cellpadding="4" id="ContentPlaceHolder1_GridView2" style="color:#333333;font-family:Verdana;font-size:8pt;width:780px;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
+			<th align="left" valign="middle" scope="col">Esta Resolução revogou a(s) seguinte(s) Resolução(ões):</th>
+		</tr><tr style="color:#333333;background-color:#DFE5F2;">
+			<td align="left" valign="middle"><a href="detalhes_sre.aspx?codigo=2018/NBCTSP18">2018/NBCTSP18 - Invest. em Coligada e Empreendimento Controlado em Conjunto - D.O.U de 31/10/2018</a></td>
+		</tr>
+	</table>
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 99px">
+    <div>
+
+</div>
+    
+            </td>
+        </tr>
+    </table>
+    <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato DOC, clique no link a seguir: </span>
+    <a id="ContentPlaceHolder1_link" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCTSP18(R1).docx" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+     <span style="font-size: 10pt; font-family: Verdana"> Para obter o arquivo completo da
+        resolução em formato PDF, clique no link a seguir:
+         <a id="ContentPlaceHolder1_linkpdf" href="https://www1.cfc.org.br/sisweb/SRE/docs/NBCTSP18(R1).pdf" style="font-family:Verdana;font-size:10pt;font-weight:bold;">Resolução</a></span>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;<br />
+    &nbsp;<br />
+    <input language="JavaScript" name="Go Back!" onclick="javascript:window.history.back(1)"
+        style="width: 86px; font-size: 10pt; font-family: verdana;" type="button" value="Voltar" />&nbsp;
+    ||&nbsp;
+    <input type="submit" name="ctl00$ContentPlaceHolder1$Button1" value="Principal" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$Button1&quot;, &quot;&quot;, false, &quot;&quot;, &quot;Default.aspx&quot;, false, false))" id="ContentPlaceHolder1_Button1" style="font-family:Verdana;font-size:10pt;width:89px;" /><br />
+    <br />
+    <br />
+</div>    
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: white; text-align: center">
+                    <span style="font-size: 8pt; font-family: Verdana; background-color: lightgrey"><strong>
+                        <span style="color: maroon"><span style="background-color: white">CFC/DEINF - Departamento
+                            de </span><span style="background-color: white">Informática</span></span></strong></span></td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

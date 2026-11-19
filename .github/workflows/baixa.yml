@@ -18,7 +18,7 @@ jobs:
           limite=$(date -d '7 days ago' +%s)
           git ls-files saida | grep -v '^saida/.gitkeep$' | while read -r f; do
             t=$(git log -1 --format=%ct -- "$f"); [ -n "$t" ] && [ "$t" -lt "$limite" ] && git rm -q -- "$f" && echo "apagado: $f"
-          done
+          done || true
           true
       - name: Baixa os documentos de urls.txt
         if: github.event_name != 'schedule'

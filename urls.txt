@@ -1,4 +1,4 @@
-# suf-publico normas (19/11/2026)
+# suf-publico normas (19/11/2026) nova tentativa
 sufpub/tspec_r1.docx https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2025/NBCTSPEC(R1)&arquivo=NBCTSP_Estrutura(R1).docx
 sufpub/tspec_r1.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2025/NBCTSPEC(R1)
 sufpub/tsp01.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTSP01&arquivo=NBCTSP01.doc

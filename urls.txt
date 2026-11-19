@@ -1,8 +1,5 @@
-# revisao oab penal 19/11 c
-rev/l15358.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm
-rev/l15397.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15397.htm
-rev/l15402.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15402.htm
-rev/cp.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
-rev/cpp.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
-rev/lep.htm https://www.planalto.gov.br/ccivil_03/leis/l7210.htm
-rev/l15384.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15384.htm
+# suf-cg: listagens 3
+sufcg/cpc_pron.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos
+sufcg/cvm_cpc.html https://conteudo.cvm.gov.br/legislacao/deliberacoes/cpc.html
+sufcg/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+sufcg/nbctg.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tg-gerais/

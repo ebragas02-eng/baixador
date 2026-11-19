@@ -1,0 +1,9 @@
+# oab-revisao2 lote 2
+oabrev2/emc141.htm https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm
+oabrev2/emc140.htm https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc140.htm
+oabrev2/emc139.htm https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc139.htm
+oabrev2/lcp227.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm
+oabrev2/lcp214.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm
+oabrev2/l8213.htm https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+oabrev2/l9504.htm https://www.planalto.gov.br/ccivil_03/leis/l9504.htm
+oabrev2/lc64.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm

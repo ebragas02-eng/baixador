@@ -2,7 +2,7 @@ name: baixa-url
 # Baixa os documentos listados em urls.txt ("caminho/nome.ext URL") para saida/ e grava com o commit "baixado".
 # Só documentos públicos oficiais. Arquivos de saida/ com mais de 7 dias são apagados a cada execução e uma vez por dia.
 on:
-  push: { branches: [main], paths: ['urls.txt'] }
+  push: { branches: [main], paths: ['urls.txt', 'pedidos/**'] }
   schedule: [{ cron: '41 6 * * *' }]   # limpeza diária
   workflow_dispatch:
 permissions: { contents: write }
@@ -32,7 +32,9 @@ jobs:
             curl -sSL --http1.1 --retry 6 --retry-all-errors --retry-delay 8 -m 300 --connect-timeout 30 \
               -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36" \
               -H "Accept-Language: pt-BR,pt;q=0.9" "$URL" -o "saida/$NOME" || { echo "FALHOU: $NOME $URL"; rm -f "saida/$NOME"; }
-          done < urls.txt
+          done < <(cat urls.txt; [ -d pedidos ] && cat pedidos/*.txt 2>/dev/null)
+          # pedidos/*.txt (um arquivo por agente) são processados e apagados: run cancelado na fila não perde o pedido
+          [ -d pedidos ] && git rm -q -r --ignore-unmatch pedidos/*.txt
           ls -laR saida
       - name: Grava
         run: |

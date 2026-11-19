@@ -13,3 +13,6 @@ Robô de downloads de documentos públicos oficiais e radar de concursos da ICEA
 - **Provas de bancas e materiais de terceiros não ficam guardados neste repositório.** Quem baixar um arquivo desse tipo deve apagá-lo de `saida/` logo depois do uso.
 - Todo arquivo em `saida/` com mais de 7 dias é apagado automaticamente (a cada execução e numa limpeza diária).
 - Nenhum segredo, dado pessoal ou código de produto é guardado aqui. O radar usa apenas o `GITHUB_TOKEN` do próprio repositório.
+
+## Fila de pedidos (20/11/2026)
+Vários agentes ao mesmo tempo: em vez de trocar o `urls.txt`, grave o pedido em `pedidos/<seu-ramo>.txt` (mesmo formato). Cada execução baixa o `urls.txt` e todos os `pedidos/*.txt` e apaga os pedidos atendidos; se um run for cancelado na fila, o próximo atende o pedido.

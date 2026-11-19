@@ -28,7 +28,10 @@ jobs:
           while read -r NOME URL; do
             [ -z "$NOME" ] && continue; case "$NOME" in \#*) continue;; esac
             case "$NOME" in /*|*..*) echo "nome recusado: $NOME"; continue;; esac
-            mkdir -p "saida/$(dirname "$NOME")"; curl -sSL --retry 3 -m 300 --connect-timeout 30 -A "Mozilla/5.0" "$URL" -o "saida/$NOME"
+            mkdir -p "saida/$(dirname "$NOME")"
+            curl -sSL --http1.1 --retry 6 --retry-all-errors --retry-delay 8 -m 300 --connect-timeout 30 \
+              -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36" \
+              -H "Accept-Language: pt-BR,pt;q=0.9" "$URL" -o "saida/$NOME" || { echo "FALHOU: $NOME $URL"; rm -f "saida/$NOME"; }
           done < urls.txt
           ls -laR saida
       - name: Grava

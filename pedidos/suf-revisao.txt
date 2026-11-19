@@ -1,18 +1,8 @@
-# suf-revisao lote 1 19/11
-sufrev/cf.htm https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
-sufrev/dl9295.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del9295.htm
-sufrev/pg01.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG01.pdf
-sufrev/pg100.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG100(R1).pdf
-sufrev/pg100b.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG100.pdf
-sufrev/pg200.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG200(R1).pdf
-sufrev/pg200b.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG200.pdf
-sufrev/pg300.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG300(R1).pdf
-sufrev/pg300b.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG300.pdf
-sufrev/pa400.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPA400.pdf
-sufrev/tg26.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG26(R5).pdf
-sufrev/tspec.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTSPEC.pdf
-sufrev/lst_pg.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-pg-geral/
-sufrev/lst_tsp.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tsp-do-setor-publico/
-sufrev/lst_pa.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-pa-de-auditoria-independente/
-sufrev/lst_ta.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-ta-de-auditoria-independente/
-sufrev/lst_tg.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tg-gerais/
+# suf-revisao lote 2 19/11
+sufrev2/cpc_pron.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos
+sufrev2/lst_tg.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tg-gerais/
+sufrev2/lst_tg2.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/normas-completas/
+sufrev2/tg18.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG18(R3).pdf
+sufrev2/tg12.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG12(R1).pdf
+sufrev2/tg29.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG29(R2).pdf
+sufrev2/pg12.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCPG12(R5).pdf

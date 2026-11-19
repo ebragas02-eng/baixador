@@ -1,4 +1,4 @@
-# Um documento por linha: caminho/nome.ext URL
-# Só documentos públicos oficiais (leis, editais, normas, páginas de órgãos).
-# teste inicial 2
-teste/l9394.htm https://www.planalto.gov.br/ccivil_03/leis/l9394.htm
+# suf-cg: listagens 1
+sufcg/nbc_tg_gerais.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tg-gerais/
+sufcg/cpc_pron.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos
+sufcg/l6404.html https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm

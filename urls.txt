@@ -1,10 +1,13 @@
-# oab-trabalho: busca de normas na Camara
-oabtrab/busca_4737.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=4737
-oabtrab/busca_9504.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=9504
-oabtrab/busca_9096.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=9096
-oabtrab/busca_13445.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=13445
-oabtrab/busca_9474.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=9474
-oabtrab/busca_13165.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=13165
-oabtrab/busca_lc64.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Complementar&numero=64
-oabtrab/busca_d7030.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Decreto&numero=7030
-oabtrab/l13445.html https://www2.camara.leg.br/legin/fed/lei/2017/lei-13445-24-maio-2017-784925-normaatualizada-pl.html
+# suf-direito normas (19/11/2026)
+sufdir/lcp214.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm
+sufdir/lcp123.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm
+sufdir/lcp227.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm
+sufdir/ctn.htm https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+sufdir/cf.htm https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
+sufdir/emendas.htm https://www.planalto.gov.br/ccivil_03/constituicao/quadro_emc.htm
+sufdir/lcps.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/quadro_lcp.htm
+sufdir/clt.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+sufdir/l14133.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm
+sufdir/l8137.htm https://www.planalto.gov.br/ccivil_03/leis/l8137.htm
+sufdir/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+sufdir/busca_lc214.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Complementar&numero=214

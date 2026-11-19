@@ -1,0 +1,20 @@
+# suf-cg: PDFs dos CPC
+sufcg/cpc01.pdf https://www.cpc.org.br/Arquivos/Documentos/27_CPC_01_R1_rev%2021_ComAVISO.pdf
+sufcg/cpc02.pdf https://www.cpc.org.br/Arquivos/Documentos/62_CPC_02_R2_rev%2027_ComAVISO.pdf
+sufcg/cpc03.pdf https://www.cpc.org.br/Arquivos/Documentos/183_CPC_03_R2_rev%2024.pdf
+sufcg/cpc04.pdf https://www.cpc.org.br/Arquivos/Documentos/187_CPC_04_R1_rev%2021.pdf
+sufcg/cpc06.pdf https://www.cpc.org.br/Arquivos/Documentos/533_CPC_06_R2_rev%2023.pdf
+sufcg/cpc09r1.pdf https://www.cpc.org.br/Arquivos/Documentos/632_CPC%2009%20R1.pdf
+sufcg/cpc09.pdf https://www.cpc.org.br/Arquivos/Documentos/175_CPC_09_rev%2014.pdf
+sufcg/cpc12r1.pdf https://www.cpc.org.br/Arquivos/Documentos/619_CPC%2012%20(R1)%20-%20Ajuste%20a%20Valor%20Presente.pdf
+sufcg/cpc15.pdf https://www.cpc.org.br/Arquivos/Documentos/235_CPC_15_R1_rev%2022.pdf
+sufcg/cpc18r3.pdf https://www.cpc.org.br/Arquivos/Documentos/650_CPC_18R3.pdf
+sufcg/cpc26.pdf https://www.cpc.org.br/Arquivos/Documentos/312_CPC_26_R1_rev%2023_ComAVISO.pdf
+sufcg/cpc27.pdf https://www.cpc.org.br/Arquivos/Documentos/316_CPC_27_rev%2022.pdf
+sufcg/cpc28.pdf https://www.cpc.org.br/Arquivos/Documentos/320_CPC_28_rev%2014.pdf
+sufcg/cpc29.pdf https://www.cpc.org.br/Arquivos/Documentos/324_CPC_29_Pronunciamento.pdf
+sufcg/cpc31.pdf https://www.cpc.org.br/Arquivos/Documentos/336_CPC_31_rev%2021_ComAVISO.pdf
+sufcg/cpc32.pdf https://www.cpc.org.br/Arquivos/Documentos/340_CPC_32_rev%2024.pdf
+sufcg/cpc36.pdf https://www.cpc.org.br/Arquivos/Documentos/448_CPC_36_R3_rev%2008_ComAVISO.pdf
+sufcg/cpc48.pdf https://www.cpc.org.br/Arquivos/Documentos/530_CPC_48_rev_19.pdf
+sufcg/cpc51.pdf https://www.cpc.org.br/Arquivos/Documentos/665_CPC%2051.pdf

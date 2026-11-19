@@ -1,14 +1,9 @@
-# suf-direito normas (19/11/2026, segunda tentativa)
-sufdir/lcp214.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm
-sufdir/lcp123.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm
-sufdir/lcp227.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm
-sufdir/ctn.htm https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
-sufdir/cf.htm https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
-sufdir/emendas.htm https://www.planalto.gov.br/ccivil_03/constituicao/quadro_emc.htm
-sufdir/lcps.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/quadro_lcp.htm
-sufdir/clt.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
-sufdir/l14133.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm
-sufdir/l8137.htm https://www.planalto.gov.br/ccivil_03/leis/l8137.htm
-sufdir/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
-sufdir/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
-sufdir/acordo.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm
+# suf-teoria: normas 2 (de novo)
+sufteo/tds01.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/NBCTDS01&arquivo=NBCTDS_01.doc
+sufteo/tds02.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/NBCTDS02&arquivo=NBCTDS_02.doc
+sufteo/tg16.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2017/NBCTG16(R2)&arquivo=NBCTG16(R2).doc
+sufteo/res1328.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2011/001328&arquivo=Res_1328.doc
+sufteo/res1328.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2011/001328
+sufteo/l12846.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm
+sufteo/d11129.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11129.htm
+sufteo/tspec.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTSPEC

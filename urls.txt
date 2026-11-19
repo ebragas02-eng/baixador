@@ -1,3 +1,5 @@
-# tjsp selic 2026-11-19b
-bcb/selic432.json https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/ultimos/5?formato=json
-bcb/copom.json https://www.bcb.gov.br/api/servico/sitebcb/copomcomunicados/ultimas?quantidade=3&filtro=
+# oabpub 1795121374
+oabpub/l15190.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15190.htm
+oabpub/lcp227.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm
+oabpub/ctn.htm https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+oabpub/oabfgv.html https://oab.fgv.br/home.aspx?key=651

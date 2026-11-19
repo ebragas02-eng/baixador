@@ -1,0 +1,2 @@
+# Um documento por linha: caminho/nome.ext URL
+# Só documentos públicos oficiais (leis, editais, normas, páginas de órgãos).

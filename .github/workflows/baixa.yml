@@ -1,0 +1,39 @@
+name: baixa-url
+# Baixa os documentos listados em urls.txt ("caminho/nome.ext URL") para saida/ e grava com o commit "baixado".
+# Só documentos públicos oficiais. Arquivos de saida/ com mais de 7 dias são apagados a cada execução e uma vez por dia.
+on:
+  push: { branches: [main], paths: ['urls.txt'] }
+  schedule: [{ cron: '41 6 * * *' }]   # limpeza diária
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: escrita-main, cancel-in-progress: false }
+jobs:
+  b:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Apaga de saida/ o que tem mais de 7 dias (pela data do último commit de cada arquivo)
+        run: |
+          limite=$(date -d '7 days ago' +%s)
+          git ls-files saida | grep -v '^saida/.gitkeep$' | while read -r f; do
+            t=$(git log -1 --format=%ct -- "$f"); [ -n "$t" ] && [ "$t" -lt "$limite" ] && git rm -q -- "$f" && echo "apagado: $f"
+          done
+          true
+      - name: Baixa os documentos de urls.txt
+        if: github.event_name != 'schedule'
+        run: |
+          set +e
+          mkdir -p saida
+          while read -r NOME URL; do
+            [ -z "$NOME" ] && continue; case "$NOME" in \#*) continue;; esac
+            case "$NOME" in /*|*..*) echo "nome recusado: $NOME"; continue;; esac
+            mkdir -p "saida/$(dirname "$NOME")"; curl -sSL --retry 3 -m 300 --connect-timeout 30 -A "Mozilla/5.0" "$URL" -o "saida/$NOME"
+          done < urls.txt
+          ls -laR saida
+      - name: Grava
+        run: |
+          git config user.name robo; git config user.email robo@users.noreply.github.com
+          git add -A saida
+          git commit -m "baixado" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

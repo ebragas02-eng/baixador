@@ -1,5 +1,11 @@
-# suf-cg: listagens 3
-sufcg/cpc_pron.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos
-sufcg/cvm_cpc.html https://conteudo.cvm.gov.br/legislacao/deliberacoes/cpc.html
-sufcg/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
-sufcg/nbctg.html https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-tg-gerais/
+# suf-teoria: normas 3 (pdfs)
+sufteo/tds01.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTDS_01.pdf
+sufteo/tds02.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTDS_02.pdf
+sufteo/tg16.pdf https://www1.cfc.org.br/sisweb/SRE/docs/NBCTG16(R2).pdf
+sufteo/res1328.pdf https://www1.cfc.org.br/sisweb/SRE/docs/RES_1328.pdf
+sufteo/res1753.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/001753
+sufteo/res1710.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2023/001710
+sufteo/res1601.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2020/001601
+sufteo/res1548.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2018/001548
+sufteo/res750.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=1993/000750
+sufteo/rev31.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2025/REVIS%C3%83ONBC31

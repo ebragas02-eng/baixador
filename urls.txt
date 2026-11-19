@@ -1,10 +1,10 @@
-# suf-teoria: normas 1
-sufteo/tds01.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/NBCTDS01&arquivo=NBCTDS_01.doc
-sufteo/tds02.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2024/NBCTDS02&arquivo=NBCTDS_02.doc
-sufteo/tg16.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2017/NBCTG16(R2)&arquivo=NBCTG16(R2).doc
-sufteo/res1328.doc https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2011/001328&arquivo=Res_1328.doc
-sufteo/res1328.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2011/001328
-sufteo/l12846.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm
-sufteo/d11129.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11129.htm
-sufteo/tspec.html https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTSPEC
-sufteo/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+# oab-trabalho: busca de normas na Camara
+oabtrab/busca_4737.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=4737
+oabtrab/busca_9504.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=9504
+oabtrab/busca_9096.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=9096
+oabtrab/busca_13445.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=13445
+oabtrab/busca_9474.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=9474
+oabtrab/busca_13165.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Ordin%C3%A1ria&numero=13165
+oabtrab/busca_lc64.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Lei+Complementar&numero=64
+oabtrab/busca_d7030.html https://www.camara.leg.br/legislacao/busca?geral=&ano=&situacao=&abrangencia=Legisla%C3%A7%C3%A3o+Federal&origem=&tipo=Decreto&numero=7030
+oabtrab/l13445.html https://www2.camara.leg.br/legin/fed/lei/2017/lei-13445-24-maio-2017-784925-normaatualizada-pl.html

@@ -1,19 +1,8 @@
-# suf-cg: paginas dos CPC
-sufcg/p01.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=2
-sufcg/p02.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=9
-sufcg/p03.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=34
-sufcg/p04.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=35
-sufcg/p06.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=37
-sufcg/p09.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=40
-sufcg/p12.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=43
-sufcg/p15.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=46
-sufcg/p18.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=49
-sufcg/p26.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=57
-sufcg/p27.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=58
-sufcg/p28.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=59
-sufcg/p29.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=60
-sufcg/p31.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=62
-sufcg/p32.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=63
-sufcg/p36.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=67
-sufcg/p48.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=106
-sufcg/p51.html https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=162
+# revisao oab penal 19/11 d
+rev/l15358.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm
+rev/l15397.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15397.htm
+rev/l15402.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15402.htm
+rev/cp.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm
+rev/cpp.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm
+rev/lep.htm https://www.planalto.gov.br/ccivil_03/leis/l7210.htm
+rev/l15438.htm https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15438.htm

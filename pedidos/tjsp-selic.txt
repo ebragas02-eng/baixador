@@ -1,0 +1,3 @@
+# tjsp selic 2
+bcb/selic432.json https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/ultimos/5?formato=json
+bcb/copom.json https://www.bcb.gov.br/api/servico/sitebcb/copomcomunicados/ultimas?quantidade=3&filtro=

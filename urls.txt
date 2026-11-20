@@ -1,26 +1,5 @@
-# tarefa ord2adm leis tentativa 1 1795182388
-ord2adm/l14133.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm
-ord2adm/l9784.htm https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
-ord2adm/l13105.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
-ord2adm/cf.htm https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
-ord2adm/lindb.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm
-ord2adm/l12016.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
-ord2adm/l4717.htm https://www.planalto.gov.br/ccivil_03/leis/l4717.htm
-ord2adm/d20910.htm https://www.planalto.gov.br/ccivil_03/decreto/antigos/d20910.htm
-ord2adm/l7347.htm https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm
-ord2adm/l8429.htm https://www.planalto.gov.br/ccivil_03/leis/l8429.htm
-ord2adm/l8112.htm https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm
-ord2adm/dl3365.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365.htm
-ord2adm/l9494.htm https://www.planalto.gov.br/ccivil_03/leis/l9494.htm
-ord2adm/l8987.htm https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm
-ord2adm/l12846.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm
-ord2adm/l13869.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm
-ord2adm/l10257.htm https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm
-ord2adm/l12527.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
-ord2adm/l8437.htm https://www.planalto.gov.br/ccivil_03/leis/l8437.htm
-ord2adm/l9469.htm https://www.planalto.gov.br/ccivil_03/leis/l9469.htm
-ord2adm/l13303.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm
-ord2adm/l11079.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm
-ord2adm/l13848.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13848.htm
-ord2adm/l12153.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm
-ord2adm/stj_sumulas.html https://scon.stj.jus.br/SCON/sumstj/
+# ord2-trabalho (3c) sumulas TST
+ord2trab/tst_sumulas.html https://www.tst.jus.br/sumulas
+ord2trab/tst_sumulas2.html https://www.tst.jus.br/web/guest/sumulas
+ord2trab/tst_livro2.pdf https://www.tst.jus.br/documents/d/guest/livro-internet
+ord2trab/tst_ojs.html https://www.tst.jus.br/ojs

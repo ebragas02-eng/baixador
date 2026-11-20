@@ -1,7 +1,6 @@
-# tarefa ord2-escrita-b (fontes oficiais) 2
-esc_b/trt2_juris.pdf https://ww2.trt2.jus.br/fileadmin/nugep/jurisconsolidada/Juris_consolidada.pdf
+# tarefa ord2-escrita-b (fontes oficiais) 3
 esc_b/jl_s338.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n%C2%BA+338%22&scope=%2F
-esc_b/tst_sum.html https://www.tst.jus.br/sumulas
 esc_b/tst_jur.html https://jurisprudencia.tst.jus.br/
 esc_b/l13775b.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/Lei/L13775.htm
 esc_b/l10931.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.931.htm
+esc_b/d73626.htm https://www.planalto.gov.br/ccivil_03/decreto/1970-1979/d73626.htm

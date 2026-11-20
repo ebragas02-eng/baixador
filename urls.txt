@@ -1,23 +1,7 @@
-# tarefa ord2-escrita-b (fontes oficiais) 1
-esc_b/s101.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_101_150.html
-esc_b/s201.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_201_250.html
-esc_b/s251.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_251_300.html
-esc_b/s301.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_301_350.html
-esc_b/s351.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_351_400.html
-esc_b/s401.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_401_450.html
-esc_b/s451.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_451_500.html
-esc_b/oj261.htm https://www3.tst.jus.br/jurisprudencia/OJ_SDI_1/n_s1_261.htm
-esc_b/oj401.htm https://www3.tst.jus.br/jurisprudencia/OJ_SDI_1/n_s1_401.htm
-esc_b/oj2_141.htm https://www3.tst.jus.br/jurisprudencia/OJ_SDI_2/n_S6_141.htm
-esc_b/l6019.htm https://www.planalto.gov.br/ccivil_03/leis/l6019.htm
-esc_b/l10101.htm https://www.planalto.gov.br/ccivil_03/leis/l10101.htm
-esc_b/l5889.htm https://www.planalto.gov.br/ccivil_03/leis/l5889.htm
-esc_b/l9029.htm https://www.planalto.gov.br/ccivil_03/leis/l9029.htm
-esc_b/l8036.htm https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm
-esc_b/lcp182.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm
-esc_b/l13775.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13775.htm
-esc_b/l6099.htm https://www.planalto.gov.br/ccivil_03/leis/l6099.htm
-esc_b/l12506.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm
-esc_b/l7713.htm https://www.planalto.gov.br/ccivil_03/leis/l7713.htm
-esc_b/l5584.htm https://www.planalto.gov.br/ccivil_03/leis/l5584.htm
-esc_b/l11419.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11419.htm
+# tarefa ord2-escrita-b (fontes oficiais) 2
+esc_b/trt2_juris.pdf https://ww2.trt2.jus.br/fileadmin/nugep/jurisconsolidada/Juris_consolidada.pdf
+esc_b/jl_s338.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n%C2%BA+338%22&scope=%2F
+esc_b/tst_sum.html https://www.tst.jus.br/sumulas
+esc_b/tst_jur.html https://jurisprudencia.tst.jus.br/
+esc_b/l13775b.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/Lei/L13775.htm
+esc_b/l10931.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.931.htm

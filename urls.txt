@@ -1,5 +1,4 @@
-# tarefa ord2-escrita-a leis 4
-esc_a/l11770.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11770.htm
-esc_a/l8137.htm https://www.planalto.gov.br/ccivil_03/leis/l8137.htm
-esc_a/l10684.htm https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm
-esc_a/l9430.htm https://www.planalto.gov.br/ccivil_03/leis/l9430.htm
+# tarefa ord2-escrita-b (fontes oficiais) 5
+esc_b/jl_287.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+287%22+gerente&rpp=20
+esc_b/jl_269d.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+269%22+diretor&rpp=20
+esc_b/jl_338b.html https://juslaboris.tst.jus.br/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20

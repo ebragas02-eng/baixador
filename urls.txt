@@ -1,2 +1,9 @@
-# ord2-empresarial anexo LUG
-ord2emp/an57663.pdf https://www.planalto.gov.br/ccivil_03/decreto/1950-1969/anexo/an57663-66.pdf
+# ord2-trabalho normas e edital (1)
+ord2trab/edital48.pdf https://s.oab.org.br/arquivos/2026/09/fb43fb37-838e-4d33-a863-99fa1f98b921.pdf
+ord2trab/padrao47_trab.pdf https://s.oab.org.br/arquivos/2026/10/e05b656d-d172-44a0-bb9f-adb5b7bfa847.pdf
+ord2trab/clt.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm
+ord2trab/cf.htm https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+ord2trab/cpc.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+ord2trab/l5584.htm https://www.planalto.gov.br/ccivil_03/leis/l5584.htm
+ord2trab/tst_livro.pdf https://www.tst.jus.br/documents/d/guest/livro-precedentes-trabalhistas-v182025
+ord2trab/clt_camara.html https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html

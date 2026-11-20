@@ -1,15 +1,6 @@
-# tarefa ord2-escrita-a leis 1
-esc_a/l10826.htm https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm
-esc_a/l11343.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm
-esc_a/l9503.htm https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm
-esc_a/l9455.htm https://www.planalto.gov.br/ccivil_03/leis/l9455.htm
-esc_a/l9868.htm https://www.planalto.gov.br/ccivil_03/leis/l9868.htm
-esc_a/l9882.htm https://www.planalto.gov.br/ccivil_03/leis/l9882.htm
-esc_a/l9099.htm https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
-esc_a/l9986.htm https://www.planalto.gov.br/ccivil_03/leis/l9986.htm
-esc_a/l8009.htm https://www.planalto.gov.br/ccivil_03/leis/l8009.htm
-esc_a/l9394.htm https://www.planalto.gov.br/ccivil_03/leis/l9394.htm
-esc_a/l7713.htm https://www.planalto.gov.br/ccivil_03/leis/l7713.htm
-esc_a/lcp64.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm
-esc_a/l9096.htm https://www.planalto.gov.br/ccivil_03/leis/l9096.htm
-esc_a/l8080.htm https://www.planalto.gov.br/ccivil_03/leis/l8080.htm
+# tarefa ord2-escrita-a leis 2
+esc_a/lcp105.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm
+esc_a/del406.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del0406.htm
+esc_a/l8072.htm https://www.planalto.gov.br/ccivil_03/leis/l8072.htm
+esc_a/lcp194.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp194.htm
+esc_a/l8906.htm https://www.planalto.gov.br/ccivil_03/leis/l8906.htm

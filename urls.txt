@@ -1,5 +1,2 @@
-# ord2-trabalho (3c) sumulas TST
-ord2trab/tst_sumulas.html https://www.tst.jus.br/sumulas
-ord2trab/tst_sumulas2.html https://www.tst.jus.br/web/guest/sumulas
-ord2trab/tst_livro2.pdf https://www.tst.jus.br/documents/d/guest/livro-internet
-ord2trab/tst_ojs.html https://www.tst.jus.br/ojs
+# ord2-tributario edital oficial 20/11 d
+ord2trib/ed48_oab.pdf https://s.oab.org.br/arquivos/2026/09/fb43fb37-838e-4d33-a863-99fa1f98b921.pdf

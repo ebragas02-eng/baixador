@@ -1,14 +1,3 @@
-# tarefa ord2-escrita-b (fontes oficiais) 4
-esc_b/jl_443.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+443%22&rpp=20
-esc_b/jl_451.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+451%22&rpp=20
-esc_b/jl_102.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+102%22&rpp=20
-esc_b/jl_269.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+269%22&rpp=20
-esc_b/jl_286.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+286%22&rpp=20
-esc_b/jl_350.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+350%22&rpp=20
-esc_b/jl_246.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+246%22&rpp=20
-esc_b/jl_368.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+368%22&rpp=20
-esc_b/jl_415.html https://juslaboris.tst.jus.br/discover?query=%22Orienta%C3%A7%C3%A3o+Jurisprudencial+n.+415%22&rpp=20
-esc_b/jl_269.html https://juslaboris.tst.jus.br/discover?query=%22Orienta%C3%A7%C3%A3o+Jurisprudencial+n.+269%22&rpp=20
-esc_b/jl_457.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+457%22&rpp=20
-esc_b/jl_153.html https://juslaboris.tst.jus.br/discover?query=%22Orienta%C3%A7%C3%A3o+Jurisprudencial+n.+153%22&rpp=20
-esc_b/jl_225302.html https://juslaboris.tst.jus.br/discover?query=%22Resolu%C3%A7%C3%A3o+n.+225%2C+de+30+de+junho+de+2025%22&rpp=20
+# tarefa ord2-escrita-a leis 3
+esc_a/l11770.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11770.htm
+esc_a/d6690.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6690.htm

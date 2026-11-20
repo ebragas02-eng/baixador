@@ -1,9 +1,2 @@
-# ord2-empresarial normas planalto (cheque, LUG, duplicata, protesto, CPC, CC, LFR)
-ord2emp/l7357.htm https://www.planalto.gov.br/ccivil_03/leis/l7357.htm
-ord2emp/d57663.htm https://www.planalto.gov.br/ccivil_03/decreto/antigos/d57663.htm
-ord2emp/l5474.htm https://www.planalto.gov.br/ccivil_03/leis/l5474.htm
-ord2emp/l9492.htm https://www.planalto.gov.br/ccivil_03/leis/l9492.htm
-ord2emp/l13105.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
-ord2emp/l10406.htm https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
-ord2emp/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
-ord2emp/l13775.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13775.htm
+# ord2-empresarial anexo LUG
+ord2emp/an57663.pdf https://www.planalto.gov.br/ccivil_03/decreto/1950-1969/anexo/an57663-66.pdf

@@ -1,6 +1,14 @@
-# tarefa ord2-escrita-b (fontes oficiais) 3
-esc_b/jl_s338.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n%C2%BA+338%22&scope=%2F
-esc_b/tst_jur.html https://jurisprudencia.tst.jus.br/
-esc_b/l13775b.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/Lei/L13775.htm
-esc_b/l10931.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.931.htm
-esc_b/d73626.htm https://www.planalto.gov.br/ccivil_03/decreto/1970-1979/d73626.htm
+# tarefa ord2-escrita-b (fontes oficiais) 4
+esc_b/jl_443.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+443%22&rpp=20
+esc_b/jl_451.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+451%22&rpp=20
+esc_b/jl_102.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+102%22&rpp=20
+esc_b/jl_269.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+269%22&rpp=20
+esc_b/jl_286.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+286%22&rpp=20
+esc_b/jl_350.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+350%22&rpp=20
+esc_b/jl_246.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+246%22&rpp=20
+esc_b/jl_368.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+368%22&rpp=20
+esc_b/jl_415.html https://juslaboris.tst.jus.br/discover?query=%22Orienta%C3%A7%C3%A3o+Jurisprudencial+n.+415%22&rpp=20
+esc_b/jl_269.html https://juslaboris.tst.jus.br/discover?query=%22Orienta%C3%A7%C3%A3o+Jurisprudencial+n.+269%22&rpp=20
+esc_b/jl_457.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+457%22&rpp=20
+esc_b/jl_153.html https://juslaboris.tst.jus.br/discover?query=%22Orienta%C3%A7%C3%A3o+Jurisprudencial+n.+153%22&rpp=20
+esc_b/jl_225302.html https://juslaboris.tst.jus.br/discover?query=%22Resolu%C3%A7%C3%A3o+n.+225%2C+de+30+de+junho+de+2025%22&rpp=20

@@ -1,3 +1,5 @@
-# tarefa ord2-escrita-a leis 3
+# tarefa ord2-escrita-a leis 4
 esc_a/l11770.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11770.htm
-esc_a/d6690.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6690.htm
+esc_a/l8137.htm https://www.planalto.gov.br/ccivil_03/leis/l8137.htm
+esc_a/l10684.htm https://www.planalto.gov.br/ccivil_03/leis/2003/l10.684.htm
+esc_a/l9430.htm https://www.planalto.gov.br/ccivil_03/leis/l9430.htm

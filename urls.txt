@@ -1,2 +1,6 @@
-# ord2-tributario lc236 20/11 c
-ord2trib/lcp236.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp236.htm
+# ord2-trabalho (3b) sumulas TST
+ord2trab/tst_sumulas.html https://www.tst.jus.br/sumulas
+ord2trab/tst_sumulas2.html https://www.tst.jus.br/web/guest/sumulas
+ord2trab/tst_livro2.pdf https://www.tst.jus.br/documents/d/guest/livro-internet
+ord2trab/tst_ojs.html https://www.tst.jus.br/ojs
+ord2trab/trt2_juris.pdf https://ww2.trt2.jus.br/fileadmin/nugep/jurisconsolidada/Juris_consolidada.pdf

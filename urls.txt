@@ -1,19 +1,4 @@
-# ord2-trabalho (4b) leis
-ord2trab/l12016.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
-ord2trab/l8036.htm https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm
-ord2trab/l6830.htm https://www.planalto.gov.br/ccivil_03/leis/l6830.htm
-ord2trab/lcp150.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm
-ord2trab/l9029.htm https://www.planalto.gov.br/ccivil_03/leis/l9029.htm
-ord2trab/l7418.htm https://www.planalto.gov.br/ccivil_03/leis/l7418.htm
-ord2trab/l605.htm https://www.planalto.gov.br/ccivil_03/leis/l0605.htm
-ord2trab/l12506.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm
-ord2trab/l8213.htm https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
-ord2trab/l6019.htm https://www.planalto.gov.br/ccivil_03/leis/l6019.htm
-ord2trab/l7701.htm https://www.planalto.gov.br/ccivil_03/leis/l7701.htm
-ord2trab/l7783.htm https://www.planalto.gov.br/ccivil_03/leis/l7783.htm
-ord2trab/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
-ord2trab/l13709.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
-ord2trab/l4090.htm https://www.planalto.gov.br/ccivil_03/leis/l4090.htm
-ord2trab/l7347.htm https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm
-ord2trab/cc.htm https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
-ord2trab/l9610.htm https://www.planalto.gov.br/ccivil_03/leis/l9610.htm
+# tarefa ord2adm 3 tentativa 1 1795184145
+ord2adm/sv_resumido.pdf https://www.stf.jus.br/arquivo/cms/jurisprudenciaSumulaVinculante/anexo/Enunciados_Sumula_Vinculante_STF_Resumido_v1.2comcapa.pdf
+ord2adm/ec113.htm https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc113.htm
+ord2adm/l10259.htm https://www.planalto.gov.br/ccivil_03/leis/leis_2001/LEIS_2001/l10259.htm

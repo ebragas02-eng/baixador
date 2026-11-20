@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+            <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+            <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+            <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+            <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+            <head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="description" content="A JusLaboris &ndash; Biblioteca Digital do Tribunal Superior do Trabalho &eacute; um reposit&oacute;rio que visa disseminar conhecimento na &aacute;rea do Direito, com &ecirc;nfase no ramo trabalhista.">
+<meta content="evKKOTLQlomj-2r7MnOf3wM2JWfmA99gNPwjvc6dvTM" name="google-site-verification">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link rel="icon" href="/themes/Mirage2/images/favicon.svg">
+<link rel="icon" href="/themes/Mirage2/images/favicon-64.png">
+<link rel="icon" href="/themes/Mirage2/images/favicon-32.png">
+<link rel="icon" href="/themes/Mirage2/images/favicon-64.ico">
+<link rel="icon" href="/themes/Mirage2/images/favicon-32.ico">
+<link rel="apple-touch-icon" href="/themes/Mirage2/images/apple-touch-icon.png">
+<meta name="Generator" content=" 5.5">
+<link href="/themes/Mirage2/styles/main.css" rel="stylesheet">
+<link href="/themes/Mirage2/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="/themes/Mirage2/styles/bootstrap-multiselect.css" rel="stylesheet">
+<link type="application/opensearchdescription+xml" rel="search" href="http://juslaboris.tst.jus.br:80/open-search/description.xml" title="JusLaboris">
+<script>
+                //Clear default text of emty text areas on focus
+                function tFocus(element)
+                {
+                if (element.value == ' '){element.value='';}
+                }
+                //Clear default text of emty text areas on submit
+                function tSubmit(form)
+                {
+                var defaultedElements = document.getElementsByTagName("textarea");
+                for (var i=0; i != defaultedElements.length; i++){
+                if (defaultedElements[i].value == ' '){
+                defaultedElements[i].value='';}}
+                }
+                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                function disableEnterKey(e)
+                {
+                var key;
+
+                if(window.event)
+                key = window.event.keyCode;     //Internet Explorer
+                else
+                key = e.which;     //Firefox and Netscape
+
+                if(key == 13)  //if "Enter" pressed, then disable!
+                return false;
+                else
+                return true;
+                }
+            </script><!--[if lt IE 9]>
+                <script src="/themes/Mirage2/vendor/html5shiv/dist/html5shiv.js"> </script>
+                <script src="/themes/Mirage2/vendor/respond/dest/respond.min.js"> </script>
+                <![endif]--><script src="/themes/Mirage2/vendor/modernizr/modernizr.js"> </script>
+<title>Pesquisa</title>
+</head><body>
+<header>
+<div role="navigation" class="navbar navbar-default navbar-static-top">
+<div class="container">
+<div class="row visible-xs hidden-sm hidden-md hidden-lg">
+<div class="col-xs-12">
+<div class="pull-right">
+<ul class="nav nav-pills pull-left">
+<li class="dropdown" id="ds-language-selection-xs">
+<button data-toggle="dropdown" class="dropdown-toggle navbar-toggle navbar-link" role="button" href="#" id="language-dropdown-toggle-xs"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-globe"></b></button>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle-xs" role="menu" class="dropdown-menu pull-right">
+<li role="presentation" class="disabled">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=pt_BR">portugu&ecirc;s (Brasil)</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=en">English</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=es">espa&ntilde;ol</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=fr">fran&ccedil;ais</a>
+</li>
+</ul>
+</li>
+<li>
+<form method="get" action="/login" style="display: inline">
+<button class="navbar-toggle navbar-link"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-user"></b></button>
+</form>
+</li>
+</ul>
+<button data-toggle="offcanvas" class="navbar-toggle" type="button"><span class="sr-only">Alternar navega&ccedil;&atilde;o</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+<ul class="nav nav-pills pull-left">
+<li>
+<a target="_blank" class="navbar-img" href="http://www.tst.jus.br"><img src="/themes/Mirage2//images/logotst_cinza_fundo_azul_.svg"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 col-xs-12">
+<a class="navbar-brand" href="/"><img src="/themes/Mirage2//images/logo_cabecalho.svg"></a>
+</div>
+<div class="col-xs-6 hidden-xs">
+<div class="row">
+<div class="col-sm-12">
+<div class="pull-right">
+<ul class="nav navbar-nav pull-left">
+<li class="dropdown" id="ds-language-selection">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="language-dropdown-toggle"><span class="hidden-xs">portugu&ecirc;s (Brasil)&nbsp;<b class="caret"></b></span></a>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle" role="menu" class="dropdown-menu pull-right">
+<li role="presentation" class="disabled">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=pt_BR">portugu&ecirc;s (Brasil)</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=en">English</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=es">espa&ntilde;ol</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=fr">fran&ccedil;ais</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav pull-left">
+<li>
+<a href="/login"><span class="hidden-xs">Entrar</span></a>
+</li>
+</ul>
+<button type="button" class="navbar-toggle visible-sm" data-toggle="offcanvas"><span class="sr-only">Alternar navega&ccedil;&atilde;o</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+<ul class="nav navbar-nav pull-left">
+<li>
+<a target="_blank" class="navbar-img" href="http://www.tst.jus.br"><img src="/themes/Mirage2//images/logotst_cinza_fundo_azul_.svg"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row hidden-xs">
+<div class="col-md-12">
+<div class="pull-right nav-search-container">
+<form method="post" class="" id="ds-search-form" action="/discover">
+<fieldset>
+<div class="input-group">
+<input placeholder="Pesquisar em todo o acervo" type="text" class="ds-text-field form-control" name="query"><span class="input-group-btn"><button title="Pesquisar" class="ds-button-field btn btn-default"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+</fieldset>
+</form>
+<div class="search-tips">
+<a href="/bitstream/handle/20.500.12178/8791/juslaboris_dicas_pesquisa.pdf"><i aria-hidden="true" class="fa fa-question-circle-o"></i>Dicas de pesquisa</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row visible-xs hidden-sm hidden-md hidden-lg">
+<div class="col-xs-12">
+<div class="nav-search-container">
+<form method="post" class="" id="ds-search-form-2" action="/discover">
+<fieldset>
+<div class="input-group">
+<input placeholder="Pesquisar em todo o acervo" type="text" class="ds-text-field form-control" name="query"><span class="input-group-btn"><button title="Pesquisar" class="ds-button-field btn btn-default"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<div class="navbar-header"></div>
+</div>
+</div>
+</header>
+<div class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure">JavaScript is disabled for your browser. Some features of this site may not work without it.</div>
+</div>
+</div>
+<div class="container" id="main-container">
+<div class="row row-offcanvas row-offcanvas-left">
+<div class="horizontal-slider clearfix">
+<div role="navigation" id="sidebar" class="col-xs-6 col-sm-3 col-md-2 sidebar-offcanvas">
+<div class="word-break hidden-print" id="ds-options">
+<h2 class="ds-option-set-head  h6">Navegar</h2>
+<div id="aspect_viewArtifacts_Navigation_list_browse" class="list-group">
+<a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Toda a JusLaboris</span></a><a href="/community-list" class="list-group-item ds-option">Cole&ccedil;&otilde;es</a><a href="/browse?type=author" class="list-group-item ds-option">Autores</a><a href="/browse?type=title" class="list-group-item ds-option">T&iacute;tulos</a><a href="/browse?type=type" class="list-group-item ds-option">Categorias</a><a href="/browse?type=subject" class="list-group-item ds-option">Assuntos</a><a href="/browse?type=tags" class="list-group-item ds-option">Marcadores (<span style="font-size:80%; font-style: italic;">Tags</span>)</a><a href="/browse?type=otherauthors" class="list-group-item ds-option"></a>
+</div>
+<div class="visible-xs visible-sm">
+<h2 class="ds-option-set-head  h6">Filtros</h2>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group">
+<ul class="list-group">
+<a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Autor</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=fdf3cbee-00dd-4f7f-918e-c3458fd3e41d" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST) (146)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=b174606a-0511-4346-ad1c-6ad0b999a97c" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (3. Regi&atilde;o) (TRT) (4)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=8e408a8b-1c0a-4b3c-812f-e08ef839cf5e" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (9. Regi&atilde;o) (TRT) (4)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=05b11cc0-255c-4c2c-a930-c25c5bef2408" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (2. Regi&atilde;o) (TRT) (3)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=4c272c48-9047-4f3b-80fb-4eff0281e0ad" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (1. Regi&atilde;o) (TRT) (2)</a><a href="/search-filter?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&field=author" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Assunto</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Jurisprud%C3%AAncia+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Jurisprud&ecirc;ncia trabalhista, peri&oacute;dico (18)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Legisla%C3%A7%C3%A3o+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Legisla&ccedil;&atilde;o trabalhista, peri&oacute;dico (17)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Direito+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Direito do trabalho, peri&oacute;dico (16)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Justi%C3%A7a+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Justi&ccedil;a do trabalho, peri&oacute;dico (15)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Processo+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Processo trabalhista, peri&oacute;dico (15)</a><a href="/search-filter?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&field=subject" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Data</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=IssuedCreated&filter_relational_operator=equals&filter=%5B2000+TO+2026%5D" class="list-group-item ds-option">2000 - 2026 (166)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=IssuedCreated&filter_relational_operator=equals&filter=%5B1900+TO+1999%5D" class="list-group-item ds-option">1900 - 1999 (1)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Categoria</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Peri%C3%B3dico" class="list-group-item ds-option">Peri&oacute;dico (159)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Extrato" class="list-group-item ds-option">Extrato (136)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Artigo+de+peri%C3%B3dico" class="list-group-item ds-option">Artigo de peri&oacute;dico (2)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Colet%C3%A2nea" class="list-group-item ds-option">Colet&acirc;nea (1)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Doutrina" class="list-group-item ds-option">Doutrina (1)</a><a href="/search-filter?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&field=type" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Esp&eacute;cie normativa</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Ata" class="list-group-item ds-option">Ata (3)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Resolu%C3%A7%C3%A3o" class="list-group-item ds-option">Resolu&ccedil;&atilde;o (2)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Enunciado" class="list-group-item ds-option">Enunciado (1)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=S%C3%BAmula" class="list-group-item ds-option">S&uacute;mula (1)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">N&iacute;vel de acesso</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+aberto" class="list-group-item ds-option">Acesso aberto (162)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+restrito" class="list-group-item ds-option">Acesso restrito (5)</a>
+</ul>
+</div>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_context" class="list-group"></div>
+<h2 class="ds-option-set-head  h6">Minha conta</h2>
+<div id="aspect_viewArtifacts_Navigation_list_account" class="list-group">
+<a href="/login" class="list-group-item ds-option">Entrar <span style="font-size:80%;">(use sua senha de rede)</span></a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_administrative" class="list-group"></div>
+<div id="aspect_statisticsGoogleAnalytics_Navigation_list_statistics" class="list-group"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-7 main-content">
+<div class="trail-wrapper hidden-print">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 custom-breadcrumb">
+<div class="breadcrumb dropdown visible-xs">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="trail-dropdown-toggle">Pesquisa&nbsp;<b class="caret"></b></a>
+<ul aria-labelledby="trail-dropdown-toggle" role="menu" class="dropdown-menu">
+<li role="presentation">
+<a role="menuitem" href="/"><i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+                        JusLaboris</a>
+</li>
+<li role="presentation" class="disabled">
+<a href="#" role="menuitem">Pesquisa</a>
+</li>
+</ul>
+</div>
+<ul class="breadcrumb hidden-xs">
+<li>
+<i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+            <a href="/">JusLaboris</a>
+</li>
+<li class="active">Pesquisa</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div>
+<h2 class="ds-div-head page-header first-page-header">Pesquisa</h2>
+<div id="aspect_discovery_SimpleSearch_div_search" class="ds-static-div primary">
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_discovery-json-search-url" class="ds-hidden-field form-control" name="discovery-json-search-url" type="hidden" value="https://juslaboris.tst.jus.br/JSON/discovery/search">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_contextpath" class="ds-hidden-field form-control" name="contextpath" type="hidden" value="">
+</p>
+<div id="aspect_discovery_SimpleSearch_div_discovery-search-box" class="ds-static-div discoverySearchBox">
+<form id="aspect_discovery_SimpleSearch_div_general-query" class="ds-interactive-div discover-search-box" action="discover" method="get" onsubmit="javascript:tSubmit(this);">
+<fieldset id="aspect_discovery_SimpleSearch_list_primary-search" class="ds-form-list">
+<div class="ds-form-item row">
+<div class="col-sm-3">
+<p>
+<select id="aspect_discovery_SimpleSearch_field_scope" class="ds-select-field form-control" name="scope"><option value="/" selected>Toda a JusLaboris</option><option value="20.500.12178/41">1. Doutrina</option><option value="20.500.12178/1">2. Atos normativos</option><option value="20.500.12178/14276">3. Institucional</option><option value="20.500.12178/11599">4. Produ&ccedil;&atilde;o intelectual de Ministros e Servidores / Trabalhos acad&ecirc;micos</option></select>
+</p>
+</div>
+<div class="col-sm-9">
+<p class="input-group">
+<input id="aspect_discovery_SimpleSearch_field_query" class="ds-text-field form-control" name="query" type="text" value="&quot;Resolu&ccedil;&atilde;o n. 129&quot; 338"><span class="input-group-btn"><button id="aspect_discovery_SimpleSearch_field_submit" class="ds-button-field btn btn-default search-icon search-icon" name="submit" type="submit">Pesquisar</button></span>
+</p>
+</div>
+</div>
+<div class="row">
+<div id="filters-overview-wrapper-squared" class="col-sm-offset-3 col-sm-9"></div>
+</div>
+</fieldset>
+<p id="aspect_discovery_SimpleSearch_p_hidden-fields" class="ds-paragraph hidden">
+<input id="aspect_discovery_SimpleSearch_field_rpp" class="ds-hidden-field form-control" name="rpp" type="hidden" value="20">
+</p>
+</form>
+<form id="aspect_discovery_SimpleSearch_div_search-filters" class="ds-interactive-div discover-filters-box" action="discover" method="get" onsubmit="javascript:tSubmit(this);">
+<div class="ds-static-div clearfix">
+<p class="ds-paragraph pull-right">
+<a href="#" class="show-advanced-filters">Pesquisa avan&ccedil;ada</a><a href="#" class="hide-advanced-filters hidden">Ocultar pesquisa avan&ccedil;ada</a>
+</p>
+</div>
+<h3 class="ds-div-head discovery-filters-wrapper-head hidden">Pesquisa avan&ccedil;ada</h3>
+<div id="aspect_discovery_SimpleSearch_div_discovery-filters-wrapper" class="ds-static-div  hidden">
+<p class="ds-paragraph">Clique em "Aplicar" para atualizar os resultados</p>
+<script type="text/javascript">
+                if (!window.DSpace) {
+                    window.DSpace = {};
+                }
+                if (!window.DSpace.discovery) {
+                    window.DSpace.discovery = {};
+                }
+                if (!window.DSpace.discovery.filters) {
+                    window.DSpace.discovery.filters = [];
+                }
+            </script><script>
+            if (!window.DSpace.i18n) {
+                window.DSpace.i18n = {};
+            }
+            if (!window.DSpace.i18n.discovery) {
+                window.DSpace.i18n.discovery = {};
+            }
+        
+                    if (!window.DSpace.i18n.discovery.filtertype) {
+                        window.DSpace.i18n.discovery.filtertype = {};
+                    }
+                window.DSpace.i18n.discovery.filtertype.search_text='Texto integral';window.DSpace.i18n.discovery.filtertype.title='Título';window.DSpace.i18n.discovery.filtertype.author='Autor';window.DSpace.i18n.discovery.filtertype.subject='Assunto';window.DSpace.i18n.discovery.filtertype.IssuedCreated='Data (ex.: 31-03-2009 ou 2009)';window.DSpace.i18n.discovery.filtertype.abstract='Resumo';window.DSpace.i18n.discovery.filtertype.description='Notas';window.DSpace.i18n.discovery.filtertype.type='Categoria (ex.: livro, artigo)';window.DSpace.i18n.discovery.filtertype.series='Série';window.DSpace.i18n.discovery.filtertype.citation='Referência bibliográfica';window.DSpace.i18n.discovery.filtertype.identifier='Handle, ID, ISBN, ISSN etc';window.DSpace.i18n.discovery.filtertype.rvbisys='Código RVBI';window.DSpace.i18n.discovery.filtertype.numdoc='Número/volume (ex.: 5)';window.DSpace.i18n.discovery.filtertype.ua='Unidade administrativa (ex.: CDOC)';window.DSpace.i18n.discovery.filtertype.situacao='Situação (ex.: revogado)';window.DSpace.i18n.discovery.filtertype.especieato='Espécie normativa (ex.: Lei)';window.DSpace.i18n.discovery.filtertype.publisher='Editora';window.DSpace.i18n.discovery.filtertype.allField='Somente descrição';window.DSpace.i18n.discovery.filtertype.original_bundle_filenames='Nome do arquivo';window.DSpace.i18n.discovery.filtertype.original_bundle_descriptions='Descrição do arquivo';window.DSpace.i18n.discovery.filtertype.accessrights='Nível de acesso (aberto ou restrito)';window.DSpace.i18n.discovery.filtertype.subject_free='';window.DSpace.i18n.discovery.filtertype.internal='';window.DSpace.i18n.discovery.filtertype.provenance='';
+                    if (!window.DSpace.i18n.discovery.filter_relational_operator) {
+                        window.DSpace.i18n.discovery.filter_relational_operator = {};
+                    }
+                window.DSpace.i18n.discovery.filter_relational_operator.contains='contém';window.DSpace.i18n.discovery.filter_relational_operator.equals='é exatamente';window.DSpace.i18n.discovery.filter_relational_operator.authority='ID do autor';window.DSpace.i18n.discovery.filter_relational_operator.notcontains='não contém';window.DSpace.i18n.discovery.filter_relational_operator.notequals='é diferente de';window.DSpace.i18n.discovery.filter_relational_operator.notauthority='ID do autor não é';</script>
+<div id="aspect_discovery_SimpleSearch_row_filter-controls" class="ds-form-item apply-filter">
+<div>
+<div class="">
+<p class="btn-group">
+<button id="aspect_discovery_SimpleSearch_field_submit_reset_filter" class="ds-button-field btn btn-default discovery-reset-filter-button discovery-reset-filter-button" name="submit_reset_filter" type="submit">Limpar</button><button class="ds-button-field btn btn-default discovery-add-filter-button visible-xs discovery-add-filter-button visible-xs " name="submit_add_filter" type="submit">Adicionar novo filtro</button><button id="aspect_discovery_SimpleSearch_field_submit_apply_filter" class="ds-button-field btn btn-default discovery-apply-filter-button discovery-apply-filter-button" name="submit_apply_filter" type="submit">Aplicar</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_query" class="ds-hidden-field form-control" name="query" type="hidden" value="&quot;Resolu&ccedil;&atilde;o n. 129&quot; 338">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_rpp" class="ds-hidden-field form-control" name="rpp" type="hidden" value="20">
+</p>
+</form>
+</div>
+<form id="aspect_discovery_SimpleSearch_div_main-form" class="ds-interactive-div " action="/discover" method="post" onsubmit="javascript:tSubmit(this);">
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_search-result" class="ds-hidden-field form-control" name="search-result" type="hidden" value="true">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_query" class="ds-hidden-field form-control" name="query" type="hidden" value="&quot;Resolu&ccedil;&atilde;o n. 129&quot; 338">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_current-scope" class="ds-hidden-field form-control" name="current-scope" type="hidden" value="">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_rpp" class="ds-hidden-field form-control" name="rpp" type="hidden" value="20">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_sort_by" class="ds-hidden-field form-control" name="sort_by" type="hidden" value="score">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_order" class="ds-hidden-field form-control" name="order" type="hidden" value="desc">
+</p>
+</form>
+<div class="pagination-masked clearfix top">
+<div class="row">
+<div class="col-xs-9">
+<p class="pagination-info">Mostrando os itens 1 a 20 de 167</p>
+</div>
+<div class="col-xs-3">
+<div class="btn-group discovery-sort-options-menu pull-right controls-gear-wrapper" id="aspect_discovery_SimpleSearch_div_search-controls-gear">
+<button data-toggle="dropdown" class="btn btn-default dropdown-toggle"><i aria-hidden="true" class="fa fa-sort"></i><span style="padding-left:5px;">Ordenar</span></button>
+<ul role="menu" class="dropdown-menu">
+<li id="aspect_discovery_SimpleSearch_item_sort-head" class=" gear-head first dropdown-header">Ordenar:</li>
+<li id="aspect_discovery_SimpleSearch_item_relevance" class=" gear-option gear-option-selected">
+<a class="" href="sort_by=score&order=desc"><span class="glyphicon glyphicon-ok btn-xs active"></span>Relev&acirc;ncia</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_title_sort" class=" gear-option">
+<a class="" href="sort_by=dc.title_sort&order=asc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>T&iacute;tulo (A-Z)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_title_sort" class=" gear-option">
+<a class="" href="sort_by=dc.title_sort&order=desc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>T&iacute;tulo (Z-A)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_issued_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.issued_dt&order=asc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de publica&ccedil;&atilde;o (mais antiga)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_issued_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.issued_dt&order=desc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de publica&ccedil;&atilde;o (mais recente)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_accessioned_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.accessioned_dt&order=asc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de inclus&atilde;o (mais antiga)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_accessioned_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.accessioned_dt&order=desc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de inclus&atilde;o (mais recente)</a>
+</li>
+<li class="divider"></li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-head" class=" gear-head dropdown-header">Resultados por p&aacute;gina:</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-5" class=" gear-option">
+<a class="" href="rpp=5"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>5</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-10" class=" gear-option">
+<a class="" href="rpp=10"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>10</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-20" class=" gear-option gear-option-selected">
+<a class="" href="rpp=20"><span class="glyphicon glyphicon-ok btn-xs active"></span>20</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-40" class=" gear-option">
+<a class="" href="rpp=40"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>40</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-60" class=" gear-option">
+<a class="" href="rpp=60"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>60</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-80" class=" gear-option">
+<a class="" href="rpp=80"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>80</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-100" class=" gear-option">
+<a class="" href="rpp=100"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>100</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="aspect_discovery_SimpleSearch_div_search-results" class="ds-static-div primary">
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/25546/1994_res0036.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/25546/1994_res0036.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/25546">Jurisprud&ecirc;ncia</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/25546">
+<h4 class="artifact-title">Resolu&ccedil;&atilde;o n. 36, de 19 de outubro de 1994<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+36%2C+de+19+de+outubro+de+1994.+Di%C3%A1rio+da+Justi%C3%A7a+%5Bda%5D+Rep%C3%BAblica+Federativa+do+Brasil%3A+se%C3%A7%C3%A3o+1%2C+Bras%C3%ADlia%2C+DF%2C+p.+31809%2C+21+nov.+1994.&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+36%2C+de+19+de+outubro+de+1994.+Di%C3%A1rio+da+Justi%C3%A7a+%5Bda%5D+Rep%C3%BAblica+Federativa+do+Brasil%3A+se%C3%A7%C3%A3o+1%2C+Bras%C3%ADlia%2C+DF%2C+p.+31942%2C+22+nov.+1994.&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+36%2C+de+19+de+outubro+de+1994.+Di%C3%A1rio+da+Justi%C3%A7a+%5Bda%5D+Rep%C3%BAblica+Federativa+do+Brasil%3A+se%C3%A7%C3%A3o+1%2C+Bras%C3%ADlia%2C+DF%2C+p.+31523%2C+18+nov.+1994.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F25546&amp;rft_id=36&amp;rft_id=338&amp;rft_id=199400036&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 1994-11-18</span>
+<div class="abstract">Aprova a edi&ccedil;&atilde;o do Enunciado n. <strong>338</strong> para compor a S&uacute;mula de Jurisprud&ecirc;ncia do Tribunal Superior do Trabalho. &hellip;<br>
+</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> determina&ccedil;&atilde;o judicial 
+para apresenta&ccedil;&atilde;o de registros de hor&aacute;rios, 
+ 
+ 
+RESOLVEU 
+ 
+ 
+aprovar a edi&ccedil;&atilde;o do Enunciado n&ordm; <strong>338</strong> abaixo transcrito, para compor 
+a S&uacute;mula de sua Jurisprud&ecirc;ncia predominante. 
+ 
+ENUNCIADO N&ordm; <strong>338</strong> 
+ 
+REGISTRO DE HOR&Aacute;RIO &ndash; INVERS&Atilde;O DO &Ocirc;NUS &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/3977/2005_res0129.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/3977/2005_res0129.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/3977">Resolu&ccedil;&atilde;o</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/3977">
+<h4 class="artifact-title">Resolu&ccedil;&atilde;o n. 129, de 5 de abril de 2005<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+129%2C+de+5+de+abril+de+2005.+Di%C3%A1rio+da+Justi%C3%A7a+%5Bda%5D+Rep%C3%BAblica+Federativa+do+Brasil%3A+se%C3%A7%C3%A3o+1%2C+Bras%C3%ADlia%2C+DF%2C+p.+658%2C+25+abr.+2005.&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+129%2C+de+5+de+abril+de+2005.+Di%C3%A1rio+da+Justi%C3%A7a+%5Bda%5D+Rep%C3%BAblica+Federativa+do+Brasil%3A+se%C3%A7%C3%A3o+1%2C+Bras%C3%ADlia%2C+DF%2C+p.+349%2C+22+abr.+2005.&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+129%2C+de+5+de+abril+de+2005.+Di%C3%A1rio+da+Justi%C3%A7a+%5Bda%5D+Rep%C3%BAblica+Federativa+do+Brasil%3A+se%C3%A7%C3%A3o+1%2C+Bras%C3%ADlia%2C+DF%2C+p.+651%2C+20+abr.+2005.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F3977&amp;rft_id=129&amp;rft_id=200500129&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2005-04-20</span>
+<div class="abstract">Altera a denomina&ccedil;&atilde;o dos verbetes da jurisprud&ecirc;ncia predominante do Tribunal Superior do Trabalho de "Enunciado" para "S&uacute;mula".</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 330, 333, 337 e 
+340, resultando na edi&ccedil;&atilde;o das S&uacute;mulas n.&ordm; 364 a 396, bem como na altera&ccedil;&atilde;o da 
+reda&ccedil;&atilde;o das s&uacute;mulas: 6, 51, 60, 74, 85, 86, 90, 98, 101, 102, 122, 128, 132, 139, 
+159, 199, 221, 239, 244, 262, 275, 296, 303, 308, 337, <strong>338</strong> e 339, &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> Bras&iacute;lia, DF, 25 abr. 2005. Se&ccedil;&atilde;o 1, p. 657-660. 
+II - A concess&atilde;o de registro de publica&ccedil;&atilde;o como reposit&oacute;rio 
+autorizado de jurisprud&ecirc;ncia do TST torna v&aacute;lidas todas as suas edi&ccedil;&otilde;es anteriores. 
+(ex-OJ n&ordm; 317 - DJ 11.08.2003) 
+ 
+ 
+N&ordm; <strong>338</strong> Jornada &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/131780/2008_05_02_dj_00083_pag_00009a00338.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/131780/2008_05_02_dj_00083_pag_00009a00338.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/131780">Extrato</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/131780">
+<h4 class="artifact-title">Di&aacute;rio da Justi&ccedil;a: n. 83, p. 9-338 (2 maio 2008)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F131780&amp;rft_id=83&amp;rft_id=83&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2008-05-02</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 
+ 
+stream_size 4588559   
+stream_content_type text/plain   
+stream_name 2008_05_02_dj_00083_pag_00009a<strong>00338</strong>.pdf.txt   
+stream_source_info 2008_05_02_dj_00083_pag_00009a<strong>00338</strong>.pdf.txt   
+Content-Encoding UTF-8   
+Content-Type text/plain &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/17136/2005_ata_0002a_sessao_extra_tp.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/17136/2005_ata_0002a_sessao_extra_tp.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/17136">Ata</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/17136">
+<h4 class="artifact-title">Ata da Segunda Sess&atilde;o Extraordin&aacute;ria [do Tribunal Pleno do Tribunal Superior do Trabalho], de 5 de abril de 2005<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Ata+da+Segunda+Sess%C3%A3o+Extraordin%C3%A1ria+%5Bdo+Tribunal+Pleno+do+Tribunal+Superior+do+Trabalho%5D%2C+de+5+de+abril+de+2005.+Di%C3%A1rio+da+Justi%C3%A7a+%5Bda%5D+Rep%C3%BAblica+Federativa+do+Brasil%2C+Bras%C3%ADlia%2C+DF%2C+10+maio+2005.+Se%C3%A7%C3%A3o+1%2C+p.+727-730.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F17136&amp;rft_id=2&amp;rft_id=200500002&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2005-05-10</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> da reda&ccedil;&atilde;o das s&uacute;mulas: 6, 51, 60, 74, 85, 86, 90, 98, 101, 
+102, 122, 128, 132, 139, 159, 199, 221, 239, 244, 262, 275, 296, 303, 308, 337, 
+<strong>338</strong> e 339, cujos textos constar&atilde;o do Anexo &agrave; presente Resolu&ccedil;&atilde;o; III - cancelar as 
+S&uacute;mulas n.os 22, 68, 111, 120, &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 21.11.2003) II - A concess&atilde;o de 
+registro de publica&ccedil;&atilde;o como reposit&oacute;rio autorizado de jurisprud&ecirc;ncia do TST torna 
+v&aacute;lidas todas as suas edi&ccedil;&otilde;es anteriores. (ex-OJ n&ordm; 317 - DJ 11.08.2003) N&ordm; <strong>338</strong> 
+Jornada DE TRABALHO. Registro. &Ocirc;nus da prova. (INCORPORADAS &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/25359/021_arruda.pdf?sequence=3&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/25359/021_arruda.pdf.jpg?sequence=6&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/25359">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/25359">
+<h4 class="artifact-title">A garantia no emprego do trabalhador acidentado nos contratos por prazo determinado e a quest&atilde;o da efetividade do direito<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=ARRUDA%2C+K%C3%A1tia+Magalh%C3%A3es.+A+garantia+no+emprego+do+trabalhador+acidentado+nos+contratos+por+prazo+determinado+e+a+quest%C3%A3o+da+efetividade+do+direito.+Revista+do+Tribunal+Superior+do+Trabalho%2C+S%C3%A3o+Paulo%2C+v.+77%2C+n.+2%2C+p.+335-347%2C+abr.%2Fjun.+2011.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F25359&amp;rft_id=000922955&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Arruda, K&aacute;tia Magalh&atilde;es</span></span> <span class="author h4">| 2011-06</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span>  A N O S  D A  J U S T I &Ccedil; A  D O  T R A B A L H O
+<strong>338</strong> Rev. TST, Bras&iacute;lia, vol. 77, no 2, abr/jun 2011
+estendendo seu termo final &agrave; data do retorno do obreiro ao servi&ccedil;o, sem-
+pre sem preval&ecirc;ncia de qualquer das garantias de emprego legalmente 
+tipificadas &ndash; conforme j&aacute; estudado.
+Pode-se falar &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 
+8.213/91. Constitucionalidade. Pressupostos (convers&atilde;o das Orienta&ccedil;&otilde;es 
+Jurisprudenciais ns. 105 e 230 da SDI-1) &ndash; <strong>Resolu&ccedil;&atilde;o</strong> n&ordm; <strong>129</strong>/05 &ndash; DJ 
+20.04.05. I &ndash; &Eacute; constitucional o art. 118 da Lei 8.213/91 que assegura o 
+direito &agrave; estabilidade provis&oacute;ria &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/138272/2018_silva_neto_antonio_turnos_ininterruptos.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/138272/2018_silva_neto_antonio_turnos_ininterruptos.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/138272">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/138272">
+<h4 class="artifact-title">Turnos ininterruptos de revezamento: negocia&ccedil;&atilde;o coletiva e a garantia constitucional do n&atilde;o retrocesso<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=SILVA+NETO%2C+Antonio+Raimundo+da.+Turnos+ininterruptos+de+revezamento%3A+negocia%C3%A7%C3%A3o+coletiva+e+a+garantia+constitucional+do+n%C3%A3o+retrocesso.+Revista+do+Tribunal+Superior+do+Trabalho%2C+S%C3%A3o+Paulo%2C+v.+84%2C+n.+1%2C+p.+49-67%2C+jan.%2Fmar.+2018.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F138272&amp;rft_id=001123482&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Silva Neto, Antonio Raimundo da</span></span> <span class="author h4">| 2018-03</span>
+<div class="abstract">Faz uma an&aacute;lise doutrin&aacute;ria e jurisprudencial ap&oacute;s a vig&ecirc;ncia constitucional dos turnos ininterruptos de revezamento no Brasil. A fixa&ccedil;&atilde;o de jornada mais favor&aacute;vel aos trabalhadores que operam em turnos ininterruptos de ...</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 7. ed. Coimbra: Almedina, 
+2003. p. <strong>338.</strong>
+D I R E I T O  C O L E T I V O  D O  T R A B A L H O
+52 Rev. TST, S&atilde;o Paulo, vol. 84, no 1, jan/mar 2018
+Posteriormente, revisitando o tema, Canotilho relativiza seu entendimen-
+to, trazendo uma certa &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> consubstanciado, o Tribunal Superior do Traba-
+lho editou orienta&ccedil;&atilde;o jurisprudencial (240 da SBDI-I) em 20.06.01, convertida 
+em seguida, com a <strong>Resolu&ccedil;&atilde;o</strong> n&ordm; <strong>129</strong>/05, na S&uacute;mula n&ordm; 391/TST21. 
+4 &ndash; DA ALTERA&Ccedil;&Atilde;O DA JORNADA E DO POTENCIAL RISCO DE 
+DANO EXISTENCIAL
+Ao estabelecer &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/85651/2015_rev_trt09_v04_n037.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/85651/2015_rev_trt09_v04_n037.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/85651">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/85651">
+<h4 class="artifact-title">Revista eletr&ocirc;nica [do] Tribunal Regional do Trabalho da 9&ordf; Regi&atilde;o: vol. 4, n. 37 (fev. 2015)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+ELETR%C3%94NICA+%5BDO%5D+TRIBUNAL+REGIONAL+DO+TRABALHO+DA+9%C2%AA+REGI%C3%83O.+Curitiba%3A+Escola+Judicial+do+Tribunal+Regional+do+Trabalho+da+9.+Regi%C3%A3o%2C+v.+4%2C+n.+37%2C+fev.+2015.+204+p.&amp;rft_id=2238-6114&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F85651&amp;rft_id=37&amp;rft_id=4&amp;rft_id=in00001173769&amp;rft_id=001043562&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (9. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2015-02</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/202023/2008_ata_0025a_sessao_ord_setr08.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/202023/2008_ata_0025a_sessao_ord_setr08.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/202023">Ata</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/202023">
+<h4 class="artifact-title">Ata da Vig&eacute;sima Quinta Sess&atilde;o Ordin&aacute;ria da Oitava Turma do Tribunal Superior do Trabalho [realizada em 10 de setembro de 2008]<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F202023&amp;rft_id=25&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2008-09-10</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/202016/2008_ata_0019a_sessao_ord_setr08.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/202016/2008_ata_0019a_sessao_ord_setr08.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/202016">Ata</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/202016">
+<h4 class="artifact-title">Ata da D&eacute;cima Nona Sess&atilde;o Ordin&aacute;ria da Oitava Turma do Tribunal Superior do Trabalho [realizada em 25 de junho de 2008]<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F202016&amp;rft_id=19&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2008-06-25</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> <strong>- 338/2001-026-02-40.7</strong> da 2a. Regi&atilde;o, 
+Relator: Min. Ministro M&aacute;rcio Eurico Vitral Amaro, Agravante(s): S&atilde;o Paulo Transporte S.A. - 
+SPTrans, Advogada: Dra. Maria Antonietta Mascaro, Advogado: Dr. Alberto Brand&atilde;o Henriques 
+Maimoni, Agravado(s): Paulo Claudeno da Silva, &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/104992/2012_rev_ltr_v0076_n0007.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/104992/2012_rev_ltr_v0076_n0007.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/104992">Peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/104992">
+<h4 class="artifact-title">Revista Ltr: legisla&ccedil;&atilde;o do trabalho: vol. 76, n. 7 (jul. 2012)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+LTR%3A+legisla%C3%A7%C3%A3o+do+trabalho.+S%C3%A3o+Paulo%3A+Ltr%2C+v.+76%2C+n.+7%2C+jul.+2012.+134+p.&amp;rft_id=1516-9154&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F104992&amp;rft_id=7&amp;rft_id=76&amp;rft_id=in00001177175&amp;rft_id=000420266&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"></span> <span class="author h4">| 2012-07</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/79142/2009_rev_trt04_v05_n081.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/79142/2009_rev_trt04_v05_n081.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/79142">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/79142">
+<h4 class="artifact-title">Revista eletr&ocirc;nica: ac&oacute;rd&atilde;os, senten&ccedil;as, ementas, artigos e informa&ccedil;&otilde;es: vol. 5, n. 81 (ago. 2009)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+ELETR%C3%94NICA%3A+ac%C3%B3rd%C3%A3os%2C+senten%C3%A7as%2C+ementas%2C+artigos+e+informa%C3%A7%C3%B5es.+Porto+Alegre%3A+Escola+Judicial+do+Tribunal+Regional+do+Trabalho+da+4.+Regi%C3%A3o%2C+v.+5%2C+n.+81%2C+ago.+2009.+122+p.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F79142&amp;rft_id=81&amp;rft_id=5&amp;rft_id=in00001174305&amp;rft_id=001043557&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (4. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2009-08</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 
+Processo n&ordm; <strong>00338</strong>-2008-512-04-00-6 RO. Publica&ccedil;&atilde;o em 22.07.2009).......................................................38
+:: Ano V | N&uacute;mero 81 | 1&ordf; Quinzena de Agosto de 2009 ::
+1.6. Policial militar. Fun&ccedil;&atilde;o de vigia. Reclamada que tem por praxe contratar &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/77152/2010_rev_trt02_n004.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/77152/2010_rev_trt02_n004.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/77152">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/77152">
+<h4 class="artifact-title">Revista do Tribunal do Trabalho da 2&ordf; Regi&atilde;o: n. 4 (2010)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+DO+TRIBUNAL+DO+TRABALHO+DA+2%C2%AA+REGI%C3%83O.+S%C3%A3o+Paulo%3A+Tribunal+Regional+do+Trabalho+da+2.+Regi%C3%A3o%2C+n.+4%2C+2010.+510+p.&amp;rft_id=1984-5448&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F77152&amp;rft_id=4&amp;rft_id=in00001177292&amp;rft_id=000364592&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (2. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2010</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/77287/2013_rev_trt02_n014.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/77287/2013_rev_trt02_n014.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/77287">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/77287">
+<h4 class="artifact-title">Revista do Tribunal do Trabalho da 2&ordf; Regi&atilde;o: n. 14 (2013)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+DO+TRIBUNAL+DO+TRABALHO+DA+2%C2%AA+REGI%C3%83O.+S%C3%A3o+Paulo%3A+Tribunal+Regional+do+Trabalho+da+2%C2%AA+Regi%C3%A3o%2C+n.+14%2C+2013.+542+p.&amp;rft_id=1984-5448&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F77287&amp;rft_id=14&amp;rft_id=in00001173506&amp;rft_id=000133874&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (2. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2013</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/77286/2009_rev_trt02_n002.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/77286/2009_rev_trt02_n002.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/77286">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/77286">
+<h4 class="artifact-title">Revista do Tribunal do Trabalho da 2&ordf; Regi&atilde;o: n. 2 (2009)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+DO+TRIBUNAL+DO+TRABALHO+DA+2%C2%AA+REGI%C3%83O.+S%C3%A3o+Paulo%3A+Tribunal+Regional+do+Trabalho+da+2.+Regi%C3%A3o%2C+n.+2%2C+2009.+579+p.&amp;rft_id=1984-5448&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F77286&amp;rft_id=2&amp;rft_id=in00001173506&amp;rft_id=001133874&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (2. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2009</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/191605/2021_rev_trt09_eletr_v0010_n0100.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/191605/2021_rev_trt09_eletr_v0010_n0100.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/191605">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/191605">
+<h4 class="artifact-title">Revista eletr&ocirc;nica [do] Tribunal Regional do Trabalho da 9&ordf; Regi&atilde;o: vol. 10, n. 100 (jun. 2021)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+ELETR%C3%94NICA+%5BDO%5D+TRIBUNAL+REGIONAL+DO+TRABALHO+DA+9%C2%AA+REGI%C3%83O.+Curitiba%3A+Escola+Judicial+do+Tribunal+Regional+do+Trabalho+da+9.+Regi%C3%A3o%2C+v.+10%2C+n.+100%2C+jun.+2021.+146+p.&amp;rft_id=2238-6114&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F191605&amp;rft_id=100&amp;rft_id=10&amp;rft_id=in00001173769&amp;rft_id=001043562&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (9. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2021-06</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/86345/2016_rev_trt09_v005_n049.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/86345/2016_rev_trt09_v005_n049.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/86345">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/86345">
+<h4 class="artifact-title">Revista eletr&ocirc;nica [do] Tribunal Regional do Trabalho da 9&ordf; Regi&atilde;o: vol. 5, n. 49 (abr. 2016)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+ELETR%C3%94NICA+%5BDO%5D+TRIBUNAL+REGIONAL+DO+TRABALHO+DA+9%C2%AA+REGI%C3%83O.+Curitiba%3A+Escola+Judicial+do+Tribunal+Regional+do+Trabalho+da+9.+Regi%C3%A3o%2C+v.+5%2C+n.+49%2C+abr.+2016.+378+p.&amp;rft_id=2238-6114&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F86345&amp;rft_id=49&amp;rft_id=5&amp;rft_id=in00001173769&amp;rft_id=001043562&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (9. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2016-04</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/25136/2011_rev_tst_v077_n002.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/25136/2011_rev_tst_v077_n002.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/25136">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/25136">
+<h4 class="artifact-title">Revista do Tribunal Superior do Trabalho: vol. 77, n. 2 (abr./jun. 2011)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+DO+TRIBUNAL+SUPERIOR+DO+TRABALHO.+S%C3%A3o+Paulo%3A+LexMagister%2C+v.+77%2C+n.+2%2C+abr.%2Fjun.+2011.+382+p.&amp;rft_id=0103-7978&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F25136&amp;rft_id=2&amp;rft_id=77&amp;rft_id=in00001179340&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2011-06</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/104983/2011_rev_ltr_v0075_n0011.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/104983/2011_rev_ltr_v0075_n0011.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/104983">Peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/104983">
+<h4 class="artifact-title">Revista Ltr: legisla&ccedil;&atilde;o do trabalho: vol. 75, n. 11 (nov. 2011)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+LTR%3A+legisla%C3%A7%C3%A3o+do+trabalho.+S%C3%A3o+Paulo%3A+Ltr%2C+v.+75%2C+n.+11%2C+nov.+2011.+128+p.&amp;rft_id=1516-9154&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F104983&amp;rft_id=11&amp;rft_id=75&amp;rft_id=in00001177175&amp;rft_id=000420266&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"></span> <span class="author h4">| 2011-11</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/163789/2013_rev_forum_trabalhista_v0002_n0004.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/163789/2013_rev_forum_trabalhista_v0002_n0004.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/163789">Peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/163789">
+<h4 class="artifact-title">Revista F&oacute;rum trabalhista: RFT: ano 2, n. 4 (jan./fev. 2013)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+F%C3%93RUM+TRABALHISTA.+Belo+Horizonte%3A+F%C3%B3rum%2C+ano+2%2C+n.+4%2C+jan.%2Ffev.+2013.+276+p.&amp;rft_id=2238-4138&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F163789&amp;rft_id=4&amp;rft_id=2&amp;rft_id=in00001173735&amp;rft_id=000951743&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"></span> <span class="author h4">| 2013-02</span>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/189651/2021_rev_trt09_eletr_v0010_n0099.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/189651/2021_rev_trt09_eletr_v0010_n0099.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/189651">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/189651">
+<h4 class="artifact-title">Revista eletr&ocirc;nica [do] Tribunal Regional do Trabalho da 9&ordf; Regi&atilde;o: vol. 10, n. 99 (maio 2021)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+ELETR%C3%94NICA+%5BDO%5D+TRIBUNAL+REGIONAL+DO+TRABALHO+DA+9%C2%AA+REGI%C3%83O.+Curitiba%3A+Escola+Judicial+do+Tribunal+Regional+do+Trabalho+da+9.+Regi%C3%A3o%2C+v.+10%2C+n.+99%2C+maio+2021.+125+p.&amp;rft_id=2238-6114&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F189651&amp;rft_id=99&amp;rft_id=10&amp;rft_id=in00001173769&amp;rft_id=001043562&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Regional do Trabalho (9. Regi&atilde;o) (TRT)</span></span> <span class="author h4">| 2021-05</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> III da S&uacute;mula 244 do C. TST, 
+aprovado pela <strong>Resolu&ccedil;&atilde;o</strong> n. <strong>129</strong>/2005, DJ 20, 22 
+e 25.04.2005: 
+N&atilde;o h&aacute; direito da empregada gestante 
+&agrave; estabilidade provis&oacute;ria na hip&oacute;tese 
+de admiss&atilde;o mediante contrato de 
+experi&ecirc;ncia, visto que a extin&ccedil;&atilde;o 
+da rela&ccedil;&atilde;o de emprego, &hellip;</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pagination-masked clearfix bottom">
+<div class="centered-pagination">
+<ul class="pagination">
+<li class="disabled">
+<a class="previous-page-link" href="discover?rpp=20&etal=0&query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&group_by=none&page=0"><span class="glyphicon glyphicon-arrow-left"></span></a>
+</li>
+<li class="active">
+<a href="discover?rpp=20&etal=0&query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&group_by=none&page=1">1</a>
+</li>
+<li class="page-link page-link-offset-1">
+<a href="discover?rpp=20&etal=0&query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&group_by=none&page=2">2</a>
+</li>
+<li class="page-link page-link-offset-2">
+<a href="discover?rpp=20&etal=0&query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&group_by=none&page=3">3</a>
+</li>
+<li class="page-link page-link-offset-3">
+<a href="discover?rpp=20&etal=0&query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&group_by=none&page=4">4</a>
+</li>
+<li>
+<span>. . .</span>
+</li>
+<li class="last-page-link">
+<a href="discover?rpp=20&etal=0&query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&group_by=none&page=9">9</a>
+</li>
+<li>
+<a class="next-page-link" href="discover?rpp=20&etal=0&query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&group_by=none&page=2"><span class="glyphicon glyphicon-arrow-right"></span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3 hidden-xs hidden-sm right-side-menu">
+<h2 class="ds-option-set-head  h6">Filtros</h2>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group">
+<ul class="list-group">
+<a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Autor</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=fdf3cbee-00dd-4f7f-918e-c3458fd3e41d" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST) (146)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=b174606a-0511-4346-ad1c-6ad0b999a97c" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (3. Regi&atilde;o) (TRT) (4)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=8e408a8b-1c0a-4b3c-812f-e08ef839cf5e" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (9. Regi&atilde;o) (TRT) (4)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=05b11cc0-255c-4c2c-a930-c25c5bef2408" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (2. Regi&atilde;o) (TRT) (3)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=author&filter_relational_operator=authority&filter=4c272c48-9047-4f3b-80fb-4eff0281e0ad" class="list-group-item ds-option">Brasil. Tribunal Regional do Trabalho (1. Regi&atilde;o) (TRT) (2)</a><a href="/search-filter?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&field=author" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Assunto</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Jurisprud%C3%AAncia+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Jurisprud&ecirc;ncia trabalhista, peri&oacute;dico (18)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Legisla%C3%A7%C3%A3o+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Legisla&ccedil;&atilde;o trabalhista, peri&oacute;dico (17)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Direito+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Direito do trabalho, peri&oacute;dico (16)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Justi%C3%A7a+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Justi&ccedil;a do trabalho, peri&oacute;dico (15)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Processo+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Processo trabalhista, peri&oacute;dico (15)</a><a href="/search-filter?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&field=subject" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Data</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=IssuedCreated&filter_relational_operator=equals&filter=%5B2000+TO+2026%5D" class="list-group-item ds-option">2000 - 2026 (166)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=IssuedCreated&filter_relational_operator=equals&filter=%5B1900+TO+1999%5D" class="list-group-item ds-option">1900 - 1999 (1)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Categoria</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Peri%C3%B3dico" class="list-group-item ds-option">Peri&oacute;dico (159)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Extrato" class="list-group-item ds-option">Extrato (136)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Artigo+de+peri%C3%B3dico" class="list-group-item ds-option">Artigo de peri&oacute;dico (2)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Colet%C3%A2nea" class="list-group-item ds-option">Colet&acirc;nea (1)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Doutrina" class="list-group-item ds-option">Doutrina (1)</a><a href="/search-filter?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&field=type" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Esp&eacute;cie normativa</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Ata" class="list-group-item ds-option">Ata (3)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Resolu%C3%A7%C3%A3o" class="list-group-item ds-option">Resolu&ccedil;&atilde;o (2)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Enunciado" class="list-group-item ds-option">Enunciado (1)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=S%C3%BAmula" class="list-group-item ds-option">S&uacute;mula (1)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">N&iacute;vel de acesso</span></a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+aberto" class="list-group-item ds-option">Acesso aberto (162)</a><a href="/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+restrito" class="list-group-item ds-option">Acesso restrito (5)</a>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<footer class="footer-distributed">
+<div class="footer-left">
+<div class="footer-logo">
+<a href="http://www.tst.jus.br"><img src="/themes/Mirage2//images/tst_footer.svg"></a>
+</div>
+<p class="footer-links">
+<a href="/">In&iacute;cio</a>
+					&middot;
+					<a href="http://www.tst.jus.br">P&aacute;gina do TST</a>
+</p>
+</div>
+<div class="footer-center">
+<div>
+<a target="_blank" href="https://www.google.com.br/maps/place/Tribunal+Superior+do+Trabalho+-+TST/@-15.8113724,-47.8685148,17z/data=!4m5!3m4!1s0x0000000000000000:0x0aaa49ee4cb2f752!8m2!3d-15.8113067!4d-47.8681967"><i class="fa fa-map-marker"></i></a>
+<p>SAF Sul, Bras&iacute;lia, Distrito Federal</p>
+</div>
+<div>
+<a href="http://www.tst.jus.br/web/biblioteca/fale-com-o-bibliotecario#column-2" target="_blank"><i class="fa fa-envelope"></i></a>
+<p>
+<a href="http://www.tst.jus.br/web/biblioteca/fale-com-o-bibliotecario#column-2" target="_blank">Fale com um Bibliotec&aacute;rio</a>
+</p>
+</div>
+</div>
+<div class="footer-right">
+<p class="footer-company-about">
+<span>Sobre a JusLaboris</span>A JusLaboris dissemina conhecimento na &aacute;rea do Direito e campos correlatos de conhecimento, especialmente o direito do trabalho, permitindo a pesquisa em seus 64872 itens, observada a legisla&ccedil;&atilde;o de direitos autorais em vigor.</p>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+<p>&nbsp;</p>
+</footer>
+</div>
+<a title="Voltar ao topo" data-placement="auto top" data-toggle="backbutton" id="return-to-top" href="#"><i aria-hidden="true" class="fa fa-chevron-up"></i></a><script>if(!window.DSpace){window.DSpace={};}window.DSpace.context_path='';window.DSpace.theme_path='/themes/Mirage2/';</script><script src="/themes/Mirage2/scripts/theme.js"> </script><script src="/static/js/discovery/discovery-results.js"> </script><script src="https://www.googletagmanager.com/gtag/js?id=G-Y8LDHR7C5S" async="async"></script><script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-Y8LDHR7C5S');
+		  </script><script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                  ga('create', 'UA-9039989-4', 'juslaboris.tst.jus.br');
+                  ga('send', 'pageview');
+           </script><script type="text/javascript">
+            $(document).ready(function() {
+                if(! $(".right-side-menu .ds-option-set-head").length ){
+                  $(".main-content").addClass("col-md-9")
+                }
+            });
+            </script><script type="text/javascript">
+			$(document).ready(function(){
+			 $(window).scroll(function () {
+					if ($(this).scrollTop() >= 600) {
+						$('#return-to-top').fadeIn(200);
+					} else {
+						$('#return-to-top').fadeOut(200);
+					}
+				});
+				// scroll body to 0px on click
+				$('#return-to-top').click(function () {
+					$('#return-to-top').tooltip('hide');
+					$('body,html').animate({
+						scrollTop: 0
+					}, 800);
+					return false;
+				});
+				
+				$('[data-toggle="backbutton"]').tooltip({
+				'delay': { show: 800, hide: 300 }
+				});
+				});
+		</script><script type="text/javascript">
+            $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+		</script><script src="/themes/Mirage2/scripts/bootstrap-multiselect.js" type="text/javascript"></script><script type="text/javascript">
+			$(document).ready(function() {
+
+		// Selecao de unidades administrativas: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_contributor_other').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma unidade selecionada',
+					filterPlaceholder: 'Digite a sigla ou parte do nome da unidade',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as unidades estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'unidades selecionadas',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de especie normativa: fluxo de submissao - colecao atos normativos
+				$('#aspect_submission_StepTransformer_field_dc_type_ato').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma espécie normativa selecionada',
+					filterPlaceholder: 'Digite a sigla ou parte do nome da espécie normativa',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as espécies normativas estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'espécies normativas selecionadas',
+					buttonWidth: '100%',
+				});
+				
+		// Selecao de metadados: tela de edicao de item
+				$('#aspect_administrative_item_EditItemMetadataForm_field_field').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhum metadado selecionado',
+					filterPlaceholder: 'Digite o metadado ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'metadado selecionado',
+					buttonWidth: '100%',
+				});
+				
+		// Selecao de grupos: tela de edicao de politica
+				$('#aspect_administrative_authorization_EditPolicyForm_field_group_id').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhum grupo selecionado',
+					filterPlaceholder: 'Digite o nome do grupo ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'grupo selecionado',
+					buttonWidth: '100%',
+				});
+				
+		// Selecao de colecoes: tela do fluxo de submissao
+				$('#aspect_submission_submit_SelectCollectionStep_field_handle').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma coleção selecionada',
+					filterPlaceholder: 'Digite o nome da coleção ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'coleção selecionada',
+					buttonWidth: '100%',
+				});
+			
+		// Selecao de espécie normativa: pesquisa estruturada - colecao atos normativos
+				$('#especienormativa').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma unidade selecionada',
+					filterPlaceholder: 'Digite a espécie ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'espécie selecionada',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de unidade administrativa: pesquisa estruturada - colecao atos normativos
+				$('#unidades').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma unidade selecionada',
+					filterPlaceholder: 'Digite a unidade ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'espécie normativa selecionada',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de categoria: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_type_genre').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma categoria selecionada',
+					filterPlaceholder: 'Digite parte do nome da categoria',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as categorias estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'categorias selecionadas',
+					buttonWidth: '100%',
+				});
+		// Selecao da situacao: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_description_status').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma situação selecionada',
+					filterPlaceholder: 'Digite parte do nome da situação',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: false,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as situações estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'situações selecionadas',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de natureza do documento: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_type_material').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhum item selecionado',
+					filterPlaceholder: 'Digite parte do nome do item',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todos os itens estão selecionados',
+					numberDisplayed: 10,
+					nSelectedText: 'itens selecionados',
+					buttonWidth: '100%',
+				});
+				
+			// Script - remocao de menu de contexto para videos 		
+			$('#audiovideo').bind('contextmenu',function() { return false; });
+
+			$('#collapseExample1').bind('contextmenu',function() { return false; });
+				
+				});
+		</script>
+</body></html>

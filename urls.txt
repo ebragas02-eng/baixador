@@ -1,6 +1,6 @@
-# ord2-empresarial normas 2 (locacao, representacao, propriedade industrial, arbitragem)
-ord2emp/l8245.htm https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
-ord2emp/l4886.htm https://www.planalto.gov.br/ccivil_03/leis/l4886.htm
-ord2emp/l9279.htm https://www.planalto.gov.br/ccivil_03/leis/l9279.htm
-ord2emp/l9307.htm https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
-ord2emp/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm
+# ord2-trabalho (3) sumulas TST
+ord2trab/tst_sumulas.html https://www.tst.jus.br/sumulas
+ord2trab/tst_sumulas2.html https://www.tst.jus.br/web/guest/sumulas
+ord2trab/tst_livro2.pdf https://www.tst.jus.br/documents/d/guest/livro-internet
+ord2trab/tst_ojs.html https://www.tst.jus.br/ojs
+ord2trab/trt2_juris.pdf https://ww2.trt2.jus.br/fileadmin/nugep/jurisconsolidada/Juris_consolidada.pdf

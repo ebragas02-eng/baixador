@@ -1,2 +1,18 @@
-# ord2-tributario edital oficial 20/11 d
-ord2trib/ed48_oab.pdf https://s.oab.org.br/arquivos/2026/09/fb43fb37-838e-4d33-a863-99fa1f98b921.pdf
+# tarefa ord2adm leis 2 tentativa 1 1795183723
+ord2adm/l9507.htm https://www.planalto.gov.br/ccivil_03/leis/l9507.htm
+ord2adm/l6830.htm https://www.planalto.gov.br/ccivil_03/leis/l6830.htm
+ord2adm/l9873.htm https://www.planalto.gov.br/ccivil_03/leis/l9873.htm
+ord2adm/l11417.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11417.htm
+ord2adm/l13300.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13300.htm
+ord2adm/l8666.htm https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm
+ord2adm/l10406.htm https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+ord2adm/l13709.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+ord2adm/l13019.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm
+ord2adm/l9637.htm https://www.planalto.gov.br/ccivil_03/leis/l9637.htm
+ord2adm/l11107.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm
+ord2adm/l12529.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm
+ord2adm/dl25.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del0025.htm
+ord2adm/stj_verbetes.pdf https://www.stj.jus.br/docs_internet/jurisprudencia/tematica/download/SU/Verbetes/VerbetesSTJ.pdf
+ord2adm/stf_sumulas.pdf https://www.stf.jus.br/arquivo/cms/jurisprudenciaSumula/anexo/Enunciados_Sumulas_STF_1_a_736_Completo.pdf
+ord2adm/stf_sv.pdf https://www.stf.jus.br/arquivo/cms/jurisprudenciaSumulaVinculante/anexo/Enunciados_SV_1_a_58.pdf
+ord2adm/stf_sv2.pdf https://portal.stf.jus.br/textos/verTexto.asp?servico=jurisprudenciaSumulaVinculante

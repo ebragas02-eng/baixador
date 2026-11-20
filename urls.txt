@@ -1,22 +1,9 @@
-# oab-lancamento normas camara
-oabr/n101.html https://www2.camara.leg.br/legin/fed/leicom/2000/leicomplementar-101-4-maio-2000-351480-normaatualizada-pl.html
-oabr/n123.html https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.html
-oabr/n12594.html https://www2.camara.leg.br/legin/fed/lei/2012/lei-12594-18-janeiro-2012-612303-normaatualizada-pl.html
-oabr/n12651.html https://www2.camara.leg.br/legin/fed/lei/2012/lei-12651-25-maio-2012-613076-normaatualizada-pl.html
-oabr/n140.html https://www2.camara.leg.br/legin/fed/leicom/2011/leicomplementar-140-8-dezembro-2011-611919-normaatualizada-pl.html
-oabr/n14133.html https://www2.camara.leg.br/legin/fed/lei/2021/lei-14133-1-abril-2021-791222-normaatualizada-pl.html
-oabr/n4320.html https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-4320-17-marco-1964-376590-normaatualizada-pl.html
-oabr/n4737.html https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-4737-15-julho-1965-356297-normaatualizada-pl.html
-oabr/n64.html https://www2.camara.leg.br/legin/fed/leicom/1990/leicomplementar-64-18-maio-1990-363991-normaatualizada-pl.html
-oabr/n6938.html https://www2.camara.leg.br/legin/fed/lei/1980-1987/lei-6938-31-agosto-1981-366135-normaatualizada-pl.html
-oabr/n8069.html https://www2.camara.leg.br/legin/fed/lei/1990/lei-8069-13-julho-1990-372211-normaatualizada-pl.html
-oabr/n8078.html https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html
-oabr/n8112.html https://www2.camara.leg.br/legin/fed/lei/1990/lei-8112-11-dezembro-1990-322161-normaatualizada-pl.html
-oabr/n8212.html https://www2.camara.leg.br/legin/fed/lei/1991/lei-8212-24-julho-1991-363647-normaatualizada-pl.html
-oabr/n8213.html https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html
-oabr/n8742.html https://www2.camara.leg.br/legin/fed/lei/1993/lei-8742-7-dezembro-1993-363163-normaatualizada-pl.html
-oabr/n9096.html https://www2.camara.leg.br/legin/fed/lei/1995/lei-9096-19-setembro-1995-368874-normaatualizada-pl.html
-oabr/n9474.html https://www2.camara.leg.br/legin/fed/lei/1997/lei-9474-22-julho-1997-365390-normaatualizada-pl.html
-oabr/n9504.html https://www2.camara.leg.br/legin/fed/lei/1997/lei-9504-30-setembro-1997-365408-normaatualizada-pl.html
-oabr/n9605.html https://www2.camara.leg.br/legin/fed/lei/1998/lei-9605-12-fevereiro-1998-365397-normaatualizada-pl.html
-oabr/n9985.html https://www2.camara.leg.br/legin/fed/lei/2000/lei-9985-18-julho-2000-359708-normaatualizada-pl.html
+# ord2-empresarial normas planalto (cheque, LUG, duplicata, protesto, CPC, CC, LFR)
+ord2emp/l7357.htm https://www.planalto.gov.br/ccivil_03/leis/l7357.htm
+ord2emp/d57663.htm https://www.planalto.gov.br/ccivil_03/decreto/antigos/d57663.htm
+ord2emp/l5474.htm https://www.planalto.gov.br/ccivil_03/leis/l5474.htm
+ord2emp/l9492.htm https://www.planalto.gov.br/ccivil_03/leis/l9492.htm
+ord2emp/l13105.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
+ord2emp/l10406.htm https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+ord2emp/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+ord2emp/l13775.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13775.htm

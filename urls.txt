@@ -1,4 +1,4 @@
-# tarefa ord2adm 3 tentativa 1 1795184145
-ord2adm/sv_resumido.pdf https://www.stf.jus.br/arquivo/cms/jurisprudenciaSumulaVinculante/anexo/Enunciados_Sumula_Vinculante_STF_Resumido_v1.2comcapa.pdf
-ord2adm/ec113.htm https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc113.htm
-ord2adm/l10259.htm https://www.planalto.gov.br/ccivil_03/leis/leis_2001/LEIS_2001/l10259.htm
+# ord2-trabalho (5) emc141
+ord2trab/emc141.htm https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm
+ord2trab/emc140.htm https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc140.htm
+ord2trab/l8009.htm https://www.planalto.gov.br/ccivil_03/leis/l8009.htm

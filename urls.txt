@@ -1,4 +1,2 @@
-# tarefa ord2-escrita-b (fontes oficiais) 5
-esc_b/jl_287.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+287%22+gerente&rpp=20
-esc_b/jl_269d.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+269%22+diretor&rpp=20
-esc_b/jl_338b.html https://juslaboris.tst.jus.br/discover?query=%22Resolu%C3%A7%C3%A3o+n.+129%22+338&rpp=20
+# tarefa ord2-escrita-b (fontes oficiais) 6
+esc_b/jl_428.html https://juslaboris.tst.jus.br/discover?query=%22S

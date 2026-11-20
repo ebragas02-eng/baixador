@@ -1,18 +1,11 @@
-# ord2-trabalho (4) leis
-ord2trab/l12016.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
-ord2trab/l8036.htm https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm
-ord2trab/l6830.htm https://www.planalto.gov.br/ccivil_03/leis/l6830.htm
-ord2trab/lcp150.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm
-ord2trab/l9029.htm https://www.planalto.gov.br/ccivil_03/leis/l9029.htm
-ord2trab/l7418.htm https://www.planalto.gov.br/ccivil_03/leis/l7418.htm
-ord2trab/l605.htm https://www.planalto.gov.br/ccivil_03/leis/l0605.htm
-ord2trab/l12506.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12506.htm
-ord2trab/l8213.htm https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
-ord2trab/l6019.htm https://www.planalto.gov.br/ccivil_03/leis/l6019.htm
-ord2trab/l7701.htm https://www.planalto.gov.br/ccivil_03/leis/l7701.htm
-ord2trab/l7783.htm https://www.planalto.gov.br/ccivil_03/leis/l7783.htm
-ord2trab/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
-ord2trab/l13709.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
-ord2trab/l4090.htm https://www.planalto.gov.br/ccivil_03/leis/l4090.htm
-ord2trab/l7347.htm https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm
-ord2trab/cc.htm https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+# ord2-empresarial normas 3 t1
+ord2emp/lcp123.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm
+ord2emp/l12846.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm
+ord2emp/l12529.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12529.htm
+ord2emp/l13874.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13874.htm
+ord2emp/del911.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del0911.htm
+ord2emp/l13966.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13966.htm
+ord2emp/cf.htm https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+ord2emp/l6385.htm https://www.planalto.gov.br/ccivil_03/leis/l6385compilada.htm
+ord2emp/l13303.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm
+ord2emp/l8934.htm https://www.planalto.gov.br/ccivil_03/leis/l8934.htm

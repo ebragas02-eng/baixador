@@ -1,0 +1,1333 @@
+<!DOCTYPE html>
+            <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+            <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+            <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+            <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+            <head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="description" content="A JusLaboris &ndash; Biblioteca Digital do Tribunal Superior do Trabalho &eacute; um reposit&oacute;rio que visa disseminar conhecimento na &aacute;rea do Direito, com &ecirc;nfase no ramo trabalhista.">
+<meta content="evKKOTLQlomj-2r7MnOf3wM2JWfmA99gNPwjvc6dvTM" name="google-site-verification">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link rel="icon" href="/themes/Mirage2/images/favicon.svg">
+<link rel="icon" href="/themes/Mirage2/images/favicon-64.png">
+<link rel="icon" href="/themes/Mirage2/images/favicon-32.png">
+<link rel="icon" href="/themes/Mirage2/images/favicon-64.ico">
+<link rel="icon" href="/themes/Mirage2/images/favicon-32.ico">
+<link rel="apple-touch-icon" href="/themes/Mirage2/images/apple-touch-icon.png">
+<meta name="Generator" content=" 5.5">
+<link href="/themes/Mirage2/styles/main.css" rel="stylesheet">
+<link href="/themes/Mirage2/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="/themes/Mirage2/styles/bootstrap-multiselect.css" rel="stylesheet">
+<link type="application/opensearchdescription+xml" rel="search" href="http://juslaboris.tst.jus.br:80/open-search/description.xml" title="JusLaboris">
+<script>
+                //Clear default text of emty text areas on focus
+                function tFocus(element)
+                {
+                if (element.value == ' '){element.value='';}
+                }
+                //Clear default text of emty text areas on submit
+                function tSubmit(form)
+                {
+                var defaultedElements = document.getElementsByTagName("textarea");
+                for (var i=0; i != defaultedElements.length; i++){
+                if (defaultedElements[i].value == ' '){
+                defaultedElements[i].value='';}}
+                }
+                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                function disableEnterKey(e)
+                {
+                var key;
+
+                if(window.event)
+                key = window.event.keyCode;     //Internet Explorer
+                else
+                key = e.which;     //Firefox and Netscape
+
+                if(key == 13)  //if "Enter" pressed, then disable!
+                return false;
+                else
+                return true;
+                }
+            </script><!--[if lt IE 9]>
+                <script src="/themes/Mirage2/vendor/html5shiv/dist/html5shiv.js"> </script>
+                <script src="/themes/Mirage2/vendor/respond/dest/respond.min.js"> </script>
+                <![endif]--><script src="/themes/Mirage2/vendor/modernizr/modernizr.js"> </script>
+<title>Pesquisa</title>
+</head><body>
+<header>
+<div role="navigation" class="navbar navbar-default navbar-static-top">
+<div class="container">
+<div class="row visible-xs hidden-sm hidden-md hidden-lg">
+<div class="col-xs-12">
+<div class="pull-right">
+<ul class="nav nav-pills pull-left">
+<li class="dropdown" id="ds-language-selection-xs">
+<button data-toggle="dropdown" class="dropdown-toggle navbar-toggle navbar-link" role="button" href="#" id="language-dropdown-toggle-xs"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-globe"></b></button>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle-xs" role="menu" class="dropdown-menu pull-right">
+<li role="presentation" class="disabled">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=pt_BR">portugu&ecirc;s (Brasil)</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=en">English</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=es">espa&ntilde;ol</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=fr">fran&ccedil;ais</a>
+</li>
+</ul>
+</li>
+<li>
+<form method="get" action="/login" style="display: inline">
+<button class="navbar-toggle navbar-link"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-user"></b></button>
+</form>
+</li>
+</ul>
+<button data-toggle="offcanvas" class="navbar-toggle" type="button"><span class="sr-only">Alternar navega&ccedil;&atilde;o</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+<ul class="nav nav-pills pull-left">
+<li>
+<a target="_blank" class="navbar-img" href="http://www.tst.jus.br"><img src="/themes/Mirage2//images/logotst_cinza_fundo_azul_.svg"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 col-xs-12">
+<a class="navbar-brand" href="/"><img src="/themes/Mirage2//images/logo_cabecalho.svg"></a>
+</div>
+<div class="col-xs-6 hidden-xs">
+<div class="row">
+<div class="col-sm-12">
+<div class="pull-right">
+<ul class="nav navbar-nav pull-left">
+<li class="dropdown" id="ds-language-selection">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="language-dropdown-toggle"><span class="hidden-xs">portugu&ecirc;s (Brasil)&nbsp;<b class="caret"></b></span></a>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle" role="menu" class="dropdown-menu pull-right">
+<li role="presentation" class="disabled">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=pt_BR">portugu&ecirc;s (Brasil)</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=en">English</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=es">espa&ntilde;ol</a>
+</li>
+<li role="presentation">
+<a href="http://juslaboris.tst.jus.br:80/discover?locale-attribute=fr">fran&ccedil;ais</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav pull-left">
+<li>
+<a href="/login"><span class="hidden-xs">Entrar</span></a>
+</li>
+</ul>
+<button type="button" class="navbar-toggle visible-sm" data-toggle="offcanvas"><span class="sr-only">Alternar navega&ccedil;&atilde;o</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+<ul class="nav navbar-nav pull-left">
+<li>
+<a target="_blank" class="navbar-img" href="http://www.tst.jus.br"><img src="/themes/Mirage2//images/logotst_cinza_fundo_azul_.svg"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row hidden-xs">
+<div class="col-md-12">
+<div class="pull-right nav-search-container">
+<form method="post" class="" id="ds-search-form" action="/discover">
+<fieldset>
+<div class="input-group">
+<input placeholder="Pesquisar em todo o acervo" type="text" class="ds-text-field form-control" name="query"><span class="input-group-btn"><button title="Pesquisar" class="ds-button-field btn btn-default"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+</fieldset>
+</form>
+<div class="search-tips">
+<a href="/bitstream/handle/20.500.12178/8791/juslaboris_dicas_pesquisa.pdf"><i aria-hidden="true" class="fa fa-question-circle-o"></i>Dicas de pesquisa</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row visible-xs hidden-sm hidden-md hidden-lg">
+<div class="col-xs-12">
+<div class="nav-search-container">
+<form method="post" class="" id="ds-search-form-2" action="/discover">
+<fieldset>
+<div class="input-group">
+<input placeholder="Pesquisar em todo o acervo" type="text" class="ds-text-field form-control" name="query"><span class="input-group-btn"><button title="Pesquisar" class="ds-button-field btn btn-default"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<div class="navbar-header"></div>
+</div>
+</div>
+</header>
+<div class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure">JavaScript is disabled for your browser. Some features of this site may not work without it.</div>
+</div>
+</div>
+<div class="container" id="main-container">
+<div class="row row-offcanvas row-offcanvas-left">
+<div class="horizontal-slider clearfix">
+<div role="navigation" id="sidebar" class="col-xs-6 col-sm-3 col-md-2 sidebar-offcanvas">
+<div class="word-break hidden-print" id="ds-options">
+<h2 class="ds-option-set-head  h6">Navegar</h2>
+<div id="aspect_viewArtifacts_Navigation_list_browse" class="list-group">
+<a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Toda a JusLaboris</span></a><a href="/community-list" class="list-group-item ds-option">Cole&ccedil;&otilde;es</a><a href="/browse?type=author" class="list-group-item ds-option">Autores</a><a href="/browse?type=title" class="list-group-item ds-option">T&iacute;tulos</a><a href="/browse?type=type" class="list-group-item ds-option">Categorias</a><a href="/browse?type=subject" class="list-group-item ds-option">Assuntos</a><a href="/browse?type=tags" class="list-group-item ds-option">Marcadores (<span style="font-size:80%; font-style: italic;">Tags</span>)</a><a href="/browse?type=otherauthors" class="list-group-item ds-option"></a>
+</div>
+<div class="visible-xs visible-sm">
+<h2 class="ds-option-set-head  h6">Filtros</h2>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group">
+<ul class="list-group">
+<a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Autor</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=authority&filter=fdf3cbee-00dd-4f7f-918e-c3458fd3e41d" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST) (88)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+8%C2%AA+Turma" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). 8&ordf; Turma (23)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+Secretaria+da+8%C2%AA+Turma+%28SETR8%29" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). Secretaria da 8&ordf; Turma (SETR8) (22)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+7%C2%AA+Turma" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). 7&ordf; Turma (17)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+Secretaria+da+7%C2%AA+Turma+%28SETR7%29" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). Secretaria da 7&ordf; Turma (SETR7) (17)</a><a href="/search-filter?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&field=author" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Assunto</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Jurisprud%C3%AAncia+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Jurisprud&ecirc;ncia trabalhista, peri&oacute;dico (49)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Processo+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Processo trabalhista, peri&oacute;dico (44)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Justi%C3%A7a+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Justi&ccedil;a do trabalho, peri&oacute;dico (43)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Direito+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Direito do trabalho, peri&oacute;dico (39)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Legisla%C3%A7%C3%A3o+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Legisla&ccedil;&atilde;o trabalhista, peri&oacute;dico (32)</a><a href="/search-filter?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&field=subject" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Data</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=IssuedCreated&filter_relational_operator=equals&filter=%5B2000+TO+2026%5D" class="list-group-item ds-option">2000 - 2026 (185)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Categoria</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Peri%C3%B3dico" class="list-group-item ds-option">Peri&oacute;dico (68)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Artigo+de+peri%C3%B3dico" class="list-group-item ds-option">Artigo de peri&oacute;dico (33)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Livro" class="list-group-item ds-option">Livro (7)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Jurisprud%C3%AAncia" class="list-group-item ds-option">Jurisprud&ecirc;ncia (3)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Colet%C3%A2nea" class="list-group-item ds-option">Colet&acirc;nea (2)</a><a href="/search-filter?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&field=type" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Esp&eacute;cie normativa</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Ata" class="list-group-item ds-option">Ata (74)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Resolu%C3%A7%C3%A3o" class="list-group-item ds-option">Resolu&ccedil;&atilde;o (2)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=S%C3%BAmula" class="list-group-item ds-option">S&uacute;mula (2)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Ato" class="list-group-item ds-option">Ato (1)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">N&iacute;vel de acesso</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+aberto" class="list-group-item ds-option">Acesso aberto (139)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+restrito" class="list-group-item ds-option">Acesso restrito (46)</a>
+</ul>
+</div>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_context" class="list-group"></div>
+<h2 class="ds-option-set-head  h6">Minha conta</h2>
+<div id="aspect_viewArtifacts_Navigation_list_account" class="list-group">
+<a href="/login" class="list-group-item ds-option">Entrar <span style="font-size:80%;">(use sua senha de rede)</span></a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_administrative" class="list-group"></div>
+<div id="aspect_statisticsGoogleAnalytics_Navigation_list_statistics" class="list-group"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-7 main-content">
+<div class="trail-wrapper hidden-print">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 custom-breadcrumb">
+<div class="breadcrumb dropdown visible-xs">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="trail-dropdown-toggle">Pesquisa&nbsp;<b class="caret"></b></a>
+<ul aria-labelledby="trail-dropdown-toggle" role="menu" class="dropdown-menu">
+<li role="presentation">
+<a role="menuitem" href="/"><i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+                        JusLaboris</a>
+</li>
+<li role="presentation" class="disabled">
+<a href="#" role="menuitem">Pesquisa</a>
+</li>
+</ul>
+</div>
+<ul class="breadcrumb hidden-xs">
+<li>
+<i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+            <a href="/">JusLaboris</a>
+</li>
+<li class="active">Pesquisa</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div>
+<h2 class="ds-div-head page-header first-page-header">Pesquisa</h2>
+<div id="aspect_discovery_SimpleSearch_div_search" class="ds-static-div primary">
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_discovery-json-search-url" class="ds-hidden-field form-control" name="discovery-json-search-url" type="hidden" value="https://juslaboris.tst.jus.br/JSON/discovery/search">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_contextpath" class="ds-hidden-field form-control" name="contextpath" type="hidden" value="">
+</p>
+<div id="aspect_discovery_SimpleSearch_div_discovery-search-box" class="ds-static-div discoverySearchBox">
+<form id="aspect_discovery_SimpleSearch_div_general-query" class="ds-interactive-div discover-search-box" action="discover" method="get" onsubmit="javascript:tSubmit(this);">
+<fieldset id="aspect_discovery_SimpleSearch_list_primary-search" class="ds-form-list">
+<div class="ds-form-item row">
+<div class="col-sm-3">
+<p>
+<select id="aspect_discovery_SimpleSearch_field_scope" class="ds-select-field form-control" name="scope"><option value="/" selected>Toda a JusLaboris</option><option value="20.500.12178/41">1. Doutrina</option><option value="20.500.12178/1">2. Atos normativos</option><option value="20.500.12178/14276">3. Institucional</option><option value="20.500.12178/11599">4. Produ&ccedil;&atilde;o intelectual de Ministros e Servidores / Trabalhos acad&ecirc;micos</option></select>
+</p>
+</div>
+<div class="col-sm-9">
+<p class="input-group">
+<input id="aspect_discovery_SimpleSearch_field_query" class="ds-text-field form-control" name="query" type="text" value="&quot;S&uacute;mula n. 428&quot; sobreaviso"><span class="input-group-btn"><button id="aspect_discovery_SimpleSearch_field_submit" class="ds-button-field btn btn-default search-icon search-icon" name="submit" type="submit">Pesquisar</button></span>
+</p>
+</div>
+</div>
+<div class="row">
+<div id="filters-overview-wrapper-squared" class="col-sm-offset-3 col-sm-9"></div>
+</div>
+</fieldset>
+<p id="aspect_discovery_SimpleSearch_p_hidden-fields" class="ds-paragraph hidden">
+<input id="aspect_discovery_SimpleSearch_field_rpp" class="ds-hidden-field form-control" name="rpp" type="hidden" value="20">
+</p>
+</form>
+<form id="aspect_discovery_SimpleSearch_div_search-filters" class="ds-interactive-div discover-filters-box" action="discover" method="get" onsubmit="javascript:tSubmit(this);">
+<div class="ds-static-div clearfix">
+<p class="ds-paragraph pull-right">
+<a href="#" class="show-advanced-filters">Pesquisa avan&ccedil;ada</a><a href="#" class="hide-advanced-filters hidden">Ocultar pesquisa avan&ccedil;ada</a>
+</p>
+</div>
+<h3 class="ds-div-head discovery-filters-wrapper-head hidden">Pesquisa avan&ccedil;ada</h3>
+<div id="aspect_discovery_SimpleSearch_div_discovery-filters-wrapper" class="ds-static-div  hidden">
+<p class="ds-paragraph">Clique em "Aplicar" para atualizar os resultados</p>
+<script type="text/javascript">
+                if (!window.DSpace) {
+                    window.DSpace = {};
+                }
+                if (!window.DSpace.discovery) {
+                    window.DSpace.discovery = {};
+                }
+                if (!window.DSpace.discovery.filters) {
+                    window.DSpace.discovery.filters = [];
+                }
+            </script><script>
+            if (!window.DSpace.i18n) {
+                window.DSpace.i18n = {};
+            }
+            if (!window.DSpace.i18n.discovery) {
+                window.DSpace.i18n.discovery = {};
+            }
+        
+                    if (!window.DSpace.i18n.discovery.filtertype) {
+                        window.DSpace.i18n.discovery.filtertype = {};
+                    }
+                window.DSpace.i18n.discovery.filtertype.search_text='Texto integral';window.DSpace.i18n.discovery.filtertype.title='Título';window.DSpace.i18n.discovery.filtertype.author='Autor';window.DSpace.i18n.discovery.filtertype.subject='Assunto';window.DSpace.i18n.discovery.filtertype.IssuedCreated='Data (ex.: 31-03-2009 ou 2009)';window.DSpace.i18n.discovery.filtertype.abstract='Resumo';window.DSpace.i18n.discovery.filtertype.description='Notas';window.DSpace.i18n.discovery.filtertype.type='Categoria (ex.: livro, artigo)';window.DSpace.i18n.discovery.filtertype.series='Série';window.DSpace.i18n.discovery.filtertype.citation='Referência bibliográfica';window.DSpace.i18n.discovery.filtertype.identifier='Handle, ID, ISBN, ISSN etc';window.DSpace.i18n.discovery.filtertype.rvbisys='Código RVBI';window.DSpace.i18n.discovery.filtertype.numdoc='Número/volume (ex.: 5)';window.DSpace.i18n.discovery.filtertype.ua='Unidade administrativa (ex.: CDOC)';window.DSpace.i18n.discovery.filtertype.situacao='Situação (ex.: revogado)';window.DSpace.i18n.discovery.filtertype.especieato='Espécie normativa (ex.: Lei)';window.DSpace.i18n.discovery.filtertype.publisher='Editora';window.DSpace.i18n.discovery.filtertype.allField='Somente descrição';window.DSpace.i18n.discovery.filtertype.original_bundle_filenames='Nome do arquivo';window.DSpace.i18n.discovery.filtertype.original_bundle_descriptions='Descrição do arquivo';window.DSpace.i18n.discovery.filtertype.accessrights='Nível de acesso (aberto ou restrito)';window.DSpace.i18n.discovery.filtertype.subject_free='';window.DSpace.i18n.discovery.filtertype.internal='';window.DSpace.i18n.discovery.filtertype.provenance='';
+                    if (!window.DSpace.i18n.discovery.filter_relational_operator) {
+                        window.DSpace.i18n.discovery.filter_relational_operator = {};
+                    }
+                window.DSpace.i18n.discovery.filter_relational_operator.contains='contém';window.DSpace.i18n.discovery.filter_relational_operator.equals='é exatamente';window.DSpace.i18n.discovery.filter_relational_operator.authority='ID do autor';window.DSpace.i18n.discovery.filter_relational_operator.notcontains='não contém';window.DSpace.i18n.discovery.filter_relational_operator.notequals='é diferente de';window.DSpace.i18n.discovery.filter_relational_operator.notauthority='ID do autor não é';</script>
+<div id="aspect_discovery_SimpleSearch_row_filter-controls" class="ds-form-item apply-filter">
+<div>
+<div class="">
+<p class="btn-group">
+<button id="aspect_discovery_SimpleSearch_field_submit_reset_filter" class="ds-button-field btn btn-default discovery-reset-filter-button discovery-reset-filter-button" name="submit_reset_filter" type="submit">Limpar</button><button class="ds-button-field btn btn-default discovery-add-filter-button visible-xs discovery-add-filter-button visible-xs " name="submit_add_filter" type="submit">Adicionar novo filtro</button><button id="aspect_discovery_SimpleSearch_field_submit_apply_filter" class="ds-button-field btn btn-default discovery-apply-filter-button discovery-apply-filter-button" name="submit_apply_filter" type="submit">Aplicar</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_query" class="ds-hidden-field form-control" name="query" type="hidden" value="&quot;S&uacute;mula n. 428&quot; sobreaviso">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_rpp" class="ds-hidden-field form-control" name="rpp" type="hidden" value="20">
+</p>
+</form>
+</div>
+<form id="aspect_discovery_SimpleSearch_div_main-form" class="ds-interactive-div " action="/discover" method="post" onsubmit="javascript:tSubmit(this);">
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_search-result" class="ds-hidden-field form-control" name="search-result" type="hidden" value="true">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_query" class="ds-hidden-field form-control" name="query" type="hidden" value="&quot;S&uacute;mula n. 428&quot; sobreaviso">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_current-scope" class="ds-hidden-field form-control" name="current-scope" type="hidden" value="">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_rpp" class="ds-hidden-field form-control" name="rpp" type="hidden" value="20">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_sort_by" class="ds-hidden-field form-control" name="sort_by" type="hidden" value="score">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_discovery_SimpleSearch_field_order" class="ds-hidden-field form-control" name="order" type="hidden" value="desc">
+</p>
+</form>
+<div class="pagination-masked clearfix top">
+<div class="row">
+<div class="col-xs-9">
+<p class="pagination-info">Mostrando os itens 1 a 20 de 185</p>
+</div>
+<div class="col-xs-3">
+<div class="btn-group discovery-sort-options-menu pull-right controls-gear-wrapper" id="aspect_discovery_SimpleSearch_div_search-controls-gear">
+<button data-toggle="dropdown" class="btn btn-default dropdown-toggle"><i aria-hidden="true" class="fa fa-sort"></i><span style="padding-left:5px;">Ordenar</span></button>
+<ul role="menu" class="dropdown-menu">
+<li id="aspect_discovery_SimpleSearch_item_sort-head" class=" gear-head first dropdown-header">Ordenar:</li>
+<li id="aspect_discovery_SimpleSearch_item_relevance" class=" gear-option gear-option-selected">
+<a class="" href="sort_by=score&order=desc"><span class="glyphicon glyphicon-ok btn-xs active"></span>Relev&acirc;ncia</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_title_sort" class=" gear-option">
+<a class="" href="sort_by=dc.title_sort&order=asc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>T&iacute;tulo (A-Z)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_title_sort" class=" gear-option">
+<a class="" href="sort_by=dc.title_sort&order=desc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>T&iacute;tulo (Z-A)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_issued_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.issued_dt&order=asc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de publica&ccedil;&atilde;o (mais antiga)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_issued_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.issued_dt&order=desc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de publica&ccedil;&atilde;o (mais recente)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_accessioned_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.accessioned_dt&order=asc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de inclus&atilde;o (mais antiga)</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_dc_date_accessioned_dt" class=" gear-option">
+<a class="" href="sort_by=dc.date.accessioned_dt&order=desc"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>Data de inclus&atilde;o (mais recente)</a>
+</li>
+<li class="divider"></li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-head" class=" gear-head dropdown-header">Resultados por p&aacute;gina:</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-5" class=" gear-option">
+<a class="" href="rpp=5"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>5</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-10" class=" gear-option">
+<a class="" href="rpp=10"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>10</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-20" class=" gear-option gear-option-selected">
+<a class="" href="rpp=20"><span class="glyphicon glyphicon-ok btn-xs active"></span>20</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-40" class=" gear-option">
+<a class="" href="rpp=40"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>40</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-60" class=" gear-option">
+<a class="" href="rpp=60"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>60</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-80" class=" gear-option">
+<a class="" href="rpp=80"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>80</a>
+</li>
+<li id="aspect_discovery_SimpleSearch_item_rpp-100" class=" gear-option">
+<a class="" href="rpp=100"><span class="glyphicon glyphicon-ok btn-xs invisible"></span>100</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="aspect_discovery_SimpleSearch_div_search-results" class="ds-static-div primary">
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/190689/2013_garcia_gustavo_sobreaviso_sum428tst.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/190689/2013_garcia_gustavo_sobreaviso_sum428tst.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/190689">Artigo de peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/190689">
+<h4 class="artifact-title">Sobreaviso e S&uacute;mula n&ordm; 428 do Tribunal Superior do Trabalho<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=GARCIA%2C+Gustavo+Filipe+Barbosa.+Sobreaviso+e+S%C3%BAmula+n%C2%BA+428+do+Tribunal+Superior+do+Trabalho.+Justi%C3%A7a+do+trabalho%2C+Porto+Alegre%2C+ano+30%2C+n.+355%2C+p.+7-18%2C+jul.+2013.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F190689&amp;rft_id=000971566&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Garcia, Gustavo Filipe Barbosa</span></span> <span class="author h4">| 2013-07</span>
+<div class="abstract">[por] Analisa o teletrabalho, em especial quanto &agrave;s consequ&ecirc;ncias decorrentes da Lei n. 12.551/2011, que reconheceu o trabalho a dist&acirc;ncia. Tamb&eacute;m se examina a quest&atilde;o do <strong>&ldquo;sobreaviso&rdquo;</strong> decorrente do uso de instrumentos eletr&ocirc;nicos de comunica&ccedil;&atilde;o &hellip;<br>
+</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span>; charset=UTF-8   
+  
+ 
+   JUSTI&Ccedil;A DO TRABALHO &ndash; 355/HS 7 
+Doutrina 
+ 
+ 
+<strong>SOBREAVISO</strong> E <strong>S&Uacute;MULA</strong> <strong>428</strong> DO                      
+TRIBUNAL SUPERIOR DO TRABALHO 
+ 
+ 
+GUSTAVO FILIPE BARBOSA GARCIA1 
+ 
+ 
+RESUMO: O objetivo deste texto &eacute; analisar o teletrabalho, em especial &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> anteriormente, a <strong>S&uacute;mula</strong> <strong>428</strong> do Tribunal 
+Superior do Trabalho assim dispunha: 
+ 
+<strong>&ldquo;Sobreaviso</strong> (convers&atilde;o da Orienta&ccedil;&atilde;o Jurisprudencial 49 da SBDI-1).          
+O uso de aparelho de intercomunica&ccedil;&atilde;o, a exemplo de BIP, &lsquo;pager&rsquo;             
+ou aparelho celular, &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/191455/2017_paines_gabriella_regime_sobreaviso.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/191455/2017_paines_gabriella_regime_sobreaviso.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/191455">Artigo de peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/191455">
+<h4 class="artifact-title">Regime de sobreaviso: considera&ccedil;&otilde;es sobre a sua caracteriza&ccedil;&atilde;o<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=PAINES%2C+Gabriela+Santos%3B+LAZZARIN%2C+Helena+Kugel.+Regime+de+sobreaviso%3A+considera%C3%A7%C3%B5es+sobre+a+sua+caracteriza%C3%A7%C3%A3o.+Revista+F%C3%B3rum+justi%C3%A7a+do+trabalho%2C+Belo+Horizonte%2C+ano+34%2C+n.+403%2C+p.+79-93%2C+jul.+2017.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F191455&amp;rft_id=000475953&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Paines, Gabriella Santos</span>; <span class="ds-dc_contributor_author-authority">Lazzarin, Helena Kugel</span></span> <span class="author h4">| 2017-07</span>
+<div class="abstract">Analisa o regime de <strong>sobreaviso,</strong> bem como especifica os elementos necess&aacute;rios para sua caracteriza&ccedil;&atilde;o. Para isso, primeiramente, o referido regime ser&aacute; conceituado. Ap&oacute;s, analisa quest&otilde;es b&aacute;sicas para sua caracteriza&ccedil;&atilde;o: a locomo&ccedil;&atilde;o restrita e o uso &hellip;<br>
+</div>
+<div class="abstract"> ◾ Estado de <strong>sobreaviso:</strong> Limites de locomo&ccedil;&atilde;o. Uso de telefones e aparelhos de chamada -- Considera&ccedil;&otilde;es sobre a interpreta&ccedil;&atilde;o do artigo 224 da Consolida&ccedil;&atilde;o das Leis do Trabalho e da <strong>S&uacute;mula</strong> n. <strong>428</strong> do Tribunal Superior do Trabalho &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> Considera&ccedil;&otilde;es sobre a interpreta&ccedil;&atilde;o do artigo 
+244 da Consolida&ccedil;&atilde;o das Leis do Trabalho e da <strong>S&uacute;mula</strong> n&ordm; <strong>428</strong> do Tribunal Superior do Trabalho &ndash; 
+4 Conclus&atilde;o &ndash; Refer&ecirc;ncias
+1 Introdu&ccedil;&atilde;o
+O presente trabalho tem como objetivo analisar o regime de <strong>sobreaviso,</strong> bem &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> por analogia &agrave;s demais 
+classes que se enquadrem nos crit&eacute;rios exigidos, conforme expressa a <strong>S&uacute;mula</strong> 
+n&ordm; <strong>428</strong> do Tribunal Superior do Trabalho:2
+1 Artigo 244. &ldquo;As estradas de ferro poder&atilde;o ter empregados extranumer&aacute;rios, de <strong>sobre-aviso</strong> e de prontid&atilde;o, &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/99439/2013_garcia_gustavo_teletrabalho_sobreaviso.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/99439/2013_garcia_gustavo_teletrabalho_sobreaviso.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/99439">Artigo de peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/99439">
+<h4 class="artifact-title">Teletrabalho e sobreaviso decorrente de aparelhos de comunica&ccedil;&atilde;o eletr&ocirc;nicos<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=GARCIA%2C+Gustavo+Filipe+Barbosa.+Teletrabalho+e+sobreaviso+decorrente+de+aparelhos+de+comunica%C3%A7%C3%A3o+eletr%C3%B4nicos.+Revista+de+direito+do+trabalho%2C+S%C3%A3o+Paulo%2C+v.+39%2C+n.+151%2C+p.+127-140%2C+maio%2Fjun.+2013.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F99439&amp;rft_id=000977975&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Garcia, Gustavo Filipe Barbosa</span></span> <span class="author h4">| 2013-06</span>
+<div class="abstract">[por] Analisa o teletrabalho, em especial quanto &agrave;s consequ&ecirc;ncias decorrentes da Lei 12.551/2011, que reconheceu o trabalho a dist&acirc;ncia. Tamb&eacute;m se examina a quest&atilde;o do <strong>"sobreaviso"</strong> decorrente do uso de instrumentos eletr&ocirc;nicos de comunica&ccedil;&atilde;o &hellip;<br>
+</div>
+<div class="abstract"> ◾ Trabalho a dist&acirc;ncia: Trabalho a dist&acirc;ncia e rela&ccedil;&atilde;o de emprego <strong>-- Sobreaviso:</strong> <strong>Sobreaviso</strong> decorrente de aparelhos de comunica&ccedil;&atilde;o eletr&ocirc;nicos &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> ou 
+informatizados, anteriormente, a <strong>S&uacute;mula</strong> <strong>428</strong> do TST assim dispunha:
+<strong>&ldquo;Sobreaviso</strong> (convers&atilde;o da Orienta&ccedil;&atilde;o Jurisprudencial 49 da SBDI-1). O 
+uso de aparelho de intercomunica&ccedil;&atilde;o, a exemplo de BIP, &lsquo;pager&rsquo; ou aparelho 
+celular, pelo empregado, &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> aguardando ou executando ordens, salvo dis-
+posi&ccedil;&atilde;o especial expressamente consignada.&rdquo;14
+Com isso, ap&oacute;s o mencionado acr&eacute;scimo do par&aacute;grafo &uacute;nico ao art. 6.&ordm; da 
+CLT, a <strong>S&uacute;mula</strong> <strong>428</strong> do TST foi alterada, passando a assim dispor:
+<strong>&ldquo;Sobreaviso.</strong> Aplica&ccedil;&atilde;o anal&oacute;gica &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/168985/2013_rev_just_trabalho_v0030_n0355.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/168985/2013_rev_just_trabalho_v0030_n0355.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/168985">Peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/168985">
+<h4 class="artifact-title">Justi&ccedil;a do trabalho: ano 30, n. 355 (jul. 2013)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=JUSTI%C3%87A+DO+TRABALHO.+Porto+Alegre%3A+HS%2C+ano+30%2C+n.+355%2C+jul.+2013.+159+p.&amp;rft_id=0103-5487&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F168985&amp;rft_id=355&amp;rft_id=30&amp;rft_id=in00001176736&amp;rft_id=000554119&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"></span> <span class="author h4">| 2013-07</span>
+<div class="abstract"> ◾ <strong>Sobreaviso</strong> e <strong>S&uacute;mula</strong> n. <strong>428</strong> do Tribunal Superior do Trabalho / Gustavo Filipe Barbosa Garcia ◾ Das provas em esp&eacute;cie: da prova documental &agrave; inspe&ccedil;&atilde;o judicial / Fernando Rubin ◾ Supress&atilde;o da audi&ecirc;ncia trabalhista / Eduardo Tito da Luz ◾ Estudos sobre responsabilidade civil / Marcelo Jos&eacute; Ferlin D'ambroso, Ricardo Carvalho Fraga ◾ Regimes previdenci&aacute;rios extraordin&aacute;rios: ofensa &agrave; Constitui&ccedil;&atilde;o cidad&atilde; / Luciano Marinho Filho, Fabiana de Andrade Lima ◾ A fun&ccedil;&atilde;o social dissuas&oacute;ria da indeniza&ccedil;&atilde;o por dano moral coletivo e sua incompatibilidade com a responsabilidade civil objetiva / Amaury Rodrigues Pinto J&uacute;nior ◾ A (in)aplicabilidade do art. 1216 do C&oacute;digo civil (Responsabilidade do possuidor de m&aacute;-f&eacute; pelos frutos colhidos e percebidos) ao devedor trabalhista: an&aacute;lise cr&iacute;tica da S&uacute;mula n. 445 do TST / Oscar Krost &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> Luiza Pierdon&aacute; 
+ 
+ JUSTI&Ccedil;A DO TRABALHO &ndash; 355/HS JULHO/2013 
+ 
+SUM&Aacute;RIO 
+ 
+DOUTRINA   
+<strong>- Sobreaviso</strong> e <strong>S&uacute;mula</strong> <strong>428</strong> do Tribunal Superior do Trabalho (Gustavo 
+Filipe Barbosa Garcia) ........................................................................... 7 &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> ...................................................................................................... 157 
+ 
+ JUSTI&Ccedil;A DO TRABALHO &ndash; 355/HS 7 
+Doutrina 
+ 
+ 
+<strong>SOBREAVISO</strong> E <strong>S&Uacute;MULA</strong> <strong>428</strong> DO                      
+TRIBUNAL SUPERIOR DO TRABALHO 
+ 
+ 
+GUSTAVO FILIPE BARBOSA GARCIA1 
+ 
+ 
+RESUMO: O objetivo deste texto &eacute; analisar o teletrabalho, em especial &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/25378/018_britopereira.pdf?sequence=3&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/25378/018_britopereira.pdf.jpg?sequence=6&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/25378">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/25378">
+<h4 class="artifact-title">Justi&ccedil;a do trabalho: 70 anos: renova&ccedil;&atilde;o da jurisprud&ecirc;ncia do TST<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=PEREIRA%2C+Jo%C3%A3o+Batista+Brito.+Justi%C3%A7a+do+trabalho%3A+70+anos%3A+renova%C3%A7%C3%A3o+da+jurisprud%C3%AAncia+do+TST.+Revista+do+Tribunal+Superior+do+Trabalho%2C+S%C3%A3o+Paulo%2C+v.+77%2C+n.+2%2C+p.+236-270%2C+abr.%2Fjun.+2011.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F25378&amp;rft_id=000922495&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Pereira, Jo&atilde;o Batista Brito</span></span> <span class="author h4">| 2011-06</span>
+<div class="abstract">Inspira-se no orgulho de celebrar os setenta anos da Justi&ccedil;a do Trabalho, testemunhando o seu sempre crescente prest&iacute;gio no seio da sociedade. Da&iacute; nasceu o prop&oacute;sito de registrar o fato e oferecer despretensiosos coment&aacute;rios ...</div>
+<div class="abstract"> ◾ Novas s&uacute;mulas: S&uacute;mula n. 426 dep&oacute;sito recursal (&hellip;). S&uacute;mula n. 427 intima&ccedil;&atilde;o, pluralidade de advogados, publica&ccedil;&atilde;o em nome de advogado diverso daquele expressamente indicado, nulidade. <strong>S&uacute;mula</strong> n. <strong>428</strong> <strong>sobreaviso.</strong> S&uacute;mula n. 429 tempo &agrave; disposi&ccedil;&atilde;o &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 239
+2.1.3 &ndash; <strong>S&Uacute;MULA</strong> N&ordm; <strong>428.</strong> <strong>SOBREAVISO.</strong> (Convers&atilde;o da Orienta&ccedil;&atilde;o 
+Jurisprudencial n&ordm; 49 da SBDI-1)
+O uso de aparelho de intercomunica&ccedil;&atilde;o, a exemplo de BIP, &ldquo;pager&rdquo; ou 
+aparelho celular, pelo empregado, por si s&oacute;, n&atilde;o caracteriza o regime &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> o conv&iacute;vio social e a sa&uacute;de do empregado, oportunizando o efetivo 
+direito de se desligar do trabalho, com o que se choca o regime de <strong>sobreaviso.</strong>
+Esses s&atilde;o, portanto, os motivos pelos quais considero que o verbete 
+<strong>(S&uacute;mula</strong> n&ordm; <strong>428)</strong> n&atilde;o &eacute; suficiente &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/29636/009_castro.pdf?sequence=4&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/29636/009_castro.pdf.jpg?sequence=7&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/29636">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/29636">
+<h4 class="artifact-title">O conceito de tempo de sobreaviso e as tecnologias da comunica&ccedil;&atilde;o<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=CASTRO%2C+Maria+do+Perp%C3%A9tuo+Socorro+Wanderley+de.+O+conceito+de+tempo+de+sobreaviso+e+as+tecnologias+da+comunica%C3%A7%C3%A3o.+Revista+do+Tribunal+Superior+do+Trabalho%2C+S%C3%A3o+Paulo%2C+v.+78%2C+n.+1%2C+p.+199-209%2C+jan.%2Fjun.+2012.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F29636&amp;rft_id=000943042&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Castro, Maria do Perp&eacute;tuo Socorro Wanderley de</span></span> <span class="author h4">| 2012-03</span>
+<div class="abstract"> no tempo de <strong>sobreaviso.</strong> O uso dos telefones celulares e tecnologias port&aacute;teis permitem a liberdade f&iacute;sica ainda que intensificando no seu sentido moral e intelectual, pois ent&atilde;o, o trabalhador n&atilde;o se ocupa, preocupa-se e o coloca em permanente alerta, &hellip;<br>
+</div>
+<div class="abstract"> ◾ As novas tecnologias de informa&ccedil;&atilde;o e comunica&ccedil;&atilde;o: inova&ccedil;&otilde;es tecnol&oacute;gicas -- O trabalho a dist&acirc;ncia e os meios telem&aacute;ticos e informatizados -- Os deslocamentos e o uso do telefone celular -- Uma nova vis&atilde;o do tempo de <strong>sobreaviso</strong> &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> de Direito do Trabalho. 7. ed. S&atilde;o Paulo: LTr, 2008. p. 846-847
+9 <strong>S&uacute;mula</strong> n&ordm; <strong>428</strong> &ndash; TST &ndash; Res. 17/2011. <strong>Sobreaviso</strong> &ndash; Uso de Aparelho de Intercomunica&ccedil;&atilde;o &ndash; Convo-
+ca&ccedil;&atilde;o para o Servi&ccedil;o. O uso de aparelho de intercomunica&ccedil;&atilde;o, a exemplo de BIP, &ldquo;pager&rdquo; ou aparelho &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> jan/mar 2012 199
+O CONCEITO DE TEMPO DE <strong>SOBREAVISO</strong> E 
+AS TECNOLOGIAS DA COMUNICA&Ccedil;&Atilde;O
+Maria do Perpetuo Socorro Wanderley de Castro*
+1 &ndash; INTRODU&Ccedil;&Atilde;O
+As inova&ccedil;&otilde;es que a Terceira Revolu&ccedil;&atilde;o traz &agrave;s tecnologias de informa&ccedil;&atilde;o e comunica&ccedil;&atilde;o resulta em transforma&ccedil;&atilde;o &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/190856/2017_paines_gabriella_jornada_sobreaviso.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/190856/2017_paines_gabriella_jornada_sobreaviso.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/190856">Artigo de peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/190856">
+<h4 class="artifact-title">A jornada de sobreaviso: uma an&aacute;lise &agrave; luz da sa&uacute;de do trabalhador<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=PAINES%2C+Gabriella+Santos%3B+LAZZARIN%2C+Helena+Kugel.+A+jornada+de+sobreaviso%3A+uma+an%C3%A1lise+%C3%A0+luz+da+sa%C3%BAde+do+trabalhador.+Revista+F%C3%B3rum+justi%C3%A7a+do+trabalho%2C+Belo+Horizonte%2C+ano+34%2C+n.+408%2C+p.+151-166%2C+dez.+2017.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F190856&amp;rft_id=001114958&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Paines, Gabriella Santos</span>; <span class="ds-dc_contributor_author-authority">Lazzarin, Helena Kugel</span></span> <span class="author h4">| 2017-12</span>
+<div class="abstract">Analisa o regime de <strong>sobreaviso,</strong> bem como especifica os elementos necess&aacute;rios para sua caracteriza&ccedil;&atilde;o. Em um segundo momento, Analisa a rela&ccedil;&atilde;o entre a sa&uacute;de dos trabalhadores e o regime de <strong>sobreaviso</strong> &ndash; atrav&eacute;s do estudo da prote&ccedil;&atilde;o constitucional &hellip;<br>
+</div>
+<div class="abstract"> ◾ Estado de <strong>sobreaviso</strong> -- A rela&ccedil;&atilde;o entre a sa&uacute;de dos trabalhadores e o regime de <strong>sobreaviso:</strong> A prote&ccedil;&atilde;o constitucional &agrave; sa&uacute;de. Os danos &agrave; sa&uacute;de decorrentes do regime de <strong>sobreaviso</strong> &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> houve a necessidade de estend&ecirc;-lo &agrave;s demais categorias.
+Atualmente, desse modo, o referido artigo &eacute; aplicado por analogia &agrave;s demais 
+classes que se enquadrem nos crit&eacute;rios exigidos, conforme expressa a <strong>S&uacute;mula</strong> 
+n&ordm; <strong>428</strong> do Tribunal Superior do Trabalho:
+<strong>SOBREAVISO.</strong> &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 
+ 
+stream_size 42149   
+stream_content_type text/plain   
+stream_name 2017_paines_gabriella_jornada_<strong>sobreaviso</strong>.pdf.txt   
+stream_source_info 2017_paines_gabriella_jornada_<strong>sobreaviso</strong>.pdf.txt   
+Content-Encoding UTF-8   
+Content-Type text/plain &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/26556/2012_res0185.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/26556/2012_res0185.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/26556">Jurisprud&ecirc;ncia</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/26556">
+<h4 class="artifact-title">Resolu&ccedil;&atilde;o n. 185, de 14 de setembro de 2012<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+185%2C+de+14+de+setembro+de+2012.+Di%C3%A1rio+Eletr%C3%B4nico+da+Justi%C3%A7a+do+Trabalho%3A+caderno+judici%C3%A1rio+do+Tribunal+Superior+do+Trabalho%2C+Bras%C3%ADlia%2C+DF%2C+n.+1071%2C+p.+103-135%2C+25+set.+2012.&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+185%2C+de+14+de+setembro+de+2012.+Di%C3%A1rio+Eletr%C3%B4nico+da+Justi%C3%A7a+do+Trabalho%3A+caderno+judici%C3%A1rio+do+Tribunal+Superior+do+Trabalho%2C+Bras%C3%ADlia%2C+DF%2C+n.+1072%2C+p.+5-36%2C+26+set.+2012.&amp;rft_id=BRASIL.+Tribunal+Superior+do+Trabalho.+Resolu%C3%A7%C3%A3o+n.+185%2C+de+14+de+setembro+de+2012.+Di%C3%A1rio+Eletr%C3%B4nico+da+Justi%C3%A7a+do+Trabalho%3A+caderno+judici%C3%A1rio+do+Tribunal+Superior+do+Trabalho%2C+Bras%C3%ADlia%2C+DF%2C+n.+1073%2C+p.+5-36%2C+27+set.+2012.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F26556&amp;rft_id=185&amp;rft_id=435&amp;rft_id=436&amp;rft_id=437&amp;rft_id=438&amp;rft_id=439&amp;rft_id=440&amp;rft_id=441&amp;rft_id=442&amp;rft_id=443&amp;rft_id=444&amp;rft_id=201200185&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2012-09-25</span>
+<div class="abstract"> n. 244; altera a reda&ccedil;&atilde;o da S&uacute;mula n. 277; altera a reda&ccedil;&atilde;o do item IV da S&uacute;mula n. 337; insere o item III na S&uacute;mula n. 378; altera a reda&ccedil;&atilde;o do item I da S&uacute;mula n. 369; altera a reda&ccedil;&atilde;o da S&uacute;mula n. 385; altera a reda&ccedil;&atilde;o da <strong>S&uacute;mula</strong> n. <strong>428;</strong> altera a reda&ccedil;&atilde;o &hellip;<br>
+</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/238959/2024_silva_paula_tempo_trabalho.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/238959/2024_silva_paula_tempo_trabalho.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/238959">Artigo de peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/238959">
+<h4 class="artifact-title">Tempo de trabalho e a sa&uacute;de dos trabalhadores: considera&ccedil;&otilde;es sobre o julgado C-214/20 do Tribunal de Justi&ccedil;a da Uni&atilde;o Europeia - TJUE<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=SILVA%2C+Paula+Jaeger+da.+Tempo+de+trabalho+e+a+sa%C3%BAde+dos+trabalhadores%3A+considera%C3%A7%C3%B5es+sobre+o+julgado+C-214%2F20+do+Tribunal+de+Justi%C3%A7a+da+Uni%C3%A3o+Europeia+-+TJUE+%3D+Working+time+and+workers%E2%80%99+health%3A+considerations+on+the+ruling+C-214%2F20+of+the+Court+of+Justice+of+the+European+Union+-+CJEU.+Revista+de+direito+do+trabalho+e+seguridade+social%2C+S%C3%A3o+Paulo%2C+v.+50%2C+n.+235%2C+p.+197-206%2C+maio%2Fjun.+2024.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F238959&amp;rft_id=001266193&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Silva, Paula Jaeger da</span></span> <span class="author h4">| 2024-06</span>
+<div class="abstract"> de <strong>sobreaviso.</strong> Por fim, analisa a rela&ccedil;&atilde;o entre a sa&uacute;de dos trabalhadores e o regime de <strong>sobreaviso,</strong> concluindo-se que a supress&atilde;o de per&iacute;odos de efetivo descanso e/ou desconex&atilde;o fere o direito fundamental &agrave; sa&uacute;de, consagrado na Constitui&ccedil;&atilde;o. O m&eacute;todo de abordagem &hellip;<br>
+</div>
+<div class="abstract"> ◾ Exposi&ccedil;&atilde;o do caso paradigma -- Dura&ccedil;&atilde;o do trabalho: "horas de expectativa": <strong>sobreaviso</strong> -- Prote&ccedil;&atilde;o e sa&uacute;de do trabalhador &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> do Trabalho alterou a <strong>S&uacute;mula</strong> <strong>428</strong> do TST, para incluir, em seu item&nbsp;II, a previs&atilde;o de 
+que o <strong>sobreaviso</strong> estar&aacute; caracterizado para o empregado que, &ldquo;&agrave; dist&acirc;ncia e submetido a con-
+trole patronal por instrumentos telem&aacute;ticos ou informatizados, permanecer &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> no 
+que se refere &agrave;s chamadas &ldquo;horas de expectativas 
+de convoca&ccedil;&atilde;o&rdquo;, especialmente sobre o instituto 
+do regime de <strong>sobreaviso.</strong> Por fim, passa-se a an&aacute;-
+lise da rela&ccedil;&atilde;o entre a sa&uacute;de dos trabalhadores 
+e o regime de <strong>sobreaviso,</strong> concluindo-se que a 
+supress&atilde;o de per&iacute;odos &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/129950/2018_cavalcante_jouberto_reflexao_subordinacao.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/129950/2018_cavalcante_jouberto_reflexao_subordinacao.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/129950">Artigo de peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/129950">
+<h4 class="artifact-title">Uma reflex&atilde;o sobre a "subordina&ccedil;&atilde;o" como elemento essencial da rela&ccedil;&atilde;o de emprego<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=CAVALCANTE%2C+Jouberto+de+Quadros+Pessoa%3B+JORGE+NETO%2C+Francisco+Ferreira.+Uma+reflex%C3%A3o+sobre+a+%22subordina%C3%A7%C3%A3o%22+como+elemento+essencial+da+rela%C3%A7%C3%A3o+de+emprego.+Revista+Ltr%3A+legisla%C3%A7%C3%A3o+do+trabalho%2C+S%C3%A3o+Paulo%2C+v.+82%2C+n.+1%2C+p.+30-37%2C+jan.+2018.&amp;rft_id=CAVALCANTE%2C+Jouberto+de+Quadros+Pessoa%3B+JORGE+NETO%2C+Francisco+Ferreira.+Uma+reflex%C3%A3o+sobre+a+%22subordina%C3%A7%C3%A3o%22+como+elemento+essencial+da+rela%C3%A7%C3%A3o+de+emprego.+Revista+F%C3%B3rum+justi%C3%A7a+do+trabalho%2C+Belo+Horizonte%2C+ano+35%2C+n.+412%2C+p.+21-40%2C+abr.+2018.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F129950&amp;rft_id=001119640&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Cavalcante, Jouberto de Quadros Pessoa</span>; <span class="ds-dc_contributor_author-authority">Jorge Neto, Francisco Ferreira</span></span> <span class="author h4">| 2018-01</span>
+<div class="abstract"> ◾  Parassubordina&ccedil;&atilde;o -- Teletrabalho: Teletrabalho e a jornada suplementar. Teletrabalho e o <strong>sobreaviso</strong> &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> &agrave; realidade, em 
+setembro de 2012 (Resolu&ccedil;&atilde;o n. 185/2012), o TST 
+reformulou a reda&ccedil;&atilde;o da <strong>S&uacute;mula</strong> n. <strong>428:</strong> &ldquo;I &mdash; O uso 
+de instrumentos telem&aacute;ticos ou informatizados fornecidos 
+pela empresa ao empregado, por si s&oacute;, n&atilde;o caracteriza re-
+gime de <strong>sobreaviso&rdquo;;</strong> II &mdash; &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 
+telem&aacute;ticos e informatizados de comando, estejam 
+vinculados, necessariamente, sujeitos a controle de 
+jornada(25) ou ao regime do <strong>sobreaviso.</strong> 
+Para o teletrabalhador, a caracteriza&ccedil;&atilde;o da subor-
+dina&ccedil;&atilde;o n&atilde;o deve valorizar apenas se o trabalhador 
+recebe &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/93895/2014_dallegrave_neto_jose_teletrabalho_importancia.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/93895/2014_dallegrave_neto_jose_teletrabalho_importancia.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/93895">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/93895">
+<h4 class="artifact-title">O teletrabalho: import&acirc;ncia, conceito e implica&ccedil;&otilde;es jur&iacute;dicas<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=DALLEGRAVE+NETO%2C+Jos%C3%A9+Affonso.+O+teletrabalho%3A+import%C3%A2ncia%2C+conceito+e+implica%C3%A7%C3%B5es+jur%C3%ADdicas.+Revista+eletr%C3%B4nica+%5Bdo%5D+Tribunal+Regional+do+Trabalho+da+9%C2%AA+Regi%C3%A3o%2C+Curitiba%2C+v.+3%2C+n.+33%2C+p.+8-27%2C+set.+2014.&amp;rft_id=DALLEGRAVE+NETO%2C+Jos%C3%A9+Affonso.+O+teletrabalho%3A+import%C3%A2ncia%2C+conceito+e+implica%C3%A7%C3%B5es+jur%C3%ADdicas.+Revista+F%C3%B3rum+trabalhista%3A+RFT%3A+ano+2%2C+n.+5%2C+p.+51-75%2C+mar.%2Fabr.+2013.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F93895&amp;rft_id=000976640&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Dallegrave Neto, Jos&eacute; Affonso</span></span> <span class="author h4">| 2013-04</span>
+<div class="abstract"> ◾  -- Trabalho externo controlado pela telem&aacute;tica -- Horas de <strong>sobreaviso</strong> -- Vantagens e desvantagens do teletrabalho &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> do aludido art. 6&ordm; da CLT.
+  Conforme ser&aacute; verificado adiante, o TST, 
+ao alterar o sentido da <strong>S&uacute;mula</strong> <strong>428,</strong> que trata das 
+horas de <strong>sobreaviso,</strong> deixou clara a sua posi&ccedil;&atilde;o 
+ampliativa. E nem poderia ser diferente, pois o 
+novo art. 6&ordm; da CLT, e seu par&aacute;grafo, &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 
+J&uacute;nior31.
+31  CHAVES JUNIOR, Jos&eacute; Eduardo de Resende. 
+&ldquo;Dispositivos m&oacute;veis d&atilde;o direito a horas de <strong>sobreaviso:</strong> 
+supera&ccedil;&atilde;o da <strong>S&uacute;mula</strong> <strong>428</strong>/TST&rdquo;. Dispon&iacute;vel em www.trt3.
+jus.br
+Teletrabalho
+20
+Artigos
+&ldquo;A consequ&ecirc;ncia dessa &lsquo;equipara&ccedil;&atilde;o&rsquo; 
+(do controle telem&aacute;tico &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/160073/2013_maciel_jose_inseguranca_juridica.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/160073/2013_maciel_jose_inseguranca_juridica.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/160073">Artigo de peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/160073">
+<h4 class="artifact-title">A inseguran&ccedil;a jur&iacute;dica e as s&uacute;mulas do Tribunal Superior do Trabalho<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=MACIEL%2C+Jos%C3%A9+Alberto+Couto.+A+inseguran%C3%A7a+jur%C3%ADdica+e+as+s%C3%BAmulas+do+Tribunal+Superior+do+Trabalho.+Justi%C3%A7a+do+trabalho%2C+Porto+Alegre%2C+ano+30%2C+n.+351%2C+p.+59-70%2C+mar.+2013.&amp;rft_id=MACIEL%2C+Jos%C3%A9+Alberto+Couto.+A+inseguran%C3%A7a+jur%C3%ADdica+e+as+s%C3%BAmulas+do+Tribunal+Superior+do+Trabalho.+Revista+Ltr%3A+legisla%C3%A7%C3%A3o+do+trabalho%2C+S%C3%A3o+Paulo%2C+v.+77%2C+n.+5%2C+p.+545-550%2C+maio+2013.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F160073&amp;rft_id=000970094&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Maciel, Jos&eacute; Alberto Couto</span></span> <span class="author h4">| 2013-03</span>
+<div class="abstract">A Confedera&ccedil;&atilde;o Nacional da Ind&uacute;stria elaborou um estudo com cento e uma propostas para a moderniza&ccedil;&atilde;o trabalhista. Nesse trabalho a Confedera&ccedil;&atilde;o evidencia os problemas atuais do mundo do trabalho, suas consequ&ecirc;ncias e ...</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> ou 
+aparelho celular, pelo empregado, por si s&oacute;, n&atilde;o caracteriza o regime de 
+<strong>sobreaviso,</strong> uma vez que o empregado n&atilde;o permanece em sua resid&ecirc;ncia, 
+aguardando, a qualquer momento, convoca&ccedil;&atilde;o para servi&ccedil;o.&rdquo; 
+   
+68 JUSTI&Ccedil;A DO TRABALHO &ndash; 351/HS 
+Reda&ccedil;&atilde;o atual: &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span>  
+ 
+&ldquo;I - O uso de instrumentos telem&aacute;ticos ou informatizados fornecidos pela 
+empresa ao empregado, por si s&oacute;, n&atilde;o caracteriza o regime de <strong>sobreaviso.</strong> 
+II - Considera-se em <strong>sobreaviso</strong> o empregado que, &agrave; dist&acirc;ncia e submetido 
+a controle patronal por instrumentos &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/74935/2013_rocha_claudio_teletrabalho_luz.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/74935/2013_rocha_claudio_teletrabalho_luz.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/74935">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/74935">
+<h4 class="artifact-title">O teletrabalho &agrave; luz do artigo 6&ordm; da CLT: o acompanhamento do direito do trabalho &agrave;s mudan&ccedil;as do mundo p&oacute;s-moderno<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=ROCHA%2C+Cl%C3%A1udio+Jannotti+da%3B+MUNIZ%2C+Mirella+Karen+de+Carvalho+Bifano.+O+teletrabalho+%C3%A0+luz+do+artigo+6%C2%BA+da+CLT%3A+o+acompanhamento+do+direito+do+trabalho+%C3%A0s+mudan%C3%A7as+do+mundo+p%C3%B3s-moderno.+Revista+do+Tribunal+Regional+do+Trabalho+da+3%C2%AA+Regi%C3%A3o%2C+Belo+Horizonte%2C+v.+57%2C+n.+87%2F88%2C+p.+101-115%2C+jan.%2Fdez.+2013.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F74935&amp;rft_id=001029856&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Muniz, Mirella Karen de Carvalho Bifano</span>; <span class="ds-dc_contributor_author-authority">Rocha, Cl&aacute;udio Jannotti da</span></span> <span class="author h4">| 2013-12</span>
+<div class="abstract">[por] Analisa as transforma&ccedil;&otilde;es estruturais nas rela&ccedil;&otilde;es de emprego durante a p&oacute;s-modernidade, principalmente pelo processo da globaliza&ccedil;&atilde;o, terceira revolu&ccedil;&atilde;o industrial, mudan&ccedil;a do sistema taylorista/fordista para o ...</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> trazida pela Lei n. 
+12.551/2011, de certa forma, pressionou o Col. TST a rever a <strong>S&uacute;mula</strong> n. <strong>428</strong> que 
+trazia o entendimento de que o <strong>sobreaviso</strong> somente estaria caracterizado se o 
+empregado permanecesse em casa, aguardando liga&ccedil;&atilde;o do empregador. &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> de telefone celular ou equivalente poder representar <strong>sobreaviso,</strong> desde que 
+revelado o efetivo controle patronal sobre o trabalhador, como ocorre, por exemplo, 
+nas hip&oacute;teses de escalas de plant&atilde;o.
+A nova reda&ccedil;&atilde;o da <strong>S&uacute;mula</strong> n. <strong>428</strong> do Col. TST passou a vigorar &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/163650/2017_rev_forum_just_trabalho_v0034_n0403.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/163650/2017_rev_forum_just_trabalho_v0034_n0403.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/163650">Peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/163650">
+<h4 class="artifact-title">Revista F&oacute;rum justi&ccedil;a do trabalho: ano 34, n. 403 (jul. 2017)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+F%C3%93RUM+JUSTI%C3%87A+DO+TRABALHO.+Belo+Horizonte%3A+F%C3%B3rum%2C+ano+34%2C+n.+403%2C+jul.+2017.+192+p.&amp;rft_id=0103-5487&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F163650&amp;rft_id=403&amp;rft_id=34&amp;rft_id=in00001173534&amp;rft_id=001074118&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"></span> <span class="author h4">| 2017-07</span>
+<div class="abstract"> ◾ Hermen&ecirc;utica e interpreta&ccedil;&atilde;o constitucional das normas jur&iacute;dicas trabalhistas: a aplica&ccedil;&atilde;o dos princ&iacute;pios constitucionais do trabalho / R&uacute;bia Zanotelli de Alvarenga ◾ A terceiriza&ccedil;&atilde;o, o direito do trabalho e a Lei 13.429/17 / Francisco Ferreira Jorge Neto, Jouberto de Quadros Pessoa Cavalcante, Let&iacute;cia Costa Mota Wenzel ◾ Os limites das negocia&ccedil;&otilde;es coletivas contempor&acirc;neas frente &agrave; reforma trabalhista / M&aacute;rcia Regina Lobato ◾ Regime de <strong>sobreaviso:</strong> considera&ccedil;&otilde;es sobre a sua caracteriza&ccedil;&atilde;o / Gabriela Santos Paines, Helena Kugel Lazzarin ◾ Trabalho infantil / Camila Izis A. B. Paul ◾ O incidente de desconsidera&ccedil;&atilde;o da personalidade jur&iacute;dica previsto no novo CPC e sua aplicabilidade no processo do trabalho / Gilberto St&uuml;rmer, Vin&iacute;cius &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> ........................................................................................................76
+Regime de <strong>sobreaviso:</strong> considera&ccedil;&otilde;es sobre a sua caracteriza&ccedil;&atilde;o
+Gabriella Santos Paines, Helena Kugel Lazzarin ................................................................79
+1  Introdu&ccedil;&atilde;o &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> ..........................................................................................................80
+2  Estado de <strong>sobreaviso</strong> ..........................................................................................80
+2.1  Limites de locomo&ccedil;&atilde;o .........................................................................................82
+2.2  Uso &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/163694/2017_rev_forum_just_trabalho_v0034_n0408.pdf?sequence=1&isAllowed=n"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/163694/2017_rev_forum_just_trabalho_v0034_n0408.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/163694">Peri&oacute;dico <i class="file-icon fa fa-lock" aria-hidden="true"></i></a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/163694">
+<h4 class="artifact-title">Revista F&oacute;rum justi&ccedil;a do trabalho: ano 34, n. 408 (dez. 2017)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+F%C3%93RUM+JUSTI%C3%87A+DO+TRABALHO.+Belo+Horizonte%3A+F%C3%B3rum%2C+ano+34%2C+n.+408%2C+dez.+2017.+180+p.&amp;rft_id=0103-5487&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F163694&amp;rft_id=408&amp;rft_id=34&amp;rft_id=in00001173534&amp;rft_id=001074118&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"></span> <span class="author h4">| 2017-12</span>
+<div class="abstract"> ◾ Terceiriza&ccedil;&atilde;o da atividade-fim: uma nova realidade / Rubiane Solange Gassen Assis ◾ A restri&ccedil;&atilde;o ao acesso &agrave; justi&ccedil;a na Lei n&ordm; 13.467/17 / Antonio Escosteguy Castro ◾ O dano moral coletivo como instrumento da justi&ccedil;a do trabalho no combate ao trabalho escravo contempor&acirc;neo / Camila Minella Dipp ◾ O contrato de trabalho intermitente / &Acirc;ngela Maria Konrath ◾ S&uacute;mula n&ordm; 244, inciso III, do TST: uma an&aacute;lise do conflito de direitos gerado &agrave; luz do princ&iacute;pio da dignidade humana / Thiago Barisson Mello, Ana Carolina Oliveira Guedes Mem&oacute;ria, Gabriel de Souza Vieira, Ramos, Jacson Raielvone, Costa, Odaisa Duarte ◾ V&iacute;nculo de emprego e terceiriza&ccedil;&atilde;o: Lei n&ordm; 13.429 e altera&ccedil;&otilde;es promovidas pela Lei n&ordm; 13.467/17 / Murilo Carvalho Sampaio Oliveira ◾ A jornada de <strong>sobreaviso:</strong> uma an&aacute;lise &agrave; luz da sa&uacute;de do trabalhador / Gabriella Santos Paines, Helena Kugel Lazzarin ◾ A CLT e os limites da interpreta&ccedil;&atilde;o judicial: art. 8&ordm; da CLT / Valdete Souto Severo ◾ Pr&aacute;tica processual trabalhista: poss&iacute;veis efeitos da Lei n&ordm; 13.467/17 / Jorge Luiz Souto Maior &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> ....................................................................................................... 142
+ Refer&ecirc;ncias ..................................................................................................... 143
+A jornada de <strong>sobreaviso:</strong> uma an&aacute;lise &agrave; luz da sa&uacute;de do trabalhador
+Gabriella santos paines, Helena Kugel Lazzarin &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> ............................................................. 151
+1  Introdu&ccedil;&atilde;o  ...................................................................................................... 152
+2  O estado de <strong>sobreaviso</strong> .................................................................................... 152
+3 &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/29616/2012_rev_tst_v078_n001.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/29616/2012_rev_tst_v078_n001.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/29616">Peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/29616">
+<h4 class="artifact-title">Revista do Tribunal Superior do Trabalho: vol. 78, n. 1 (jan./mar. 2012)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=REVISTA+DO+TRIBUNAL+SUPERIOR+DO+TRABALHO.+S%C3%A3o+Paulo%3A+LexMagister%2C+v.+78%2C+n.+1%2C+jan.%2Fmar.+2012.+280+p.&amp;rft_id=0103-7978&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F29616&amp;rft_id=1&amp;rft_id=78&amp;rft_id=in00001179340&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2012-03</span>
+<div class="abstract"> ◾ Aspectos hist&oacute;ricos e ideol&oacute;gicos na constru&ccedil;&atilde;o do direito ao trabalho / Cezar Britto ◾ Estado laico e sociedade plural: investiga&ccedil;&atilde;o sobre a liberdade religiosa no &acirc;mbito do direito do trabalho / Atal&aacute; Correia ◾ A imunidade de jurisdi&ccedil;&atilde;o do Estado estrangeiro e o problema da execu&ccedil;&atilde;o / Eneas Bazzo Torres ◾ Responsabilidade civil pelos danos &agrave; sa&uacute;de do trabalhador decorrentes da exposi&ccedil;&atilde;o &agrave; fuma&ccedil;a do cigarro / Raimundo Sim&atilde;o de Melo ◾ O conceito de tempo de <strong>sobreaviso</strong> e as tecnologias da comunica&ccedil;&atilde;o / Maria do Perpetuo Socorro Wanderley de Castro ◾ Processo justo, colabora&ccedil;&atilde;o e &ocirc;nus da prova / Daniel Mitidiero ◾ Anteprojeto do CPC e repercuss&otilde;es no processo do trabalho / Jos&eacute; Antonio Pancotti ◾ Poder diretivo do juiz: direito processual civil e sua aproxima&ccedil;&atilde;o do direito processual do trabalho / J&uacute;lio C&eacute;sar Bebber ◾ Indeniza&ccedil;&atilde;o por doen&ccedil;a ps&iacute;quica no ambiente de trabalho: o direito (e o juiz) no fogo cruzado do nexo causal / Marcelo Furtado Vidal ◾ Meio ambiente de trabalho: precau&ccedil;&atilde;o e preven&ccedil;&atilde;o: princ&iacute;pios norteadores de um novo padr&atilde;o normativo / Tereza Aparecida Asta Gemignani, Daniel Gemignani. ◾ A resignifica&ccedil;&atilde;o da depend&ecirc;ncia econ&ocirc;mica / Murilo C. S. Oliveira ◾ Primeira leitura da lei do aviso-pr&eacute;vio proporcional / Marcos Neves Fava &hellip; </div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> do Aviso-Pr&eacute;vio Proporcional
+Marcos Neves Fava............................................................................... 186
+9. O conceito de tempo de <strong>sobreaviso</strong> e as tecnologias da comunica&ccedil;&atilde;o 
+Maria do Perpetuo Socorro Wanderley de Castro &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/169232/2019_queiroz_monique_influencias_redes.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/169232/2019_queiroz_monique_influencias_redes.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/169232">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/169232">
+<h4 class="artifact-title">As influ&ecirc;ncias das redes sociais no direito do trabalho<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=QUEIROZ%2C+Monique+Mazon%3B+SANCHES%2C+Nathalia+Paes.+As+influ%C3%AAncias+das+redes+sociais+no+direito+do+trabalho+%3D+Influences+of+social+networks+on+labor+law.+Revista+do+Tribunal+Regional+do+Trabalho+da+15%C2%AA+Regi%C3%A3o%2C+Campinas%2C+n.+55%2C+p.+271-280%2C+jul.%2Fdez.+2019.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F169232&amp;rft_id=001165825&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Queiroz, Monique Mazon</span>; <span class="ds-dc_contributor_author-authority">Sanches, Nathalia Paes</span></span> <span class="author h4">| 2019-12</span>
+<div class="abstract">[por] O Direito do Trabalho, assim como todos os ramos da ci&ecirc;ncia jur&iacute;dica, deve adequar-se &agrave;s mudan&ccedil;as sociais, culturais e hist&oacute;ricas ocorridas na sociedade. Assim sendo, as redes sociais, a forma como a coletividade as ...</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> para caracterizar o regime 
+de <strong>sobreaviso,</strong> porquanto n&atilde;o h&aacute; restri&ccedil;&atilde;o &agrave; liber-
+dade de locomo&ccedil;&atilde;o. Ado&ccedil;&atilde;o da <strong>S&uacute;mula</strong> n. <strong>428</strong> do TST. 
+Entretanto, comprovado que o empregado fi gurava em 
+escala de <strong>sobreaviso,</strong> aguardando a qualquer momento 
+chamado, &eacute; devido o hor&aacute;rio &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> da parte em horas extras decorrentes do labor 
+em regime de <strong>sobreaviso</strong> pressup&otilde;e a exist&ecirc;ncia de 
+provas de que o reclamante permanecia em sua resi-
+d&ecirc;ncia aguardando ser convocado, nos termos da 
+<strong>S&uacute;mula</strong> n. <strong>428</strong> desta Corte, segundo a qual: &lsquo;O uso &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/93957/2014_dutra_silvia_teletrabalho_direito.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/93957/2014_dutra_silvia_teletrabalho_direito.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/93957">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/93957">
+<h4 class="artifact-title">Teletrabalho e o direito &agrave; desconex&atilde;o<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=DUTRA%2C+Silvia+Regina+Bandeira%3B+VILLATORE%2C+Marco+Ant%C3%B4nio+C%C3%A9sar.+Teletrabalho+e+o+direito+%C3%A0+desconex%C3%A3o.+Revista+eletr%C3%B4nica+%5Bdo%5D+Tribunal+Regional+do+Trabalho+da+9%C2%AA+Regi%C3%A3o%2C+Curitiba%2C+v.+3%2C+n.+33%2C+p.+142-149%2C+set.+2014.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F93957&amp;rft_id=001062354&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Dutra, Silvia Regina Bandeira</span>; <span class="ds-dc_contributor_author-authority">Villatore, Marco Ant&ocirc;nio C&eacute;sar</span></span> <span class="author h4">| 2014-09</span>
+<div class="abstract">Retrata, nas rela&ccedil;&otilde;es de teletrabalho, o direito &agrave; desconex&atilde;o, visto que esta moderna modalidade de trabalho possui suas vantagens e desvantagens, uma vez que desenvolvida muito pr&oacute;xima das rela&ccedil;&otilde;es sociais do teletrabalhador. ...</div>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> 
+efetivamente, permanecia em 
+<strong>sobreaviso,</strong> decidiu em conformidade 
+com o teor do item II da <strong>S&uacute;mula</strong> n&deg; <strong>428</strong> 
+do TST, que assim disp&otilde;e: &ndash; Considera-
+se em <strong>sobreaviso</strong> o empregado que, &agrave; 
+dist&acirc;ncia e submetido a controle patronal 
+por instrumentos telem&aacute;ticos ou 
+informatizados, &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> como se verifica neste julgado do 
+ano de 2007 do Tribunal da 9&ordf;. Regi&atilde;o, vejamos:
+TRT-PR-26-10-2007 HORAS 
+DE <strong>SOBREAVISO</strong> DURANTE OS 
+DIAS DESTINADOS A REPOUSOS 
+REMUNERADOS. DIREITO &Agrave; DESCONEX&Atilde;O 
+DO TRABALHO. Trabalhador que 
+permanece em <strong>sobreaviso</strong> em dias 
+destinados &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/handle/20.500.12178/95712"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/95712/2012_informativo_tst_cjur_n0019.pdf.jpg?sequence=3&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/95712">Jurisprud&ecirc;ncia</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/95712">
+<h4 class="artifact-title">Informativo TST: n. 19 (21 a 27 ago. 2012)<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F95712&amp;rft_id=19&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Brasil. Tribunal Superior do Trabalho (TST)</span></span> <span class="author h4">| 2012-08-27</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> n&atilde;o vislumbrando contrariedade &agrave; 
+<strong>S&uacute;mula</strong> n&ordm; <strong>428</strong> do TST, vencido o Ministro Ives Gandra Martins Filho, relator. In casu, ressaltou-se 
+tamb&eacute;m o fato de ter havido confiss&atilde;o do preposto quanto ao estabelecimento do regime de 
+<strong>sobreaviso</strong> e ao pagamento das horas, ainda que a menor, &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> das decis&otilde;es, embora seja uma das metas perseguidas neste trabalho, somente poder&aacute; ser 
+aferida ap&oacute;s a sua publica&ccedil;&atilde;o no Di&aacute;rio Eletr&ocirc;nico da Justi&ccedil;a do Trabalho. 
+   
+ SUBSE&Ccedil;&Atilde;O I ESPECIALIZADA EM DISS&Iacute;DIOS INDIVIDUAIS 
+   
+Regime de <strong>sobreaviso.</strong> Caracteriza&ccedil;&atilde;o. &hellip;</div>
+</div>
+</div>
+</div>
+<div class="row ds-artifact-item ">
+<div class="col-sm-2 hidden-xs">
+<div class="thumbnail artifact-preview">
+<a class="image-link" href="/bitstream/handle/20.500.12178/83094/2014_zwicker_igor_teletrabalho_evolucao.pdf?sequence=1&isAllowed=y"><img alt="Imagem" class="img-responsive" src="/bitstream/handle/20.500.12178/83094/2014_zwicker_igor_teletrabalho_evolucao.pdf.jpg?sequence=5&isAllowed=y"></a>
+</div>
+</div>
+<div class="info-document-type">
+<a href="/handle/20.500.12178/83094">Artigo de peri&oacute;dico</a>
+</div>
+<div class="col-sm-10 artifact-description sem-padding">
+<a href="/handle/20.500.12178/83094">
+<h4 class="artifact-title">O teletrabalho e sua evolu&ccedil;&atilde;o na jurisprud&ecirc;ncia do Tribunal Superior do Trabalho<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=ZWICKER%2C+Igor+de+Oliveira.+O+teletrabalho+e+sua+evolu%C3%A7%C3%A3o+na+jurisprud%C3%AAncia+do+Tribunal+Superior+do+Trabalho.+Revista+do+Tribunal+Regional+do+Trabalho+da+3%C2%AA+Regi%C3%A3o%2C+Belo+Horizonte%2C+v.+59%2C+n.+90%2C+p.+177-193%2C+jul.%2Fdez.+2014.+Edi%C3%A7%C3%A3o+comemorativa.&amp;rft_id=https%3A%2F%2Fhdl.handle.net%2F20.500.12178%2F83094&amp;rft_id=001057245&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;">&nbsp;</span>
+</h4>
+</a>
+<div class="artifact-info">
+<span class="author h4"><span class="ds-dc_contributor_author-authority">Zwicker, Igor de Oliveira</span></span> <span class="author h4">| 2014-12</span>
+<div id="fulltextresults">
+<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> de 201316, a Segunda Turma do colendo Tribunal Superior do Trabalho, 
+em fundamentado ac&oacute;rd&atilde;o relatado pelo Excelent&iacute;ssimo Ministro Jos&eacute; Roberto Freire 
+Pimenta, faz extensas considera&ccedil;&otilde;es sobre o <strong>sobreaviso,</strong> em cotejo com a <strong>S&uacute;mula</strong> n. 
+<strong>428</strong> do TST, e o advento &hellip;<span title="Aqui s&atilde;o mostradas partes do conte&uacute;do do arquivo onde encontramos sua express&atilde;o de busca" data-placement="auto bottom" data-toggle="tooltip">  <i class="fa fa-angle-right fa-lg"></i><i class="fa fa-angle-right fa-lg"></i> </span> da Lei n. 12.551/2011, e do qual trazemos o seguinte excerto:
+No que concerne ao tempo de <strong>sobreaviso,</strong> d.m.v., tem raz&atilde;o o trabalhador.
+At&eacute; a &eacute;poca da prola&ccedil;&atilde;o da senten&ccedil;a, prevalecia o entendimento cristalizado na <strong>S&uacute;mula</strong> 
+<strong>428</strong> do TST, que considerava &hellip;</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pagination-masked clearfix bottom">
+<div class="centered-pagination">
+<ul class="pagination">
+<li class="disabled">
+<a class="previous-page-link" href="discover?rpp=20&etal=0&query=%22S%C3%BAmula+n.+428%22+sobreaviso&group_by=none&page=0"><span class="glyphicon glyphicon-arrow-left"></span></a>
+</li>
+<li class="active">
+<a href="discover?rpp=20&etal=0&query=%22S%C3%BAmula+n.+428%22+sobreaviso&group_by=none&page=1">1</a>
+</li>
+<li class="page-link page-link-offset-1">
+<a href="discover?rpp=20&etal=0&query=%22S%C3%BAmula+n.+428%22+sobreaviso&group_by=none&page=2">2</a>
+</li>
+<li class="page-link page-link-offset-2">
+<a href="discover?rpp=20&etal=0&query=%22S%C3%BAmula+n.+428%22+sobreaviso&group_by=none&page=3">3</a>
+</li>
+<li class="page-link page-link-offset-3">
+<a href="discover?rpp=20&etal=0&query=%22S%C3%BAmula+n.+428%22+sobreaviso&group_by=none&page=4">4</a>
+</li>
+<li>
+<span>. . .</span>
+</li>
+<li class="last-page-link">
+<a href="discover?rpp=20&etal=0&query=%22S%C3%BAmula+n.+428%22+sobreaviso&group_by=none&page=10">10</a>
+</li>
+<li>
+<a class="next-page-link" href="discover?rpp=20&etal=0&query=%22S%C3%BAmula+n.+428%22+sobreaviso&group_by=none&page=2"><span class="glyphicon glyphicon-arrow-right"></span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3 hidden-xs hidden-sm right-side-menu">
+<h2 class="ds-option-set-head  h6">Filtros</h2>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group">
+<ul class="list-group">
+<a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Autor</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=authority&filter=fdf3cbee-00dd-4f7f-918e-c3458fd3e41d" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST) (88)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+8%C2%AA+Turma" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). 8&ordf; Turma (23)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+Secretaria+da+8%C2%AA+Turma+%28SETR8%29" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). Secretaria da 8&ordf; Turma (SETR8) (22)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+7%C2%AA+Turma" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). 7&ordf; Turma (17)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=author&filter_relational_operator=equals&filter=Brasil.+Tribunal+Superior+do+Trabalho+%28TST%29.+Secretaria+da+7%C2%AA+Turma+%28SETR7%29" class="list-group-item ds-option">Brasil. Tribunal Superior do Trabalho (TST). Secretaria da 7&ordf; Turma (SETR7) (17)</a><a href="/search-filter?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&field=author" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Assunto</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Jurisprud%C3%AAncia+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Jurisprud&ecirc;ncia trabalhista, peri&oacute;dico (49)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Processo+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Processo trabalhista, peri&oacute;dico (44)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Justi%C3%A7a+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Justi&ccedil;a do trabalho, peri&oacute;dico (43)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Direito+do+trabalho%2C+peri%C3%B3dico" class="list-group-item ds-option">Direito do trabalho, peri&oacute;dico (39)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=subject&filter_relational_operator=equals&filter=Legisla%C3%A7%C3%A3o+trabalhista%2C+peri%C3%B3dico" class="list-group-item ds-option">Legisla&ccedil;&atilde;o trabalhista, peri&oacute;dico (32)</a><a href="/search-filter?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&field=subject" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Data</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=IssuedCreated&filter_relational_operator=equals&filter=%5B2000+TO+2026%5D" class="list-group-item ds-option">2000 - 2026 (185)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Categoria</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Peri%C3%B3dico" class="list-group-item ds-option">Peri&oacute;dico (68)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Artigo+de+peri%C3%B3dico" class="list-group-item ds-option">Artigo de peri&oacute;dico (33)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Livro" class="list-group-item ds-option">Livro (7)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Jurisprud%C3%AAncia" class="list-group-item ds-option">Jurisprud&ecirc;ncia (3)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=type&filter_relational_operator=equals&filter=Colet%C3%A2nea" class="list-group-item ds-option">Colet&acirc;nea (2)</a><a href="/search-filter?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&field=type" class="list-group-item ds-option">Ver mais&hellip;</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">Esp&eacute;cie normativa</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Ata" class="list-group-item ds-option">Ata (74)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Resolu%C3%A7%C3%A3o" class="list-group-item ds-option">Resolu&ccedil;&atilde;o (2)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=S%C3%BAmula" class="list-group-item ds-option">S&uacute;mula (2)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=especieato&filter_relational_operator=equals&filter=Ato" class="list-group-item ds-option">Ato (1)</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">N&iacute;vel de acesso</span></a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+aberto" class="list-group-item ds-option">Acesso aberto (139)</a><a href="/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20&filtertype=accessrights&filter_relational_operator=equals&filter=Acesso+restrito" class="list-group-item ds-option">Acesso restrito (46)</a>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<footer class="footer-distributed">
+<div class="footer-left">
+<div class="footer-logo">
+<a href="http://www.tst.jus.br"><img src="/themes/Mirage2//images/tst_footer.svg"></a>
+</div>
+<p class="footer-links">
+<a href="/">In&iacute;cio</a>
+					&middot;
+					<a href="http://www.tst.jus.br">P&aacute;gina do TST</a>
+</p>
+</div>
+<div class="footer-center">
+<div>
+<a target="_blank" href="https://www.google.com.br/maps/place/Tribunal+Superior+do+Trabalho+-+TST/@-15.8113724,-47.8685148,17z/data=!4m5!3m4!1s0x0000000000000000:0x0aaa49ee4cb2f752!8m2!3d-15.8113067!4d-47.8681967"><i class="fa fa-map-marker"></i></a>
+<p>SAF Sul, Bras&iacute;lia, Distrito Federal</p>
+</div>
+<div>
+<a href="http://www.tst.jus.br/web/biblioteca/fale-com-o-bibliotecario#column-2" target="_blank"><i class="fa fa-envelope"></i></a>
+<p>
+<a href="http://www.tst.jus.br/web/biblioteca/fale-com-o-bibliotecario#column-2" target="_blank">Fale com um Bibliotec&aacute;rio</a>
+</p>
+</div>
+</div>
+<div class="footer-right">
+<p class="footer-company-about">
+<span>Sobre a JusLaboris</span>A JusLaboris dissemina conhecimento na &aacute;rea do Direito e campos correlatos de conhecimento, especialmente o direito do trabalho, permitindo a pesquisa em seus 64872 itens, observada a legisla&ccedil;&atilde;o de direitos autorais em vigor.</p>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+<p>&nbsp;</p>
+</footer>
+</div>
+<a title="Voltar ao topo" data-placement="auto top" data-toggle="backbutton" id="return-to-top" href="#"><i aria-hidden="true" class="fa fa-chevron-up"></i></a><script>if(!window.DSpace){window.DSpace={};}window.DSpace.context_path='';window.DSpace.theme_path='/themes/Mirage2/';</script><script src="/themes/Mirage2/scripts/theme.js"> </script><script src="/static/js/discovery/discovery-results.js"> </script><script src="https://www.googletagmanager.com/gtag/js?id=G-Y8LDHR7C5S" async="async"></script><script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-Y8LDHR7C5S');
+		  </script><script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                  ga('create', 'UA-9039989-4', 'juslaboris.tst.jus.br');
+                  ga('send', 'pageview');
+           </script><script type="text/javascript">
+            $(document).ready(function() {
+                if(! $(".right-side-menu .ds-option-set-head").length ){
+                  $(".main-content").addClass("col-md-9")
+                }
+            });
+            </script><script type="text/javascript">
+			$(document).ready(function(){
+			 $(window).scroll(function () {
+					if ($(this).scrollTop() >= 600) {
+						$('#return-to-top').fadeIn(200);
+					} else {
+						$('#return-to-top').fadeOut(200);
+					}
+				});
+				// scroll body to 0px on click
+				$('#return-to-top').click(function () {
+					$('#return-to-top').tooltip('hide');
+					$('body,html').animate({
+						scrollTop: 0
+					}, 800);
+					return false;
+				});
+				
+				$('[data-toggle="backbutton"]').tooltip({
+				'delay': { show: 800, hide: 300 }
+				});
+				});
+		</script><script type="text/javascript">
+            $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+		</script><script src="/themes/Mirage2/scripts/bootstrap-multiselect.js" type="text/javascript"></script><script type="text/javascript">
+			$(document).ready(function() {
+
+		// Selecao de unidades administrativas: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_contributor_other').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma unidade selecionada',
+					filterPlaceholder: 'Digite a sigla ou parte do nome da unidade',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as unidades estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'unidades selecionadas',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de especie normativa: fluxo de submissao - colecao atos normativos
+				$('#aspect_submission_StepTransformer_field_dc_type_ato').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma espécie normativa selecionada',
+					filterPlaceholder: 'Digite a sigla ou parte do nome da espécie normativa',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as espécies normativas estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'espécies normativas selecionadas',
+					buttonWidth: '100%',
+				});
+				
+		// Selecao de metadados: tela de edicao de item
+				$('#aspect_administrative_item_EditItemMetadataForm_field_field').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhum metadado selecionado',
+					filterPlaceholder: 'Digite o metadado ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'metadado selecionado',
+					buttonWidth: '100%',
+				});
+				
+		// Selecao de grupos: tela de edicao de politica
+				$('#aspect_administrative_authorization_EditPolicyForm_field_group_id').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhum grupo selecionado',
+					filterPlaceholder: 'Digite o nome do grupo ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'grupo selecionado',
+					buttonWidth: '100%',
+				});
+				
+		// Selecao de colecoes: tela do fluxo de submissao
+				$('#aspect_submission_submit_SelectCollectionStep_field_handle').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma coleção selecionada',
+					filterPlaceholder: 'Digite o nome da coleção ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'coleção selecionada',
+					buttonWidth: '100%',
+				});
+			
+		// Selecao de espécie normativa: pesquisa estruturada - colecao atos normativos
+				$('#especienormativa').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma unidade selecionada',
+					filterPlaceholder: 'Digite a espécie ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'espécie selecionada',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de unidade administrativa: pesquisa estruturada - colecao atos normativos
+				$('#unidades').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma unidade selecionada',
+					filterPlaceholder: 'Digite a unidade ou parte do nome',
+					maxHeight: 500,
+					includeFilterClearBtn: false,
+					delimiterText: '\n',
+					numberDisplayed: 30,
+					nSelectedText: 'espécie normativa selecionada',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de categoria: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_type_genre').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma categoria selecionada',
+					filterPlaceholder: 'Digite parte do nome da categoria',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as categorias estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'categorias selecionadas',
+					buttonWidth: '100%',
+				});
+		// Selecao da situacao: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_description_status').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhuma situação selecionada',
+					filterPlaceholder: 'Digite parte do nome da situação',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: false,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todas as situações estão selecionadas',
+					numberDisplayed: 10,
+					nSelectedText: 'situações selecionadas',
+					buttonWidth: '100%',
+				});
+
+		// Selecao de natureza do documento: fluxo de submissao
+				$('#aspect_submission_StepTransformer_field_dc_type_material').multiselect({
+					enableFiltering: true,
+					filterBehavior: 'both', // possible options: 'text', 'value', 'both'
+					enableCaseInsensitiveFiltering: true,
+					nonSelectedText: 'Nenhum item selecionado',
+					filterPlaceholder: 'Digite parte do nome do item',
+					maxHeight: 300,
+					includeFilterClearBtn: true,
+					delimiterText: '\n',
+					includeSelectAllOption: true,
+					selectAllValue: '',
+					selectAllText: ' Marcar/Desmarcar tudo',
+					allSelectedText: 'Todos os itens estão selecionados',
+					numberDisplayed: 10,
+					nSelectedText: 'itens selecionados',
+					buttonWidth: '100%',
+				});
+				
+			// Script - remocao de menu de contexto para videos 		
+			$('#audiovideo').bind('contextmenu',function() { return false; });
+
+			$('#collapseExample1').bind('contextmenu',function() { return false; });
+				
+				});
+		</script>
+</body></html>

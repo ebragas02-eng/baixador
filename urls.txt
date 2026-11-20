@@ -1,20 +1,6 @@
-# ord2-trabalho (2) sumulas TST e padroes FGV
-ord2trab/sum_1_50.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_1_50.html
-ord2trab/sum_51_100.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_51_100.html
-ord2trab/sum_101_150.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_101_150.html
-ord2trab/sum_151_200.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_151_200.html
-ord2trab/sum_201_250.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_201_250.html
-ord2trab/sum_251_300.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_251_300.html
-ord2trab/sum_301_350.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_301_350.html
-ord2trab/sum_351_400.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_351_400.html
-ord2trab/sum_401_450.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_401_450.html
-ord2trab/sum_451_500.html https://www3.tst.jus.br/jurisprudencia/Sumulas_com_indice/Sumulas_Ind_451_500.html
-ord2trab/oj_sdi1_81_120.html https://www3.tst.jus.br/jurisprudencia/OJ_SDI_1/n_s1_081.htm
-ord2trab/tst_livro_internet.pdf https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf
-ord2trab/padrao46_trab.pdf https://s.oab.org.br/arquivos/2026/07/f70ccec3-97ec-43d6-8b2c-80f2effb3373.pdf
-ord2trab/padrao45_trab.pdf https://s.oab.org.br/arquivos/2026/02/b0b7aff7-63cd-4224-be2d-d660cd63c618.pdf
-ord2trab/padrao44_trab.pdf https://s.oab.org.br/arquivos/2025/11/89502b3a-b354-43c1-83f9-3136460874b3.pdf
-ord2trab/padrao42_trab.pdf https://s.oab.org.br/arquivos/2025/02/d65c5d81-4ba4-4ab1-a510-a76d0b6e3c52.pdf
-ord2trab/padrao41_trab.pdf https://s.oab.org.br/arquivos/2024/10/dc606bd8-0369-41a5-8f22-d7d3d1df71f3.pdf
-ord2trab/padrao40_trab.pdf https://s.oab.org.br/arquivos/2024/05/0cf1ae0a-45f0-414f-b62c-d38327dbca88.pdf
-ord2trab/l8036.htm https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm
+# ord2-empresarial normas 2 (locacao, representacao, propriedade industrial, arbitragem)
+ord2emp/l8245.htm https://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+ord2emp/l4886.htm https://www.planalto.gov.br/ccivil_03/leis/l4886.htm
+ord2emp/l9279.htm https://www.planalto.gov.br/ccivil_03/leis/l9279.htm
+ord2emp/l9307.htm https://www.planalto.gov.br/ccivil_03/leis/l9307.htm
+ord2emp/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm

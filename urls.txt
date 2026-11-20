@@ -1,1 +1,31 @@
-# fila em pedidos/
+# oab-lancamento reserva 1
+oabr/l8213.htm https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+oabr/l8212.htm https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm
+oabr/lcp64.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64compilado.htm
+oabr/l4737.htm https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm
+oabr/l9096.htm https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm
+oabr/l9504.htm https://www.planalto.gov.br/ccivil_03/leis/l9504compilado.htm
+oabr/l6938.htm https://www.planalto.gov.br/ccivil_03/leis/l6938compilada.htm
+oabr/lcp140.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm
+oabr/l9985.htm https://www.planalto.gov.br/ccivil_03/leis/l9985.htm
+oabr/l9605.htm https://www.planalto.gov.br/ccivil_03/leis/l9605.htm
+oabr/l12651.htm https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm
+oabr/l13445.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm
+oabr/d678.htm https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm
+oabr/l9474.htm https://www.planalto.gov.br/ccivil_03/leis/l9474.htm
+oabr/d4388.htm https://www.planalto.gov.br/ccivil_03/decreto/2002/d4388.htm
+oabr/d7030.htm https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d7030.htm
+oabr/l8742.htm https://www.planalto.gov.br/ccivil_03/leis/l8742.htm
+oabr/l7347.htm https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm
+oabr/l6830.htm https://www.planalto.gov.br/ccivil_03/leis/l6830.htm
+oabr/l10406.htm https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm
+oabr/l5452.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm
+oabr/ctn.htm https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+oabr/l8112.htm https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm
+oabr/l9784.htm https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
+oabr/l14133.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm
+oabr/l8429.htm https://www.planalto.gov.br/ccivil_03/leis/l8429.htm
+oabr/l11101.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm
+oabr/l6404.htm https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm
+oabr/l5474.htm https://www.planalto.gov.br/ccivil_03/leis/l5474.htm
+oabr/lcp123.htm https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm

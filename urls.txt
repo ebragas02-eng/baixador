@@ -1,5 +1,7 @@
-# colecao-empresarial 22/11 segunda leva
-emp/del911a.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/Del0911.htm
-emp/del911b.htm https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del0911.htm
-emp/d1102.htm https://www.planalto.gov.br/ccivil_03/decreto/antigos/d1102.htm
-emp/l11076.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11076.htm
+# colecao-empresarial 22/11 terceira leva
+emp/del911c.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del911.htm
+emp/del911d.htm https://www.planalto.gov.br/ccivil_03/Decreto-Lei/Del911.htm
+emp/del911e.htm http://www.planalto.gov.br/ccivil_03/decreto-lei/del0911.htm
+emp/l8955.htm https://www.planalto.gov.br/ccivil_03/leis/l8955.htm
+emp/tema722.htm https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=722&cod_tema_final=722
+emp/tema576.htm https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=576&cod_tema_final=576

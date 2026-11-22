@@ -1,34 +1,28 @@
-Concursos novos encontrados pelo radar da ICEAD em 21/11/2026:
-
-## Prioridade: bancos públicos, INSS e professor em estado, Distrito Federal, capital ou município grande
-
-- **PCI Nordeste** · UEMASUL - Universidade Estadual da Região Tocantina do Maranhão · https://www.pciconcursos.com.br/noticias/uemasul-ma-abre-processos-seletivos-para-professores-substitutos-em-diversas-areas
-- **Diário municipal** · Niterói/RJ · 2026-11-20 · demais espaços urbanos de uso coletivo, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos, para atender a Secretaria Municipal  · https://data.queridodiario.ok.org.br/3303302/2026-11-20/fdb86befd229ccafb029b01df9851c1005fc4661.pdf
-- **Diário municipal** · Osasco/SP · 2026-11-19 · Secretário Adjunto de Licenciamento, Cadastro Imobiliário e Controle do Uso do Solo, no uso de suas atribuições legais, torna público o seguinte: EDITAL DE NOTI · https://data.queridodiario.ok.org.br/3534401/2026-11-19/6152adf71fc0c74ca5cece8b6561e048b521b1d3.pdf
-- **Diário municipal** · Contagem/MG · 2026-11-19 · 01278785 NEWTON AMARAL FRANCO PEB 1 ENCERRADA A FLEXIBILIZAÇÃO A PARTIR DE 09/11/2026 MARIA DO SOCORRO RODRIGUES FERREI- RA SOARES SANTOS 01367338 PROFESSOR HIL · https://data.queridodiario.ok.org.br/3118601/2026-11-19/5648e5ec6613808ce89c1e1c3c574240c085fa9b.pdf
-- **Diário municipal** · Campo Mourão/PR · 2026-11-19 · previsto na Portaria n° 1396/2025 – GAPRE de redução da jornada de trabalho da servidora pública municipal Amabilis Gonçalves dos Santos de Souza, Professor de  · https://data.queridodiario.ok.org.br/4104303/2026-11-19/159654b1ecb5af3c822e94c3782d000e11c6db1b.pdf
+Concursos novos encontrados pelo radar da ICEAD em 22/11/2026:
 
 ## Professor (demais municípios)
 
-- **PCI Sudeste** · FAFIA - Faculdade de Filosofia, Ciências e Letras de Alegre · https://www.pciconcursos.com.br/noticias/fafia-es-abre-processos-seletivos-para-docentes-e-agentes-administrativos
-- **Diário municipal** · Paulínia/SP · 2026-11-19 · limite para credenciamento e recebimento das propostas: 03/12/2026 às 08h30. Início da disputa da etapa de lances: 03/12/2026 às 09h. Obtenção do Edital: gratui · https://data.queridodiario.ok.org.br/3536505/2026-11-19/7163cf76a25299365dd913314df83dd9531af98d.pdf
-- **Diário municipal** · Ourinhos/SP · 2026-11-19 · Vencimentos da Prefeitura Municipal de Ourinhos e L/C nº 911/2015 que dispõe sobre o Estatuto do Magistério dos Servidores Públicos do Município de Ourinhos dá  · https://data.queridodiario.ok.org.br/3534708/2026-11-19/16da91b0187fac3b9bcadbc57118230d6acd418b.pdf
-- **Diário municipal** · Salinas/MG · 2026-11-19 · PAIS DE ALUNOS – CACS-FUNDEB (MANDATO 2027–2030) EDITAL Nº 002/2026/SME A Comissão Eleitoral instituída pela Portaria nº 067/2026 SME, no uso de suas atribuiçõe · https://data.queridodiario.ok.org.br/3157005/2026-11-19/3b994e70f70d3480b66e3b446acd970f42677ba2.pdf
-- **Diário municipal** · Nova Serrana/MG · 2026-11-19 · estabelecida pela Resolução CD/FNDE nº 4/2026, conforme a seguinte composição: I – REPRESENTANTES DAS ENTIDADES DE TRABALHADORES DA EDUCAÇÃO E DE DOCENTES: · El · https://data.queridodiario.ok.org.br/3145208/2026-11-19/b68453fb1ffa8bdf471612ac41e9a16a3c5e911f.pdf
-- **Diário municipal** · Limoeiro de Anadia/AL · 2026-11-19 · de ensino: Titular: Mayana da Silva Timóteo; Suplente: Sibely Barbosa da Rocha. XII - Professores da rede pública de ensino: Titular: José Walter da Silva Santo · https://data.queridodiario.ok.org.br/2700000/2026-11-19/550e6790c43731d6f5e8d60d22a111a9db032ddb.pdf
-- **Diário municipal** · Botucatu/SP · 2026-11-19 · ................................................................................................................................................ Edital 13 ..... · https://data.queridodiario.ok.org.br/3507506/2026-11-19/ad16fcabb5ec2a9b97f28fc9ae85a3e59059aeb7.pdf
-- **Diário municipal** · Jaboticabal/SP · 2026-11-19 · Administrativos, nos termos da Lei Federal nº14.133, de 1º de abril de 2021. PORTARIA Nº 1.075, DE 02 DE OUTUBRO DE 2026 Nomeia candidatos aprovados em Concurso · https://data.queridodiario.ok.org.br/3524303/2026-11-19/ad710cc553bf487630f78283c632527232882359.pdf
-- **Diário municipal** · Itapevi/SP · 2026-11-19 · Eletrônica 39/2026. CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SEGURO VEICULAR INDIVIDUAL DE 03 (TRÊS) AMBULÂNCIAS. Edital disponível g  · https://data.queridodiario.ok.org.br/3522505/2026-11-19/da0056d5b984f3b041d58f078345d2ecf6eff35f.pdf
-- **Diário municipal** · Comendador Levy Gasparian/RJ · 2026-11-19 · PRECATÓRIOS DO FUNDEF2. TOTAL DAS DESPESAS COM PRECATÓRIOS DO FUNDEF 0,000,00 0,000,00 0,000,00 0,000,00 0,000,00 0,000,00 2.1- PROFISSIONAIS DO MAGISTÉRIO 0,00 · https://data.queridodiario.ok.org.br/3300951/2026-11-19/535923ca361ff098af199be1d4ea6127cec7bcbd.pdf
-- **Diário municipal** · Casimiro de Abreu/RJ · 2026-11-19 · MUNICIPAL. CONSIDERANDO os termos do Processo Administrativo nº 2.960/2023; CONSIDERANDO a necessidade de provimento dos cargos pre- vistos no Concurso Público  · https://data.queridodiario.ok.org.br/3301306/2026-11-19/f66cdeda2f3b3e4489faac9aa1f27222320e9199.pdf
-- **Diário municipal** · Mossoró/RN · 2026-11-19 ·  MARCOS ANTONIO BEZERRA DE MEDEIROS Prefeito de Mossoró PORTARIA Nº 984, DE 19 DE NOVEMBRO DE 2026 Nomeia candidata aprovada no Concurso Público regido pelo Edi · https://data.queridodiario.ok.org.br/2408003/2026-11-19/d1eaeabc35145dc65e0e31b0a121905566e98245.pdf
-- **Diário municipal** · Campo Largo/PR · 2026-11-19 · documento, desde que visualizado através de http://www.campolargo.pr.gov.brno link Diário Oficial. SUMÁ RIO ÁTOS DO PODER EXECUTIVO 3 EDITAL DE NOTIFICAÇÃO SMF/ · https://data.queridodiario.ok.org.br/4104204/2026-11-19/2aba529cf347f5d3f58020987666349cd7277bf2.pdf
-- **Diário municipal** · Dracena/SP · 2026-11-19 · NOVEMBRO DE 2026. ==================================================== Dispõe sobre a concessão de dispensa remunerada do ponto aos servidores não docentes da R · https://data.queridodiario.ok.org.br/3514403/2026-11-19/a444989bccfe747884c9488325b312454897f527.pdf
-- **Diário municipal** · Taubaté/SP · 2026-11-19 · Instituto de Previdência do Município de Taubaté - IPMT ................. 29 Universidade de Taubaté - UNITAU ..................................... 30 Edital Pu · https://data.queridodiario.ok.org.br/3554102/2026-11-19/310c5865f123cc3248e673bb7fe9fd408590dde8.pdf
+- **PCI Sul** · Prefeitura de Blumenau · https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio
 
 ## Outras áreas
 
-- **PCI Nordeste** · Prefeitura de Araripina · https://www.pciconcursos.com.br/noticias/prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos
+- **FGV** · Concurso Público para o Tribunal de Contas do Estado do Tocantins · https://conhecimento.fgv.br/concursos/tceto22
+- **PCI Sudeste** · Conselho Tutelar de Timburi · https://www.pciconcursos.com.br/noticias/prefeitura-de-timburi-sp-abre-processo-seletivo-para-conselheiros-tutelares-com-salario-de-2600
+- **PCI Sudeste** · Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca · https://www.pciconcursos.com.br/noticias/cefet-rj-rj-abre-processo-seletivo-com-310-vagas-para-cursos-tecnicos-subsequentes
+- **PCI Sul** · Prefeitura de Bandeirantes · https://www.pciconcursos.com.br/noticias/prefeitura-de-bandeirantes-pr-abre-selecao-com-29-vagas-para-motorista-e-vigia
+- **PCI Sul** · Prefeitura de Encruzilhada do Sul · https://www.pciconcursos.com.br/noticias/prefeitura-de-encruzilhada-do-sul-rs-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas
+- **PCI Sul** · Prefeitura de Abelardo Luz · https://www.pciconcursos.com.br/noticias/prefeitura-de-abelardo-luz-sc-abre-processo-seletivo-com-12-vagas-e-cadastro-reserva
+- **PCI Sul** · Prefeitura de Brusque · https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-abre-selecao-com-20-vagas-e-cadastro-reserva-na-educacao
+- **PCI Sul** · Prefeitura de Cocal do Sul · https://www.pciconcursos.com.br/noticias/prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao
+- **PCI Sul** · Prefeitura de Orleans · https://www.pciconcursos.com.br/noticias/prefeitura-de-orleans-sc-abre-processo-seletivo-para-o-setor-da-educacao-em-2027
+- **PCI Sul** · Prefeitura de Palmitos · https://www.pciconcursos.com.br/noticias/prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258
+- **PCI Sul** · Prefeitura de Santa Terezinha do Progresso · https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-publico-com-salarios-de-ate-10000
+- **PCI Sul** · Prefeitura de São Joaquim · https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-selecao-para-cadastro-reserva-em-diversas-areas
+- **PCI Sul** · Prefeitura de Treze de Maio · https://www.pciconcursos.com.br/noticias/prefeitura-de-treze-de-maio-sc-altera-edital-de-processo-seletivo-para-cargos-temporarios
+- **PCI Nordeste** · Prefeitura de São Desidério · https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-desiderio-ba-abre-selecao-com-salarios-de-ate-8032
+- **DOU** · 21/11/2026 · PORTARIA Nº 4.066, DE 21 DE NOVEMBRO DE 2026 · Ministério da Integração e do Desenvolvimento Regional/Secretaria Nacional de Pr · https://www.in.gov.br/web/dou/-/portaria-n-4.066-de-21-de-novembro-de-2026-745539488
 
+
+Fontes que não responderam hoje: Diário municipal: HTTP Error 503: Service Unavailable
 
 Próximo passo: ler o edital e avaliar se a ICEAD tem condições de preparar o material (rotina semanal).

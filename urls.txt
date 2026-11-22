@@ -1,6 +1,2 @@
-# colecao-empresarial 22/11 quarta leva (LUG e DL 911)
-emp/d57663.htm https://www.planalto.gov.br/ccivil_03/decreto/antigos/d57663.htm
-emp/d57663b.htm https://www.planalto.gov.br/ccivil_03/decreto/1950-1969/d57663.htm
-emp/del911.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del0911.htm
-emp/del911b.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/Del0911.htm
-emp/portaria88.htm https://www.gov.br/cade/pt-br/assuntos/noticias/valores-de-faturamento-para-notificacao-de-atos-de-concentracao
+# colecao-empresarial 22/11 quinta leva (anexo LUG)
+emp/an57663.pdf https://www.planalto.gov.br/ccivil_03/decreto/1950-1969/anexo/an57663-66.pdf

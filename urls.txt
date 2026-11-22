@@ -1,2 +1,10 @@
-# tarefa ord2-escrita-b (fontes oficiais) 7
-esc_b/jl_428.html https://juslaboris.tst.jus.br/discover?query=%22S%C3%BAmula+n.+428%22+sobreaviso&rpp=20
+# colecao-empresarial 22/11 leis faltantes
+emp/l13775.htm https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13775.htm
+emp/del911.htm https://www.planalto.gov.br/ccivil_03/decreto-lei/del0911.htm
+emp/l9514.htm https://www.planalto.gov.br/ccivil_03/leis/l9514.htm
+emp/l4595.htm https://www.planalto.gov.br/ccivil_03/leis/l4595.htm
+emp/l6024.htm https://www.planalto.gov.br/ccivil_03/leis/l6024.htm
+emp/d11129.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11129.htm
+emp/l6099.htm https://www.planalto.gov.br/ccivil_03/leis/l6099.htm
+emp/l10931.htm https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.931.htm
+emp/l14112.htm https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14112.htm

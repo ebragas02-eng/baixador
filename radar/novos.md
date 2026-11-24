@@ -1,67 +1,34 @@
-Concursos novos encontrados pelo radar da ICEAD em 23/11/2026:
+Concursos novos encontrados pelo radar da ICEAD em 24/11/2026:
 
 ## Prioridade: bancos públicos, INSS e professor em estado, Distrito Federal, capital ou município grande
 
-- **PCI Sudeste** · Unesp - Universidade Estadual Paulista · https://www.pciconcursos.com.br/noticias/unesp-sp-abre-concursos-para-professor-substituto-em-aracatuba
-- **PCI Sudeste** · Unesp - Universidade Estadual Paulista · https://www.pciconcursos.com.br/noticias/unesp-sp-abre-vagas-para-professor-substituto-em-botucatu
-- **PCI Sudeste** · Unesp - Universidade Estadual Paulista Júlio de Mesquita Filho · https://www.pciconcursos.com.br/noticias/unesp-sp-concurso-publico-oferece-vaga-para-professor-titular-com-salario-de-25261
-- **PCI Sudeste** · Unifesp - Universidade Federal de São Paulo · https://www.pciconcursos.com.br/noticias/unifesp-sp-abre-vaga-para-professor-substituto-com-salario-de-6157
-- **PCI Sudeste** · UEMG - Universidade do Estado de Minas Gerais · https://www.pciconcursos.com.br/noticias/uemg-mg-abre-selecao-com-19-vagas-para-professor-de-educacao-superior-em-guanhaes
-- **PCI Sudeste** · UFJF - Universidade Federal de Juiz de Fora · https://www.pciconcursos.com.br/noticias/ufjf-mg-abre-processo-seletivo-para-professor-substituto-de-medicina-em-governador-valadares
-- **PCI Sudeste** · UFJF - Universidade Federal de Juiz de Fora · https://www.pciconcursos.com.br/noticias/ufjf-mg-abre-processo-seletivo-para-professor-substituto-com-salario-de-5130
-- **PCI Sudeste** · UFJF - Universidade Federal de Juiz de Fora · https://www.pciconcursos.com.br/noticias/ufjf-mg-abre-selecoes-para-professores-com-salarios-de-ate-5949
-- **PCI Sudeste** · UFJF - Universidade Federal de Juiz de Fora · https://www.pciconcursos.com.br/noticias/ufjf-mg-abre-processo-seletivo-para-professor-substituto-com-salario-de-5949
-- **PCI Sudeste** · UFJF - Universidade Federal de Juiz de Fora · https://www.pciconcursos.com.br/noticias/ufjf-mg-abre-processo-seletivo-para-professor-substituto-de-jornalismo
-- **PCI Sudeste** · UFJF - Universidade Federal de Juiz de Fora · https://www.pciconcursos.com.br/noticias/ufjf-mg-abre-processo-seletivo-para-professor-substituto-com-salario-de-4975-em-governador-valadares
-- **Diário municipal** · Castro/PR · 2026-11-22 · reestruturação e gestão do Plano de Carreira dos Profissionais do Magistério Público do Município de Castro, Estado do Paraná, passa a vigorar com a seguinte re · https://data.queridodiario.ok.org.br/4104907/2026-11-22/fe9c2d12a66cd6c62ede21df9dcbd33e3d902786.pdf
-
-## Professor (demais municípios)
-
-- **PCI Sudeste** · Prefeitura de Catiguá · https://www.pciconcursos.com.br/noticias/prefeitura-de-catigua-sp-abre-vagas-para-professores-em-diversas-especialidades
-- **PCI Sudeste** · Prefeitura de Vila Pavão · https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-pavao-es-abre-processo-seletivo-para-professor-bolsista-do-paes
-- **PCI Sul** · IFPR - Instituto Federal de Educação, Ciência e Tecnologia do Paraná · https://www.pciconcursos.com.br/noticias/ifpr-pr-abre-selecao-para-professor-substituto-de-matematica-em-cascavel
-- **PCI Sul** · IFPR - Instituto Federal de Educação, Ciência e Tecnologia do Paraná · https://www.pciconcursos.com.br/noticias/ifpr-pr-abre-processos-seletivos-para-professores-substitutos-no-campus-cascavel
-- **PCI Sul** · FURG - Universidade Federal do Rio Grande · https://www.pciconcursos.com.br/noticias/furg-rs-abre-processo-seletivo-para-13-vagas-de-professor-substituto
-- **PCI Sul** · IFFar - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha · https://www.pciconcursos.com.br/noticias/iffar-rs-abre-selecao-para-professores-substitutos-com-salarios-de-ate-8-mil
-- **PCI Sul** · IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul · https://www.pciconcursos.com.br/noticias/ifrs-rs-abre-selecao-para-professores-substitutos-no-campus-porto-alegre
-- **PCI Sul** · IFC - Instituto Federal Catarinense · https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-para-professor-substituto-de-quimica-em-blumenau
-- **PCI Sul** · IFC - Instituto Federal Catarinense · https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-para-professor-substituto-no-campus-luzerna
-- **PCI Sul** · Prefeitura de Otacílio Costa · https://www.pciconcursos.com.br/noticias/prefeitura-de-otacilio-costa-sc-abre-selecao-para-professores-de-educacao-infantil-em-regime-de-plantao
-- **PCI Sul** · Secretaria Municipal de Educação e Cultura de Jaguaruna · https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaruna-sc-abre-selecao-para-professor-atuar-na-apae
-- **Diário municipal** · Monte Alto/SP · 2026-11-21 · anterior. http://www.montealto.sp.gov.br/diario mailto:diariooficial@montealto.sp.gov.br EDITAL DE NOMEAÇÃO Concurso Público 01/2024 Maria Helena Aguiar Rettond · https://data.queridodiario.ok.org.br/3531308/2026-11-21/9b4e6f8931b6efe586150c551d271e9dc1c8088b.pdf
+- **PCI Sudeste** · IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo · https://www.pciconcursos.com.br/noticias/ifsp-sp-abre-processo-seletivo-para-professor-substituto-com-salarios-de-ate-8340
 
 ## Outras áreas
 
-- **PCI Sudeste** · Câmara de Guarujá · https://www.pciconcursos.com.br/noticias/camara-de-guaruja-sp-abre-concurso-com-salario-de-17868-para-procurador-legislativo
-- **PCI Sudeste** · Prefeitura da Estância Turística de Sertãozinho · https://www.pciconcursos.com.br/noticias/prefeitura-de-sertaozinho-sp-abre-selecao-com-salarios-de-ate-8732-na-educacao
-- **PCI Sudeste** · Prefeitura de Adolfo · https://www.pciconcursos.com.br/noticias/prefeitura-de-adolfo-sp-abre-concurso-publico-para-o-cargo-de-contador
-- **PCI Sudeste** · Prefeitura de Altair · https://www.pciconcursos.com.br/noticias/prefeitura-de-altair-sp-abre-tres-editais-com-41-vagas-e-cadastro-reserva
-- **PCI Sudeste** · Prefeitura de Iepê · https://www.pciconcursos.com.br/noticias/prefeitura-de-iepe-sp-abre-concurso-com-salarios-de-ate-6520
-- **PCI Sudeste** · Prefeitura de Itupeva · https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-concurso-com-salarios-de-ate-13289
-- **PCI Sudeste** · Prefeitura de Lutécia · https://www.pciconcursos.com.br/noticias/prefeitura-de-lutecia-sp-abre-concurso-e-processo-seletivo-para-cadastro-reserva
-- **PCI Sudeste** · Prefeitura de Sete Barras · https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-barras-sp-abre-concurso-publico-com-42-vagas-e-salarios-de-ate-6449
-- **PCI Sudeste** · Prefeitura de Teodoro Sampaio · https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-processos-seletivos-para-cadastro-reserva
-- **PCI Sudeste** · Sebrae - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo · https://www.pciconcursos.com.br/noticias/sebrae-sp-abre-selecao-para-analista-com-salario-de-13814-000
-- **PCI Sudeste** · Prefeitura de Curvelo · https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-processo-seletivo-para-o-cargo-de-lacador-manejador-de-animais
-- **PCI Sudeste** · Prefeitura de Japaraíba · https://www.pciconcursos.com.br/noticias/prefeitura-de-japaraiba-mg-abre-selecoes-com-nove-vagas-e-salarios-de-ate-3227
-- **PCI Sudeste** · SEMEC - Secretaria Municipal de Educação · https://www.pciconcursos.com.br/noticias/semec-de-nova-serrana-mg-abre-processo-seletivo-para-diversos-cargos-na-educacao
-- **PCI Sudeste** · Prefeitura de Ponto Belo · https://www.pciconcursos.com.br/noticias/prefeitura-de-ponto-belo-es-abre-processo-seletivo-com-salario-de-15000-para-medicos
-- **PCI Sul** · Prefeitura do Município de Nova Aliança do Ivaí · https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-alianca-do-ivai-pr-abre-concurso-para-agente-de-combate-as-endemias
-- **PCI Sul** · Prefeitura de Casca · https://www.pciconcursos.com.br/noticias/prefeitura-de-casca-rs-abre-processos-seletivos-para-motorista-e-operador-de-maquinas-com-salarios-de-ate-3380
-- **PCI Sul** · Prefeitura de Torres · https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-processo-seletivo-para-diretores-e-vice-diretores-escolares
-- **PCI Sul** · Prefeitura de Arroio Trinta · https://www.pciconcursos.com.br/noticias/prefeitura-de-arroio-trinta-sc-abre-processos-seletivos-com-salarios-de-ate-7221
-- **PCI Sul** · Prefeitura de Braço do Trombudo · https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-trombudo-sc-abre-concurso-com-salarios-de-ate-8981
-- **PCI Sul** · Prefeitura de Faxinal dos Guedes · https://www.pciconcursos.com.br/noticias/prefeitura-de-faxinal-dos-guedes-sc-suspende-concurso-e-processo-seletivo
-- **PCI Nordeste** · Prefeitura de São Miguel dos Milagres · https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-dos-milagres-al-abre-concurso-com-232-vagas-e-salarios-de-ate-10-mil
-- **PCI Nordeste** · Prefeitura de Gurjão · https://www.pciconcursos.com.br/noticias/prefeitura-de-gurjao-pb-abre-concurso-publico-com-40-vagas-e-salarios-de-ate-14000
-- **PCI Nordeste** · Câmara de Ipubi · https://www.pciconcursos.com.br/noticias/camara-de-ipubi-pe-abre-concurso-publico-com-7-vagas-imediatas
-- **PCI Norte** · CRBM-4 - Conselho Regional de Biomedicina da 4ª Região · https://www.pciconcursos.com.br/noticias/crbm-4-regiao-am-abre-processo-seletivo-para-agente-administrativo-em-manaus
-- **PCI Centro-Oeste** · Prefeitura de Acreúna · https://www.pciconcursos.com.br/noticias/prefeitura-de-acreuna-go-abre-selecao-com-19-vagas-e-salarios-de-ate-4-5-mil
-- **PCI Centro-Oeste** · Prefeitura de Chapadão do Sul · https://www.pciconcursos.com.br/noticias/prefeitura-de-chapadao-do-sul-ms-abre-selecao-para-profissionais-da-educacao
-- **PCI Centro-Oeste** · Secretaria Municipal de Educação de Guia Lopes da Laguna · https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-educacao-de-guia-lopes-da-laguna-ms-abre-selecao-para-monitor-de-transporte-escolar
-- **PCI Centro-Oeste** · Secretaria Municipal de Educação e Cultura de Coronel Sapucaia · https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-sapucaia-ms-abre-selecao-para-educacao-com-vagas-imediatas-e-cadastro-reserva
+- **PCI Sudeste** · Prefeitura de Alambari · https://www.pciconcursos.com.br/noticias/prefeitura-de-alambari-sp-abre-processo-seletivo-para-cadastro-de-reserva-na-educacao
+- **PCI Sudeste** · Unicamp - Universidade Estadual de Campinas · https://www.pciconcursos.com.br/noticias/unicamp-sp-publica-editais-retificados-de-selecao-para-enfermeiro-e-tecnico-de-enfermagem
+- **PCI Norte** · Prefeitura de Santana · https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-ap-abre-concurso-com-50-vagas-para-guarda-civil-municipal
+- **DOU** · 24/11/2026 · PORTARIA Nº 12 SS.5/SVP/2, DE 17 DE NOVEMBRO DE 2026 · Ministério da Defesa/Comando do Exército/Comando Militar do Sudeste/2ª Região Mi · https://www.in.gov.br/web/dou/-/portaria-n-12-ss.5/svp/2-de-17-de-novembro-de-2026-746070529
+- **DOU** · 24/11/2026 · PORTARIA Nº 2.538/GR/IFAM, DE 23 DE NOVEMBRO DE 2026 · Ministério da Educação/Instituto Federal de Educação, Ciência e Tecnologia do Am · https://www.in.gov.br/web/dou/-/portaria-n-2.538/gr/ifam-de-23-de-novembro-de-2026-746070393
+- **DOU** · 24/11/2026 · PORTARIA Nº 4.434 - REI/IFG, DE 23 DE NOVEMBRO DE 2026 · Ministério da Educação/Instituto Federal de Educação, Ciência e Tecnologia de Go · https://www.in.gov.br/web/dou/-/portaria-n-4.434-rei/ifg-de-23-de-novembro-de-2026-746070371
+- **DOU** · 24/11/2026 · PORTARIA Nº 5.768/GAB-RET-IFSULDEMINAS, DE 23 DE NOVEMBRO DE 2026 · Ministério da Educação/Instituto Federal de Educação, Ciência e Tecnologia do Su · https://www.in.gov.br/web/dou/-/portaria-n-5.768/gab-ret-ifsuldeminas-de-23-de-novembro-de-2026-746070292
+- **DOU** · 24/11/2026 · PORTARIAS DE 23 DE NOVEMBRO DE 2026 · Ministério da Educação/Universidade Federal do Norte do Tocantins · https://www.in.gov.br/web/dou/-/portarias-de-23-de-novembro-de-2026-746070076
+- **DOU** · 24/11/2026 · PORTARIA PROGEP-DPC Nº 155, DE 19 DE NOVEMBRO DE 2026 · Ministério da Educação/Universidade Federal da Paraíba · https://www.in.gov.br/web/dou/-/portaria-progep-dpc-n-155-de-19-de-novembro-de-2026-746070055
+- **DOU** · 24/11/2026 · PORTARIAS DE 23 DE NOVEMBRO DE 2026 · Ministério da Educação/Universidade Federal Rural de Pernambuco · https://www.in.gov.br/web/dou/-/portarias-de-23-de-novembro-de-2026-746069920
+- **DOU** · 24/11/2026 · PORTARIA DEPRO/SGP/MGI N° 13.774, DE 16 DE NOVEMBRO DE 2026 · Ministério da Gestão e da Inovação em Serviços Públicos/Secretaria de Gestão de  · https://www.in.gov.br/web/dou/-/portaria-depro/sgp/mgi-n-13.774-de-16-de-novembro-de-2026-746069739
+- **DOU** · 24/11/2026 · PORTARIA CGBEN/DECIPEX/SGP/MGI Nº 13.692, DE 12 DE NOVEMBRO DE 2026 · Ministério da Gestão e da Inovação em Serviços Públicos/Secretaria de Gestão de  · https://www.in.gov.br/web/dou/-/portaria-cgben/decipex/sgp/mgi-n-13.692-de-12-de-novembro-de-2026-746069660
+- **DOU** · 24/11/2026 · Portaria DE PESSOAL DGP/SSC/MGI Nº 14.096, DE 23 DE NOVEMBRO DE 2026 · Ministério da Gestão e da Inovação em Serviços Públicos/Secretaria de Serviços C · https://www.in.gov.br/web/dou/-/portaria-de-pessoal-dgp/ssc/mgi-n-14.096-de-23-de-novembro-de-2026-746069581
+- **DOU** · 24/11/2026 · PORTARIA Nº 203, DE 23 DE NOVEMBRO DE 2026 · Ministério da Justiça e Segurança Pública/Gabinete do Ministro · https://www.in.gov.br/web/dou/-/portaria-n-203-de-23-de-novembro-de-2026-746069502
+- **DOU** · 24/11/2026 · PORTARIA DE PESSOAL IBAMA Nº 2.419, DE 19 DE NOVEMBRO DE 2026 · Ministério do Meio Ambiente e Mudança do Clima/Instituto Brasileiro do Meio Ambi · https://www.in.gov.br/web/dou/-/portaria-de-pessoal-ibama-n-2.419-de-19-de-novembro-de-2026-746069423
+- **DOU** · 24/11/2026 · PORTARIA SNPGB/MME Nº 236, DE 23 DE NOVEMBRO DE 2026 · Ministério de Minas e Energia/Secretaria Nacional de Petróleo, Gás Natural e Bio · https://www.in.gov.br/web/dou/-/portaria-snpgb/mme-n-236-de-23-de-novembro-de-2026-746069265
+- **DOU** · 24/11/2026 · PORTARIA Nº 5, DE 23 DE NOVEMBRO DE 2026 · Ministério das Relações Exteriores/Embaixada do Brasil em Dacar · https://www.in.gov.br/web/dou/-/portaria-n-5-de-23-de-novembro-de-2026-746068870
+- **DOU** · 24/11/2026 · PORTARIA Nº 119, DE 18 DE NOVEMBRO DE 2026 · Ministério Público da União/Ministério Público do Trabalho/Procuradoria Regional · https://www.in.gov.br/web/dou/-/portaria-n-119-de-18-de-novembro-de-2026-746068475
+- **DOU** · 24/11/2026 · PORTARIA SG/MPU Nº 209, DE 23 DE NOVEMBRO DE 2026 · Ministério Público da União/Secretaria-Geral · https://www.in.gov.br/web/dou/-/portaria-sg/mpu-n-209-de-23-de-novembro-de-2026-746068396
+- **DOU** · 24/11/2026 · PORTARIA GP/DG/SGPE Nº 3.516, DE 23 DE NOVEMBRO DE 2026 · Poder Judiciário/Tribunal Regional do Trabalho da 18ª Região · https://www.in.gov.br/web/dou/-/portaria-gp/dg/sgpe-n-3.516-de-23-de-novembro-de-2026-746068317
+- **DOU** · 24/11/2026 · PORTARIA TRT/GP/DG Nº 272, DE 23 DE NOVEMBRO DE 2026 · Poder Judiciário/Tribunal Regional do Trabalho da 24ª Região · https://www.in.gov.br/web/dou/-/portaria-trt/gp/dg-n-272-de-23-de-novembro-de-2026-746068238
+- **DOU** · 24/11/2026 · DESPACHOS DE 23 DE NOVEMBRO DE 2026 · Ministério da Agricultura e Pecuária/Secretaria Executiva · https://www.in.gov.br/web/dou/-/despachos-de-23-de-novembro-de-2026-746068159
+- **DOU** · 24/11/2026 · PORTARIA Nº 5.896/PROGESP/CPII, DE 23 DE NOVEMBRO DE 2026 · Ministério da Educação/Colégio Pedro II/Pró-Reitoria de Gestão de Pessoas · https://www.in.gov.br/web/dou/-/portaria-n-5.896/progesp/cpii-de-23-de-novembro-de-2026-746068001
 
-
-Fontes que não responderam hoje: DOU: HTTP Error 502: Bad Gateway
 
 Próximo passo: ler o edital e avaliar se a ICEAD tem condições de preparar o material (rotina semanal).
